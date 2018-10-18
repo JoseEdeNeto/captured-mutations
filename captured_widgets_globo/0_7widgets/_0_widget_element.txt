@@ -1,0 +1,1 @@
+<div id="user-bar" class="home-header__icon-profile aria-check-hovered old_mutation" title="Faça seu login"></div>

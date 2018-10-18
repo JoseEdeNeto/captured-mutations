@@ -1,0 +1,8 @@
+<script style="" class=" old_mutation">
+    var criticalLazyList = document.querySelectorAll('[data-first-lazyload]'),
+        i;
+
+    for (i = 0; i < criticalLazyList.length; i++) {
+        hui.fn.fixImageDraft(criticalLazyList[i]);
+    }
+</script>

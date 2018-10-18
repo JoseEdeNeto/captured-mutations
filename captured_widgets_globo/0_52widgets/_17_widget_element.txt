@@ -1,0 +1,1 @@
+<th class=" aria-check-hovered old_mutation">COMPRA</th>

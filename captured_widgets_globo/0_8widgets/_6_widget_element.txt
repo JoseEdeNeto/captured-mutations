@@ -1,0 +1,1 @@
+<div class="column hui-publicidade--banner_home2 show-for-small-only old_mutation" style=""><div class="tag-manager-publicidade-container" data-publicidade="banner_home2"></div></div>

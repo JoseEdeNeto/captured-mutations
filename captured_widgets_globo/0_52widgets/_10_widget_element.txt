@@ -1,0 +1,1 @@
+<sup class="widget-economia__percent aria-check-hovered old_mutation">%</sup>

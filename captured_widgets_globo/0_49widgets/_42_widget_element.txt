@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="'Cartola': Fla aparece como principal opção entre dicas de defesa" data-url="https://globoesporte.globo.com/cartola-fc/dicas/noticia/dicas-de-defesa-30-apostam-em-tres-goleiros-laterais-e-zagueiros-para-a-rodada.ghtml" data-image-url="https://s2.glbimg.com/OGS0UYrGvd3mj-kb7xT0O4t-QOY=/0x33:1998x1398/293x200/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/F/Q/DVxvPcSGyxGiYLt6rrYQ/15397058122041.jpg"></div></div>

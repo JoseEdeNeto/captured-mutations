@@ -1,0 +1,1 @@
+<td class=" aria-check-hovered old_mutation">Dólar</td>

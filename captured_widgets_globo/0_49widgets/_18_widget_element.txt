@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Último texto de jornalista sumido faz apelo contundente" data-url="https://oglobo.globo.com/mundo/washington-post-publica-coluna-escrita-por-jornalista-saudita-antes-do-seu-sumico-23164370" data-image-url="https://s2.glbimg.com/R9FYZ9C7nAwYYQS1fwBu_Iynyt4=/0x282:1867x1555/293x200/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/B/S/2XoHp6RLy8WykjGFgABQ/2018-10-04t161445z-948056812-rc1628f99cb0-rtrmadp-3-saudi-politics-dissident.jpg"></div></div>

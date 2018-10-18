@@ -1,0 +1,132 @@
+<div class="column large-12 hui-premium__wrapper-collumn--main aria-check-hovered old_mutation"><div class="areatemplate_destaques_esquerda_topo_globo_com_2016 aria-check-hovered old_mutation"><div class="hui-premium
+            hui-premium-manchete
+            home-analytics-id-P
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+         aria-check-hovered old_mutation"><a href="https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/18/saiba-mais-sobre-as-propostas-de-bolsonaro-e-haddad-para-o-bolsa-familia.ghtml" title="Veja as propostas de Bolsonaro e Haddad para o Bolsa Família" class="hui-premium__link
+            hui-highlight__link
+            
+     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">Veja as propostas de Bolsonaro e Haddad para o Bolsa Família</p></a><ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/18/pesquisas-ibope-para-presidente-nos-estados-veja-a-intencao-de-voto-no-2o-turno.ghtml" title="Pesquisas mostram o cenário do 2º turno em 5 estados e no DF" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
+        
+        Pesquisas mostram o cenário do 2º turno em 5 estados e no DF
+        </a></li></ul></div><div class="hui-premium__divider ">&nbsp;</div></div><div class="areatemplate_destaques_esquerda_inferior_globo_com_2016 aria-check-hovered old_mutation"><div class="row hui-premium-multiple__container aria-check-hovered old_mutation"><div class="hui-premium-multiple__list aria-check-hovered old_mutation"><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a href="https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2018/noticia/2018/10/18/tre-rj-mantem-biometria-no-2o-turno-mas-nao-cre-em-novas-filas-houve-muita-confusao-por-serem-seis-cargos.ghtml" title="TRE-RJ mantém a biometria e crê em filas menores" class="hui-premium__link
+            hui-highlight__link
+            
+    "><p class="hui-premium__title">TRE-RJ mantém a biometria e crê em filas menores</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://oglobo.globo.com/fato-ou-fake/veja-que-fato-ou-fake-nas-falas-dos-candidatos-ao-governo-do-rj-no-debate-de-globo-extra-epoca-23163819" title="Veja fato ou fake do debate de Witzel e Paes" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Veja fato ou fake do debate de Witzel e Paes
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only mutation_widget" style="">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+         aria-check-hovered old_mutation"><a href="https://g1.globo.com/politica/blog/andreia-sadi/post/2018/10/18/temer-reune-equipe-para-discutir-andamento-do-relatorio-da-policia-federal-na-pgr.ghtml" title="Indiciado, Temer reúne equipe e discute relatório" class="hui-premium__link
+            hui-highlight__link
+            
+     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">Indiciado, Temer reúne equipe e discute relatório</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://oglobo.globo.com/marun-diz-que-temer-ficou-indignado-abalado-com-indiciamento-23163640" title="'Abalado e indignado', diz Marun sobre Temer" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        'Abalado e indignado', diz Marun sobre Temer
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only mutation_widget" style="">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a href="https://g1.globo.com/ma/maranhao/noticia/2018/10/18/pf-cumpre-mandado-de-prisao-temporaria-contra-ex-secretario-de-saude-do-maranhao.ghtml" title="No MA, PF busca ex-secretário por desvio na Saúde" class="hui-premium__link
+            hui-highlight__link
+            
+    "><p class="hui-premium__title">No MA, PF busca ex-secretário por desvio na Saúde</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://g1.globo.com/pi/piaui/noticia/2018/10/18/gaeco-e-prf-cumprem-mandado-de-busca-e-apreensao-na-casa-de-prefeito-de-cocal.ghtml" title="Operação faz buscas na casa de prefeito no PI" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Operação faz buscas na casa de prefeito no PI
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only mutation_widget" style="">&nbsp;</div></div></div><div class="row column hui-publicidade--banner_home1"><div id="banner_home1" class="tag-manager-publicidade-container"></div></div><div class="row hui-premium-multiple__container"><div class="hui-premium-multiple__list"><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+            
+                hui-color-journalism
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://g1.globo.com/sp/sao-paulo/noticia/2018/10/18/pf-apreende-pistolas-escondidas-em-embalagens-de-perfume-em-congonhas.ghtml" data-title="PF apreende armas raspadas em Congonhas" data-img="https://s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" href="https://g1.globo.com/sp/sao-paulo/noticia/2018/10/18/pf-apreende-pistolas-escondidas-em-embalagens-de-perfume-em-congonhas.ghtml" title="PF apreende armas raspadas em Congonhas (Reprodução/TV Globo)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/inKpyDg1KmrhKgpVM1BBkTILLBE=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" data-srcset="https://s2.glbimg.com/inKpyDg1KmrhKgpVM1BBkTILLBE=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/fgkxWXA5l-u_Fn4x6uwspohznY4=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" data-srcset="https://s2.glbimg.com/fgkxWXA5l-u_Fn4x6uwspohznY4=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/Qev4mL_zh0HIGFKbNj0Q7mCH4I4=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" data-srcset="https://s2.glbimg.com/Qev4mL_zh0HIGFKbNj0Q7mCH4I4=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/XdrwtV9m7WooeIUcwXOuByYj3wM=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" data-srcset="https://s2.glbimg.com/XdrwtV9m7WooeIUcwXOuByYj3wM=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/WObU0_Kfz4q7XJ_H4W011iTGEys=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" data-srcset="https://s2.glbimg.com/WObU0_Kfz4q7XJ_H4W011iTGEys=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="PF apreende armas raspadas em Congonhas (Reprodução/TV Globo)" title="PF apreende armas raspadas em Congonhas (Reprodução/TV Globo)" src="https://s2.glbimg.com/Qev4mL_zh0HIGFKbNj0Q7mCH4I4=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/yRh3hfRGwU-SafFPPa43JHffvIA=/61x278:1280x962/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/T/Cqz5BhQGGhKjCSealwag/glock.jpg"></picture><p class="hui-premium__title">PF apreende armas raspadas em Congonhas</p></a></div><div class="hui-premium__divider column show-for-small-only">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+            
+                hui-color-journalism
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://g1.globo.com/rj/regiao-serrana/noticia/2018/10/18/policia-detem-suspeitos-de-pichar-capela-com-suasticas-nazistas-no-rj.ghtml" data-title="Polícia identifica três suspeitos de pichar suástica" data-img="https://s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" href="https://g1.globo.com/rj/regiao-serrana/noticia/2018/10/18/policia-detem-suspeitos-de-pichar-capela-com-suasticas-nazistas-no-rj.ghtml" title="Polícia identifica três suspeitos de pichar suástica (Reprodução Facebook)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/C0IyHUnidMRiJ-fxE8xs8TqO1_g=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" data-srcset="https://s2.glbimg.com/C0IyHUnidMRiJ-fxE8xs8TqO1_g=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/0iKPbmO0TFMa_pY19BL4nSX5ukU=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" data-srcset="https://s2.glbimg.com/0iKPbmO0TFMa_pY19BL4nSX5ukU=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/H2i3XLfNx5JWoSsxs5Z6YBj7UUA=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" data-srcset="https://s2.glbimg.com/H2i3XLfNx5JWoSsxs5Z6YBj7UUA=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/GZBdRsALDOLoMQN0Q__d3LqPWRE=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" data-srcset="https://s2.glbimg.com/GZBdRsALDOLoMQN0Q__d3LqPWRE=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/CRA3JO_n_Y-DpYhcxaqX7AYR6HQ=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" data-srcset="https://s2.glbimg.com/CRA3JO_n_Y-DpYhcxaqX7AYR6HQ=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="Polícia identifica três suspeitos de pichar suástica (Reprodução Facebook)" title="Polícia identifica três suspeitos de pichar suástica (Reprodução Facebook)" src="https://s2.glbimg.com/H2i3XLfNx5JWoSsxs5Z6YBj7UUA=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/Zug9OMz5e-dlHjHVogRAssbF8QA=/0x298:257x448/257x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/v/T/hcGZ9JQfO5u55TU5H0Cw/igreja.png"></picture><p class="hui-premium__title">Polícia identifica três suspeitos de pichar suástica</p></a></div><div class="hui-premium__divider column show-for-small-only">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+            
+                hui-color-journalism
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/10/18/corregedoria-da-policia-civil-faz-operacao-para-prender-dois-delegados.ghtml" data-title="Presos delegados por sequestro de traficante no RJ" data-img="https://s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" href="https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/10/18/corregedoria-da-policia-civil-faz-operacao-para-prender-dois-delegados.ghtml" title="Presos delegados por sequestro de traficante no RJ (Reprodução / TV Globo)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/Upu5LfijechN8umf-EOBpRfqSlM=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" data-srcset="https://s2.glbimg.com/Upu5LfijechN8umf-EOBpRfqSlM=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/HBUwKW6CQjto7xtS2ZiaEl0907k=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" data-srcset="https://s2.glbimg.com/HBUwKW6CQjto7xtS2ZiaEl0907k=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/e7sENLd_iYP5czsGPh2zFsrEjd0=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" data-srcset="https://s2.glbimg.com/e7sENLd_iYP5czsGPh2zFsrEjd0=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/4HJ_J8rPXpggm897b568f_hFDQU=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" data-srcset="https://s2.glbimg.com/4HJ_J8rPXpggm897b568f_hFDQU=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/1PXNbUzPTnqSPyNAxe026JEhfJ4=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" data-srcset="https://s2.glbimg.com/1PXNbUzPTnqSPyNAxe026JEhfJ4=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="Presos delegados por sequestro de traficante no RJ (Reprodução / TV Globo)" title="Presos delegados por sequestro de traficante no RJ (Reprodução / TV Globo)" src="https://s2.glbimg.com/e7sENLd_iYP5czsGPh2zFsrEjd0=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/QK5FLPkZkErrMbLrJ_EMQYajhJo=/823x216:1336x504/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/V/W/WxMJAcSmSxrRZH0Wj2Ng/delegadorj.jpg"></picture><p class="hui-premium__title">Presos delegados por sequestro de traficante no RJ</p></a></div><div class="hui-premium__divider column show-for-small-only">&nbsp;</div></div></div></div></div>

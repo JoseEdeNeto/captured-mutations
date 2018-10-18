@@ -1,0 +1,4 @@
+<div class="float-box home-analytics-area home-analytics-id-S sem-widget hui-floatbox hui-floatbox--no-arrow old_mutation" style=""><div class="menu-columns home-analytics-area
+                            home-analytics-id-V
+                            
+                        "><ul class="first-column"><li class="has-link "><a href="https://globoplay.globo.com/" data-menu-id="globoplay"><span class="titulo">globoplay</span></a></li><li class="has-link "><a href="https://globosatplay.globo.com/" data-menu-id="globosat-play"><span class="titulo">globosat play</span></a></li></ul></div><div class="home-analytics-area home-analytics-id-D"></div></div>

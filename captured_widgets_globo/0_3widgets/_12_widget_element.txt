@@ -1,0 +1,1 @@
+<input id="home-search-field" type="text" class="home-header__search-field tt-input aria-check-hovered old_mutation" name="q" placeholder="encontre na globo.com " autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;">

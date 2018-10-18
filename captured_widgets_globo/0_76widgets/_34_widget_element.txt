@@ -1,0 +1,5 @@
+<header class="franja-vertical__header aria-check-hovered old_mutation"><h2 class="hui-section-title hui-section-title--with-separator hui-color-entertainment--after-bg aria-check-hovered old_mutation">
+        
+        cinema
+        
+    </h2></header>

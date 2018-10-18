@@ -1,0 +1,1 @@
+<span class="widget-economia__logo aria-check-hovered old_mutation"></span>

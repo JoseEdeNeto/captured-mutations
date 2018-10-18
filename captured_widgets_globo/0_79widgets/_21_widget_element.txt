@@ -1,0 +1,1 @@
+<h2 class="franja-globosatplay__header-title aria-check-hovered old_mutation"><a href="http://globosatplay.globo.com/" class="franja-globosatplay__header-logo aria-check-hovered old_mutation" title="globosatplay"><span class="hui-highlight-videos__logotype franja-globosatplay__header-logo__image aria-check-hovered old_mutation">globosatplay</span></a></h2>

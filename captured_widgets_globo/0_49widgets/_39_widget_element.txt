@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Rádio: Ney fez pacto com PSG por multa de rescisão decrescente" data-url="https://globoesporte.globo.com/futebol/futebol-internacional/noticia/radio-neymar-combinou-multa-decrescente-com-o-psg-e-pode-ser-liberado-por-r-934-milhoes.ghtml" data-image-url="https://s2.glbimg.com/LsSnRlpwCvK8hsuVjGoyIjvUY00=/45x59:956x681/293x200/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2017/B/q/A822QWSsOGDVPSHgE89w/neymar7.jpg"></div></div>

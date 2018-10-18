@@ -1,0 +1,30 @@
+<script style="" class=" old_mutation">
+(function() {
+
+    /* Data Transfer Code for globo */
+    Krux('scrape', {
+        page_attr_info_assin_id_parc: {
+            js_global: 'info_assin_id_parc'
+        },
+        page_attr_info_assin_cod_prod: {
+            js_global: 'info_assin_cod_prod'
+        },
+        page_attr_info_assin_cod_prods_vitrine: {
+            js_global: 'info_assin_cod_prods_vitrine'
+        },
+        page_attr_info_assin_campanha: {
+            js_global: 'info_assin_campanha'
+        },
+        page_attr_info_assin_utm_source: {
+            js_global: 'info_assin_utm_source'
+        },
+        page_attr_info_assin_utm_medium: {
+            js_global: 'info_assin_utm_medium'
+        },
+        page_attr_info_assin_utm_campaign: {
+            js_global: 'info_assin_utm_campaign'
+        }
+    });
+
+})();
+</script>

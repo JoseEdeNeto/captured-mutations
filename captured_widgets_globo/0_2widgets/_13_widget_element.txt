@@ -1,0 +1,8 @@
+<script style="" class=" old_mutation">
+        if (window && window.libby && window.libby.cookie) {
+            var cookie = window.libby.cookie.read('globoapi.geo.geolocation');
+            if (cookie) {
+                window.libby.cookie.erase('globoapi.geo.geolocation');
+            }
+        }
+    </script>

@@ -1,0 +1,1 @@
+<li class="diretorio-home__second-level aria-check-hovered old_mutation"><a title="Bom Dia Brasil" href="http://g1.globo.com/bom-dia-brasil/" class=" aria-check-hovered old_mutation">Bom Dia Brasil</a></li>

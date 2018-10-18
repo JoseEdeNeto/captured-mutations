@@ -1,0 +1,1 @@
+<strong class="widget-horoscopo__title aria-check-hovered old_mutation">Libra</strong>

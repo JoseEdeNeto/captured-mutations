@@ -1,0 +1,15 @@
+<script style="" class=" old_mutation">
+(function() {
+
+    Krux('scrape', {
+        user_attr_utag_cadun_gender: { 'js_global': 'localStorage.gdmp_gender' },
+        user_attr_glbdt_utype: { 'js_global': 'localStorage.gdmp_utype' },
+        user_attr_glbdt_city: { 'js_global': 'localStorage.gdmp_city' },
+        user_attr_utag_cadun_state: { 'js_global': 'localStorage.gdmp_state' },
+        user_attr_utag_cadun_age: { 'js_global': 'localStorage.gdmp_age' },
+        user_attr_utag_cadun_id: { 'js_global' : 'localStorage.gdmp_id_legacy' },
+        user_attr_dmp_globo_id: { 'js_global' : 'localStorage.glbdt_globoid' }
+    });
+    
+})();
+</script>

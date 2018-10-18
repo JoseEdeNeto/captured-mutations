@@ -1,0 +1,1 @@
+<header class="topglobocom__header column  aria-check-hovered old_mutation"><h2 class="topglobocom__header-title hui-section-title aria-check-hovered old_mutation">top globo</h2><h3 class="topglobocom__header-subtitle aria-check-hovered old_mutation">tá todo mundo clicando...</h3></header>

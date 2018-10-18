@@ -1,0 +1,1 @@
+<span class="widget-horoscopo__complete aria-check-hovered old_mutation">previsão completa ›</span>

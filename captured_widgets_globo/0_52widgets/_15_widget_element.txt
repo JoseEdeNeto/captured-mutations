@@ -1,0 +1,1 @@
+<tr class=" aria-check-hovered old_mutation"><th class=" aria-check-hovered old_mutation">MOEDAS</th><th class=" aria-check-hovered old_mutation">COMPRA</th></tr>

@@ -1,0 +1,1 @@
+<style type="text/css" style="" class=" old_mutation">.regua-navegacao,.regua-navegacao-tab,.has-regua .barra-globocom{display:none}.regua-svg-container{height:0;width:0;position:absolute;left:-999999999px}</style>

@@ -1,0 +1,1 @@
+<li class=" aria-check-hovered old_mutation"><div class="v-separator"></div><a target="_top" href="http://assine.globo.com/globocom/index.jsp?origemId=148" accesskey="a" class="barra-item-servico no-show small aria-check-hovered old_mutation">ASSINE JÁ</a></li>

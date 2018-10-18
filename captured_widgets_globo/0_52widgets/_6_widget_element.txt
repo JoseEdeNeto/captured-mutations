@@ -1,0 +1,1 @@
+<h4 class="widget-economia__finance-header aria-check-hovered old_mutation">IBOVESPA</h4>

@@ -1,0 +1,1 @@
+<span class="hui-highlight-videos__logotype franja-globosatplay__header-logo__image aria-check-hovered old_mutation">globosatplay</span>

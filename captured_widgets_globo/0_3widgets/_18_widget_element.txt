@@ -1,0 +1,121 @@
+<script style="" class=" old_mutation">
+(function() {
+    /* Selective Attribute DataLayer Library Tag */
+    var _, allAttr, allowedList, attr, attributes, dataLayerIngester, dataObj,
+        isAllowed, keepCase, normalizeName, omitKeys, optimizeNames, pageAttr, prefix,
+        toSet, trim, userAttr, value,
+        hasProp = {}.hasOwnProperty;
+    _ = Krux('require:underscore');
+    dataLayerIngester = Krux('require:scrape').ingestDataLayer;
+
+    /* Safe copy of dataLayer object */
+    dataObj = Krux('scrape.javascript', 'persona');
+
+    /* String trimming helper function */
+    trim = function(attr) {
+        return ("" + attr).replace(/^\s+|\s+$/g, '');
+    };
+
+    /* Attribute configs */
+    pageAttr = _.map('none'.split(','), trim);
+    userAttr = _.map('gender,age,income'.split(','), trim);
+
+    /* Create a array of attributes striping any empty strings */
+    allAttr = _.without(pageAttr.concat(userAttr), '');
+
+    /* Configuration settings */
+    prefix = 'undefined_';
+    keepCase = 'false' === 'true';
+    omitKeys = 'undefined'.split(',');
+
+    /* Function to varify if attribute should be used */
+    isAllowed = function(value, whitelist) {
+        var i, len, str, x;
+        str = "" + value;
+        if (!((value != null) && str.length > 0)) {
+            return false;
+        }
+        for (i = 0, len = whitelist.length; i < len; i++) {
+            x = whitelist[i];
+            if (value.match(x) != null) {
+                return true;
+            }
+        }
+        return false;
+    };
+
+    /* Function to standardise the attribute names */
+    normalizeName = function(name, optimize) {
+        if (optimize == null) {
+            optimize = false;
+        }
+        if (keepCase) {
+            return name;
+        }
+        return ("" + name).replace(/([A-Z])([A-Z]+)/g, function(full, first, rest) {
+            if (optimize === true) {
+                return "" + first + (rest.toLowerCase());
+            }
+            return "" + full;
+        }).replace(/_*([A-Z])/g, '_$1').replace(/^_/, '').toLowerCase();
+    };
+
+    /* Creates a pattern/replacement config for dataLayer tool to clean up names */
+    optimizeNames = function(names) {
+        var config, i, len, name;
+        config = [{
+            pattern: /(\.)_/,
+            replacement: '$1'
+        }];
+        for (i = 0, len = names.length; i < len; i++) {
+            name = names[i];
+            config.push({
+                pattern: normalizeName(name),
+                replacement: normalizeName(name, true)
+            });
+        }
+        if (!prefix.match(/^_$|null|undefined|false/)) {
+            config.push({
+                pattern: /((?:page|user)_attr_)/,
+                replacement: "$1" + prefix
+            });
+        }
+        return config;
+    };
+
+    /* Get a full list of attributes usting the dataLayer tool */
+    attributes = dataLayerIngester(dataObj, {
+        omitKeys: _.without(omitKeys.concat([/gtm\./, /sessionid/i,
+            /\.phpsessid$/i, /\.sid$/i, /\.zenid$/i,
+            /\.requestid$/i
+        ]), ''),
+        omitValues: [/.*@.*(?:\..*)+/, /gtm\./, /^(https?:)?\/\/[^\/]+/,
+            /^\/[^\/]+/, /.{255}/
+        ],
+        caseSensitive: keepCase,
+        useFullPath: 'false' === 'true',
+        useLastValue: 'false' === 'true',
+        customDelimited: [/./],
+        altDelimiter: ',',
+        userKeys: _.map(userAttr, function(exp) {
+            return new RegExp("(^|\\.)" + exp + "$");
+        }),
+        convertAttrNames: optimizeNames(allAttr)
+    });
+
+    /* Only set Attributes in the allowed list */
+    allowedList = _.map(allAttr, function(name) {
+        return new RegExp("(_attr_|_attr_" + prefix + "|\\.)" + (
+            normalizeName(name, true)) + "$");
+    });
+    toSet = {};
+    for (attr in attributes) {
+        if (!hasProp.call(attributes, attr)) continue;
+        value = attributes[attr];
+        if (isAllowed(attr, allowedList)) {
+            toSet[attr] = value;
+        }
+    }
+    Krux('set', toSet);
+}).call();
+</script>

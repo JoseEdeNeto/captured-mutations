@@ -1,0 +1,96 @@
+<script style="" class=" old_mutation">
+(function() {
+    Krux('scrape', {
+        'page_attr_url_path_1': {
+            url_path: '1'
+        },
+        'page_attr_url_path_2': {
+            url_path: '2'
+        },
+        'page_attr_url_path_3': {
+            url_path: '3'
+        },
+        'page_attr_url_path_4': {
+            url_path: '4'
+        },
+        'page_attr_url_path_5': {
+            url_path: '5'
+        }
+    });
+    if (window.localStorage.kxglobo_user) {
+        Krux('set', 'user_attr_kxuser', localStorage.kxglobo_user);
+    }
+
+    var krux_utag = JSON.parse(localStorage.getItem('krux_utag'));
+    if (krux_utag) {
+        Krux('set', {
+            page_attr_content_type: krux_utag.content_type,
+            page_attr_page_name: krux_utag.page_name,
+            page_attr_meta_keywords: krux_utag["meta.keywords"],
+            page_attr_meta_site_name: krux_utag["meta.og:site_name"],
+            page_attr_verticle: krux_utag.vertical
+        });
+        if (krux_utag.structure_tree) {
+            var sTree = krux_utag.structure_tree;
+        }
+        if (sTree) {
+            if (typeof(sTree) === "string" && sTree.match(/"/)) {
+                sTree = JSON.parse(sTree);
+                for (var i = 0; i < sTree.length; i++) {
+                    Krux('set', 'page_attr_structure_tree_' + [i + 1], sTree[i]);
+                }
+            }
+        }
+
+    }
+    if (window.pageOptions) {
+        Krux('set', 'page_attr_searchQuery', pageOptions.query);
+    }
+
+    Krux('set', 'page_attr_title', document.title);
+    Krux('scrape', {
+        'page_attr_meta_editoria': {
+            meta_name: 'editoria'
+        },
+        'page_attr_meta_article_section': {
+            meta_property: 'article:section'
+        },
+        'page_attr_meta_video_series': {
+            meta_property: 'video:series'
+        }
+    });
+    if (window.location) {
+        var hn = document.location.hostname,
+            pn = document.location.pathname,
+            dm, sd;
+        if (pn) {
+            if (pn.match('.html')) {
+                pn = pn.replace('.html', '');
+            }
+            if (hn) {
+                Krux('set', 'page_attr_full_path', hn + pn);
+                hn = hn.split('.');
+                if (hn[0] == "www") {
+                    dm = hn[1];
+                    sd = "";
+                }
+                if (hn[0] != "www") {
+                    dm = hn[1];
+                    sd = hn[0];
+                }
+                if (dm == "com") {
+                    dm = "";
+                }
+                if (sd == "www") {
+                    sd = "";
+                }
+
+                Krux('set', {
+                    page_attr_subdomain: sd,
+                    page_attr_domain: dm,
+                });
+            }
+        }
+    }
+})();
+</script>

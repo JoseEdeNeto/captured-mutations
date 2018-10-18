@@ -1,0 +1,10 @@
+<script style="" class=" old_mutation">
+(function() {
+    Krux('scrape', {
+        page_attr_utag_editoria: { 'js_global': 'utag_data.editoria' },
+        page_attr_utag_page_type: { 'js_global': 'utag_data.tipo_pagina' },
+        page_attr_utag_produto: { 'js_global': 'utag_data.produto' },
+        page_attr_searchQuery: { 'js_global': 'busca.q' }
+    });
+})();
+</script>

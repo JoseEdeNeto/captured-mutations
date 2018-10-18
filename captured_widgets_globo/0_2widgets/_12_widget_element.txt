@@ -1,0 +1,3 @@
+<script style="" class=" old_mutation">
+        window.loadMenu && loadMenu();
+    </script>

@@ -1,0 +1,1 @@
+<li class="diretorio-home__second-level aria-check-hovered old_mutation"><a title="Bem Estar" href="http://g1.globo.com/bemestar/" class=" aria-check-hovered old_mutation">Bem Estar</a></li>

@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Sarahyba faz trabalho social e lembra luta contra câncer 2 vezes" data-url="https://oglobo.globo.com/ela/gente/na-vida-enfrentamos-dificuldades-que-deixam-cicatrizes-diz-daniella-sarahyba-sobre-cancer-23164571" data-image-url="https://s2.glbimg.com/8wxQ1OtEJ7te8Pz93zQpPDKwNRk=/146x12:572x303/293x200/s.glbimg.com/en/ho/f/original/2018/10/18/sarahyba.jpg"></div></div>

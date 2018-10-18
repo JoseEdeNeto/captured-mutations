@@ -1,0 +1,1 @@
+<a href="https://globoplay.globo.com/" class="franja-globoplay__logo aria-check-hovered old_mutation" title="globo play"><span class="hui-highlight-videos__logotype franja-globoplay__logo__image aria-check-hovered old_mutation">globo play</span></a>

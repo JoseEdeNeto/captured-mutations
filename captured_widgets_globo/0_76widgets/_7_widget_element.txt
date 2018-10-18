@@ -1,0 +1,4 @@
+<header class="franja-agrupador-quadruplo__header aria-check-hovered old_mutation"><h2 class="hui-section-title hui-section-title--with-separator hui-color-technology--after-bg aria-check-hovered old_mutation"><a href="http://www.techtudo.com.br/" title="tecnologia e games" class="hui-section-link aria-check-hovered old_mutation">
+        
+        tecnologia e games
+        </a></h2></header>

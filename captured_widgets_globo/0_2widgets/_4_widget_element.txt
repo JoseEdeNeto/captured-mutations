@@ -1,0 +1,1 @@
+<script type="text/template" id="home-menu-footer" class="nested widget-menu old_mutation" style=""></script>

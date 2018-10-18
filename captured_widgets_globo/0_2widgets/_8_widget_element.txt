@@ -1,0 +1,1 @@
+<script src="//s3.glbimg.com/cdn/libs/globoapi/1.0.3/js/globoapi.min.js" style="" class=" old_mutation"></script>

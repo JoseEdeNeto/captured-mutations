@@ -1,0 +1,4 @@
+<div class="menu-columns home-analytics-area
+                            home-analytics-id-V
+                            
+                         aria-check-hovered old_mutation"><ul class="first-column old_mutation aria-check-hovered"><li class="has-link  aria-check-hovered old_mutation"><a href="https://globoplay.globo.com/" data-menu-id="globoplay" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">globoplay</span></a></li><li class="has-link  aria-check-hovered old_mutation"><a href="https://globosatplay.globo.com/" data-menu-id="globosat-play" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">globosat play</span></a></li></ul></div>
