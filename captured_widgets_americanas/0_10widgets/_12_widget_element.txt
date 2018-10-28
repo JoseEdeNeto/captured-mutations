@@ -1,0 +1,202 @@
+<ul class="mmn-list sizer szr-2 no-col aria-check-hovered old_mutation">
+													<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">eletroportáteis</span></li>
+																<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																	<a href="#" class="mmn-back mmn-bk-level-2 mutation_widget" style="">
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">eletroportáteis</title>
+																		</svg>
+																		Voltar
+																	</a>
+																</li>
+															<li class="mmn-item has-children mmn-submenu sz sz-1 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/eletroportateis" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		eletroportáteis
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">eletroportáteis</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3 aria-check-hovered old_mutation">
+																			<ul class="mmn-list sizer szr-20 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">eletroportáteis</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">mixers e processadores de alimentos</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/mixer-e-processador-de-alimentos" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									mixers e processadores de alimentos
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/bebedouro-e-purificador-de-agua" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									bebedouros e purificadores
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/ventilador-e-circulador-de-ar" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ventiladores
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/aspirador-e-vassoura-eletrica" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									aspiradores de pó e vassouras elétricas
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/robo-aspirador" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									robô aspirador
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-6 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/vaporizador-e-higienizador" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									vaporizadores e higienizadores
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-7 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/liquidificador-e-acessorios" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									liquidificadores
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-8 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/batedeira-e-acessorios" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									batedeiras
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-9 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/pipoqueira" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									pipoqueiras
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-10 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/forno/forno-de-bancada" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									forno de bancada
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-11 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/centrifuga-e-espremedor-de-fruta" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									centrífugas e espremedores de fruta
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-12 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/churrasqueira-e-utensilios" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									churrasqueiras e utensílios
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-13 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/fritadeira-eletrica" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									fritadeiras elétricas
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-14 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/panela-eletrica/panela-eletrica-de-arroz" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									panela elétrica de arroz
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-15 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/grill-sanduicheira-e-torradeira" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									grill, sanduicheiras e torradeiras
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-16 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/cafeteira/cafeteira-expresso" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									cafeteiras expresso
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-17 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/cafeteira/cafeteira-eletrica" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									cafeteiras elétrica
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-18 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/chaleira-eletrica" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									chaleiras elétrica
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-19 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/maquina-de-costura" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									máquinas de costura
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-20 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis/ferro-de-passar" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ferros de passar
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/categoria/eletroportateis" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais eletroportáteis
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+															<li class="mmn-item has-children mmn-submenu sz sz-2 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/nossas-marcas" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		produtos exclusivos
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">produtos exclusivos</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3 aria-check-hovered old_mutation">
+																			<ul class="mmn-list sizer szr-2 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">produtos exclusivos</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">classic home</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/busca?conteudo=classic home&amp;filtro=[{" id":"category_breadcrumb_name_level_pt_acom_1","value":"decoração"}]&ordenacao="moreRelevant&amp;origem=nanook&quot;" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									classic home
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/busca?conteudo=orb&amp;filtro=[{" id":"category_breadcrumb_name_level_pt_acom_1","value":"móveis"}]&ordenacao="moreRelevant&amp;origem=nanook&quot;" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									orb
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/nossas-marcas" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais produtos exclusivos
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+												</ul>

@@ -1,1 +1,148 @@
-<li class=" has-children aria-check-hovered old_mutation"><a data-menu-id="mais-esportes" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">mais esportes</span></a></li>
+<div class="extra home-analytics-area home-analytics-id-W enabled"><h4>seu estado</h4>
+<div class="my-state-button-container home-analytics-area home-analytics-id-suggest">
+    <a class="my-state-button-area" href="http://g1.globo.com/pr/parana/">
+        <div>
+            <div class="nav-arrow"></div>
+            <div class="text-area">
+                <div>procurando por</div>
+                <span>Paraná?</span>
+            </div>
+        </div>
+    </a>
+</div>
+<ul class="flags-board"><li class="">
+    <a href="http://g1.globo.com/ac/acre/" title="Acre" data-uf="AC" class="searchable">
+        <div class="state-flag ac"></div>
+        <div class="state-border"><div class="sigla-uf">AC</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/al/alagoas/" title="Alagoas" data-uf="AL" class="searchable">
+        <div class="state-flag al"></div>
+        <div class="state-border"><div class="sigla-uf">AL</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ap/amapa/" title="Amapá" data-uf="AP" class="searchable">
+        <div class="state-flag ap"></div>
+        <div class="state-border"><div class="sigla-uf">AP</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/am/amazonas/" title="Amazonas" data-uf="AM" class="searchable">
+        <div class="state-flag am"></div>
+        <div class="state-border"><div class="sigla-uf">AM</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/bahia" title="Bahia" data-uf="BA" class="searchable">
+        <div class="state-flag ba"></div>
+        <div class="state-border"><div class="sigla-uf">BA</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ceara" title="Ceará" data-uf="CE" class="searchable">
+        <div class="state-flag ce"></div>
+        <div class="state-border"><div class="sigla-uf">CE</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/distrito-federal" title="Distrito Federal" data-uf="DF" class="searchable">
+        <div class="state-flag df"></div>
+        <div class="state-border"><div class="sigla-uf">DF</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/espirito-santo" title="Espírito Santo" data-uf="ES" class="searchable">
+        <div class="state-flag es"></div>
+        <div class="state-border"><div class="sigla-uf">ES</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/goias" title="Goiás" data-uf="GO" class="searchable">
+        <div class="state-flag go"></div>
+        <div class="state-border"><div class="sigla-uf">GO</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ma/maranhao/" title="Maranhão" data-uf="MA" class="searchable">
+        <div class="state-flag ma"></div>
+        <div class="state-border"><div class="sigla-uf">MA</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/minas-gerais" title="Minas Gerais" data-uf="MG" class="searchable">
+        <div class="state-flag mg"></div>
+        <div class="state-border"><div class="sigla-uf">MG</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/mato-grosso-do-sul" title="Mato Grosso do Sul" data-uf="MS" class="searchable">
+        <div class="state-flag ms"></div>
+        <div class="state-border"><div class="sigla-uf">MS</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/mato-grosso" title="Mato Grosso" data-uf="MT" class="searchable">
+        <div class="state-flag mt"></div>
+        <div class="state-border"><div class="sigla-uf">MT</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pa/para/" title="Pará" data-uf="PA" class="searchable">
+        <div class="state-flag pa"></div>
+        <div class="state-border"><div class="sigla-uf">PA</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pb/paraiba/" title="Paraíba" data-uf="PB" class="searchable">
+        <div class="state-flag pb"></div>
+        <div class="state-border"><div class="sigla-uf">PB</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pernambuco" title="Pernambuco" data-uf="PE" class="searchable">
+        <div class="state-flag pe"></div>
+        <div class="state-border"><div class="sigla-uf">PE</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pi/piaui/" title="Piauí" data-uf="PI" class="searchable">
+        <div class="state-flag pi"></div>
+        <div class="state-border"><div class="sigla-uf">PI</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pr/parana/" title="Paraná" data-uf="PR" class="searchable">
+        <div class="state-flag pr"></div>
+        <div class="state-border"><div class="sigla-uf">PR</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rio-de-janeiro" title="Rio de Janeiro" data-uf="RJ" class="searchable">
+        <div class="state-flag rj"></div>
+        <div class="state-border"><div class="sigla-uf">RJ</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rn/rio-grande-do-norte/" title="Rio Grande do Norte" data-uf="RN" class="searchable">
+        <div class="state-flag rn"></div>
+        <div class="state-border"><div class="sigla-uf">RN</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ro/rondonia" title="Rondônia" data-uf="RO" class="searchable">
+        <div class="state-flag ro"></div>
+        <div class="state-border"><div class="sigla-uf">RO</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rr/roraima/" title="Roraima" data-uf="RR" class="searchable">
+        <div class="state-flag rr"></div>
+        <div class="state-border"><div class="sigla-uf">RR</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rs/rio-grande-do-sul/" title="Rio Grande do Sul" data-uf="RS" class="searchable">
+        <div class="state-flag rs"></div>
+        <div class="state-border"><div class="sigla-uf">RS</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/sc/santa-catarina/" title="Santa Catarina" data-uf="SC" class="searchable">
+        <div class="state-flag sc"></div>
+        <div class="state-border"><div class="sigla-uf">SC</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/se/sergipe/" title="Sergipe" data-uf="SE" class="searchable">
+        <div class="state-flag se"></div>
+        <div class="state-border"><div class="sigla-uf">SE</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/sao-paulo" title="São Paulo" data-uf="SP" class="searchable">
+        <div class="state-flag sp"></div>
+        <div class="state-border"><div class="sigla-uf">SP</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/to/tocantins/" title="Tocantins" data-uf="TO" class="searchable">
+        <div class="state-flag to"></div>
+        <div class="state-border"><div class="sigla-uf">TO</div></div>
+    </a>
+</li></ul></div>

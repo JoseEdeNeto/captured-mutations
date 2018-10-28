@@ -1,0 +1,1 @@
+<a href="#" class="src-close old_mutation" tabindex="-1" style=""><svg class="src-btn-ico" aria-labelledby="src-close" role="img"><use xlink:href="#bhf_icon-close"></use><title id="src-close">Cancelar</title></svg> <span>Cancelar</span></a>

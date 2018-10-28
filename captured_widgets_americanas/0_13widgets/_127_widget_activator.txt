@@ -1,0 +1,6 @@
+<li class="mmn-item    sz sz-4">
+																	<a href="https://www.americanas.com.br/categoria/gift-card" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		gift cards
+																		<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																	</a>
+															</li>

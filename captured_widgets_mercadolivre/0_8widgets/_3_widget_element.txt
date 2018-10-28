@@ -1,0 +1,49 @@
+<section class="nav-categs-detail old_mutation aria-check-hovered" data-js="nav-categs-detail" style="" hidden="hidden">
+<header class="nav-categs-detail__header">
+  <h1>Joias e Relógios</h1>
+</header>
+<div class="nav-categs-detail__body aria-check-hovered old_mutation">
+  <div class="nav-categs-detail__body-content aria-check-hovered old_mutation">
+    
+    <article class="nav-categs-detail__categ" data-type="thirds">
+      <h2 class="nav-categs-detail__title">
+        <a href="https://relogios.mercadolivre.com.br/#menu=categories">Relógios</a>
+      </h2>
+      <ul class="nav-categs-detail__categ-list">
+        <li><a href="https://relogios.mercadolivre.com.br/pulso/#menu=categories">De Pulso</a></li><li><a href="https://relogios.mercadolivre.com.br/acessorios/#menu=categories">Acessórios Para Relógios</a></li>
+      </ul>
+    </article>
+    <article class="nav-categs-detail__categ" data-type="half">
+      <h2 class="nav-categs-detail__title">
+        <a href="https://joias.mercadolivre.com.br/#menu=categories">Joias e Bijuterias</a>
+      </h2>
+      <ul class="nav-categs-detail__categ-list">
+        <li><a href="https://joias.mercadolivre.com.br/brincos/#menu=categories">Brincos</a></li><li><a href="https://joias.mercadolivre.com.br/colares/#menu=categories">Colares</a></li><li><a href="https://joias.mercadolivre.com.br/aneis/#menu=categories">Anéis</a></li><li><a href="https://joias.mercadolivre.com.br/aliancas/#menu=categories">Alianças</a></li>
+      </ul>
+    </article>
+    <article class="nav-categs-detail__categ" data-type="thirds">
+      <h2 class="nav-categs-detail__title">
+        <a href="https://joias.mercadolivre.com.br/piercings/#menu=categories">Piercings</a>
+      </h2>
+      <ul class="nav-categs-detail__categ-list">
+        <li><a href="https://joias.mercadolivre.com.br/piercings/rosto/#menu=categories">Para o Rosto</a></li><li><a href="https://joias.mercadolivre.com.br/piercings/corpo/#menu=categories">Para o Corpo</a></li>
+      </ul>
+    </article>
+  </div>
+  
+<aside class="nav-categs-detail__body-aside">
+  <h2 class="nav-categs-detail__title">Lojas oficiais</h2>
+  <ul class="nav-categs-detail__list">
+  <li>
+        <a href="https://loja.mercadolivre.com.br/casas-bahia#menu=categories" style="background-image:url(https://http2.mlstatic.com/D_NQ_NP_649202-MLA26107807638_102017-I.jpg)">Casas Bahia</a>
+      </li><li>
+        <a href="https://loja.mercadolivre.com.br/extra#menu=categories" style="background-image:url(https://http2.mlstatic.com/D_NQ_NP_705499-MLA26148875405_102017-I.jpg)">Extra</a>
+      </li><li>
+        <a href="https://loja.mercadolivre.com.br/invicta#menu=categories" style="background-image:url(https://http2.mlstatic.com/resources/largesellers/200893378/invictaoficial/small_logo201601250848.jpg)">invicta</a>
+      </li><li>
+        <a href="https://loja.mercadolivre.com.br/ponto-frio#menu=categories" style="background-image:url(https://http2.mlstatic.com/D_NQ_NP_625421-MLA26107842076_102017-I.jpg)">Ponto Frio</a>
+      </li>
+  </ul>
+</aside>
+</div>
+</section>

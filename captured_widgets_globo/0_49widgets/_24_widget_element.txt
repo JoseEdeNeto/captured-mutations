@@ -1,6 +1,0 @@
-<div class="
-        hui-share__wrapper
-        
-            hui-share__wrapper--with-left-offset
-        
-     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Melhor que HD: SSD faz sucesso e é mais rápido do mundo" data-url="https://www.techtudo.com.br/noticias/2018/10/ssd-externo-fledging-shell-promete-ser-o-mais-rapido-do-mundo.ghtml" data-image-url="https://s2.glbimg.com/_IJZOu0T6Khd5nRojeMOJ2Wspf8=/44x13:597x390/293x200/s.glbimg.com/po/tt2/f/original/2018/10/18/1810-ssd-home.jpeg"></div></div>

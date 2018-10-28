@@ -1,0 +1,5 @@
+<h2 class="as-title-block-left aria-check-hovered old_mutation">
+    <span class="a-color-base aria-check-hovered old_mutation">
+      Smart nursery must-haves
+    </span>
+  </h2>

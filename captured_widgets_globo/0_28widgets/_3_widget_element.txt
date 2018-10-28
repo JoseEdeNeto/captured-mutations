@@ -1,1 +1,18 @@
-<span class="titulo aria-check-hovered old_mutation">séries originais</span>
+<div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+         aria-check-hovered old_mutation"><a href="https://g1.globo.com/sp/sao-paulo/eleicoes/2018/noticia/2018/10/24/marcio-franca-diz-que-nao-e-logico-ampliar-presidios-em-sp-e-propoe-que-imposto-sobre-combustiveis-seja-usado-no-transporte-publico.ghtml" title="Elevar presídios não é lógico, diz França em SP (Marcelo Brandt/G1)" class="hui-premium__link
+            hui-highlight__link
+            
+     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">Elevar presídios não é lógico, diz França em SP</p></a><ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2018/noticia/2018/10/24/ibope-de-23-de-outubro-para-governador-do-rj-por-sexo-idade-renda-escolaridade-religiao-raca-e-condicao-do-municipio.ghtml" title="Witzel lidera no interior do RJ; Paes, na capital (Marcos Serra Lima/G1)" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
+        
+        Witzel lidera no interior do RJ; Paes, na capital
+        </a></li></ul></div>

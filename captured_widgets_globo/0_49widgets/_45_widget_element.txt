@@ -1,6 +1,0 @@
-<div class="
-        hui-share__wrapper
-        
-            hui-share__wrapper--with-left-offset
-        
-     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Ney prestigia Medina em meio a boatos de volta ao Barcelona" data-url="https://globoesporte.globo.com/futebol/futebol-internacional/noticia/em-meio-a-especulacoes-sobre-retorno-ao-barcelona-neymar-prestigia-medina-em-mundial-de-surfe.ghtml" data-image-url="https://s2.glbimg.com/mIu2oFgXSehCyqY5x7wJ_VEuT7s=/0x15:554x327/398x224/s.glbimg.com/es/ge/f/original/2018/10/18/n123.png"></div></div>

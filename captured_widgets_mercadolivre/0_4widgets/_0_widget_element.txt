@@ -1,0 +1,1 @@
+<a href="https://www.mercadolivre.com.br/gz/cart" title="Carrinho de compras" class="nav-cart nav-cart-empty aria-check-hovered old_mutation" id="nav-cart"><i class="nav-icon-cart"></i><span class="nav-icon-cart-quantity old_mutation" style=""></span></a>

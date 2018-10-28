@@ -1,0 +1,123 @@
+<ul class="mmn-list sizer szr-5 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">informática</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">notebook</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item has-children mmn-submenu sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica/notebook" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									notebook
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">notebook</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4 aria-check-hovered old_mutation">
+																										<ul class="mmn-list sizer szr-2 no-col aria-check-hovered old_mutation">
+																											<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">notebook</span></li>
+																														<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																															<a href="#" class="mmn-back mmn-bk-level-4 mutation_widget" style="">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">2 em 1</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/informatica/notebook/notebook-2-em-1" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																2 em 1
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/informatica/notebook/notebook-gamer" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																notebook gamer
+																																<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																															<a href="https://www.americanas.com.br/categoria/informatica/notebook" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais notebook
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item has-children mmn-submenu sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									computadores e all in one
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">computadores e all in one</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4 aria-check-hovered old_mutation">
+																										<ul class="mmn-list sizer szr-3 no-col aria-check-hovered old_mutation">
+																											<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">computadores e all in one</span></li>
+																														<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																															<a href="#" class="mmn-back mmn-bk-level-4 mutation_widget" style="">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">computador</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one/computador" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																computador
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one/all-in-one" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																all in one
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one/computador-gamer" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																pc gamer
+																																<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																															<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais computadores e all in one
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica/f/marca-Apple" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									apple
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica/servidor" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									servidores
+																									<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica/workstation" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									workstations
+																									<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/categoria/informatica" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais informática
+																								</a>
+																							</li>
+																			</ul>

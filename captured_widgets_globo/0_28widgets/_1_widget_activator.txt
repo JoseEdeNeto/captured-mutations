@@ -1,1 +1,4 @@
-<li class="has-link has-children aria-check-hovered old_mutation"><a href="http://gshow.globo.com/programas/webseries/" data-menu-id="series-originais" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">séries originais</span></a></li>
+<ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://extra.globo.com/emprego/servidor-publico/veja-quais-sao-as-propostas-de-bolsonaro-haddad-para-servico-publico-23180038.html" title="Veja propostas para o serviço público" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
+        
+        Veja propostas para o serviço público
+        </a></li></ul>

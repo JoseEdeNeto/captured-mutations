@@ -1,0 +1,1 @@
+<iframe sandbox="allow-scripts allow-same-origin" title="Adobe ID Syncing iFrame" id="destination_publishing_iframe_b2w_0" src="https://b2w.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.americanas.com.br%2F" style="display: none; width: 0px; height: 0px;" class="aamIframeLoaded old_mutation"></iframe>

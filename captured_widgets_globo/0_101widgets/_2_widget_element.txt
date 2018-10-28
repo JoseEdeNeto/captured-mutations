@@ -1,0 +1,3 @@
+<h4 class="hui-highlight-publieditorial__header hui-color-publieditorial--color hui-color-publieditorial--bg aria-check-hovered old_mutation">
+                ESPECIAL PUBLICITÁRIO
+            </h4>

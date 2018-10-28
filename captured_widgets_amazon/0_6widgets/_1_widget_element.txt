@@ -1,0 +1,7 @@
+<a href="/gp/cart/view.html?ref=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2 aria-check-hovered old_mutation" id="nav-cart" tabindex="65">
+    <span aria-hidden="true" class="nav-line-1 aria-check-hovered old_mutation"></span>
+    <span aria-hidden="true" class="nav-line-2 aria-check-hovered old_mutation">Cart<span class="nav-icon nav-arrow"></span>
+    </span>
+    <span class="nav-cart-icon nav-sprite aria-check-hovered old_mutation"></span>
+    <span id="nav-cart-count" aria-hidden="true" class="nav-cart-count nav-cart-0 aria-check-hovered old_mutation">0</span>
+  </a>

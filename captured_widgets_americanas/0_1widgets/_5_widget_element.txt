@@ -1,0 +1,8 @@
+<div id="h_topbanner" class="ready updated aria-check-hovered old_mutation"><ul class="header-banner sizer szr-1 aria-check-hovered old_mutation" data-pos="topbanner">
+	<li class="hdr-bnr-item sz sz-1 aria-check-hovered old_mutation" style="background-color: #ffffff;">
+		<a href="https://www.americanas.com.br/especial/black-friday?chave=brd_hm_tp_0_0_black-friday-18" class="hdr-bnr-link aria-check-hovered old_mutation" title="Esquenta black friday : A black friday que você quer">
+			<img src="https://images-americanas.b2w.io/spacey/2018/10/25/TOPINHO_BF_FS01.png" class="hdr-bnr-image aria-check-hovered old_mutation" alt="Esquenta black friday : A black friday que você quer" title="Esquenta black friday : A black friday que você quer">
+		</a>
+	</li>
+</ul>
+</div>

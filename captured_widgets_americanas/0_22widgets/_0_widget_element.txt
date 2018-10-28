@@ -1,0 +1,40 @@
+<style style="" class=" old_mutation">div[data-page-type="home"] [data-config="maintop1"] .jumbotron-theme{padding:0;}
+div[data-page-type="home"] [data-config="maintop1"]>.app-space{border:0;}
+/*.card-product-hot-offer .card-product-details {background: black}*/
+div[data-page-type="home"] [data-config="maintop2"] .fullslideshow {padding-top:0;}
+
+#collapse-loja .filter-list-item {text-transform: lowercase;}
+#collapse-loja .filter-list-item:first-letter {text-transform: uppercase;}
+
+/* Ajuste selo produto na oferta da hora */
+@media (max-width: 1024px) {.card-product-hot-offer .label-discount { z-index: 2; }}
+
+.timer-remaining {
+  white-space: nowrap;
+}
+
+.card-product-hot-offer .card-product-timer .timer {
+  width: auto;
+  display: inline-block;
+  line-height: 18px;
+}
+
+.card-product-hot-offer .card-product-timer .timer-remaining {
+  line-height: 24px;
+}
+
+[data-sitepage="americanas/hotsite/dia-do-sorriso"] .col-horizontal-padding [class^="col-"], .col-horizontal-padding [class*="col-"] {padding-top: 12px;padding-bottom: 12px;}
+[data-sitepage="americanas/hotsite/dia-do-sorriso"] .product-grid {margin: 12px 0;}
+
+[data-component="hooklogics"] {display: none;}
+
+.smartbanner-android .smartbanner-image {
+    padding: 0 2px;
+}
+
+@media(min-width: 1024px) {
+  .card-product-hot-offer .card-product-details {
+    min-height: 220px;
+    width: 100%;
+  }
+}</style>

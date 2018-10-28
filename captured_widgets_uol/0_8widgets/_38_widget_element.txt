@@ -1,0 +1,1 @@
+<li class=" aria-check-hovered old_mutation"> <a name="menu-sub-vitrine" title="Cristina Padiglione" data-metrics="sub-5;tvefamosos" href="http://telepadi.folha.uol.com.br/" class="opacity80 cor-transition aria-check-hovered old_mutation"> - Cristina Padiglione </a> </li>

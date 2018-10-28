@@ -1,3 +1,1 @@
-<div class="column medium-2 large-1 show-for-medium hui-premium__divider hui-premium__divider--vertical-medium aria-check-hovered old_mutation">
-        &nbsp;
-    </div>
+<div class=" aria-check-hovered old_mutation"><a href="http://globoesporte.globo.com/volei/" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">Vôlei</span></a></div>

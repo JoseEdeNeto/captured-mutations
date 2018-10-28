@@ -1,0 +1,1 @@
+<a name="menu-sub" data-metrics="sub-3;economia" href="http://economia.uol.com.br/empreendedorismo/" class="cor2-hover cor-transition aria-check-hovered old_mutation"> <strong class="hover-inherit aria-check-hovered old_mutation">Empreendedorismo</strong> </a>

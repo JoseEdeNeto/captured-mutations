@@ -1,0 +1,1 @@
+<div class="card-product-price-from placeholder aria-check-hovered old_mutation"><span class=" aria-check-hovered old_mutation">4 ofertas a partir de:</span></div>

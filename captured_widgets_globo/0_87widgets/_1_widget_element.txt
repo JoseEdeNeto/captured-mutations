@@ -1,0 +1,1 @@
+<div class="home-analytics-area home-analytics-id-T aria-check-hovered old_mutation"><a href="http://www.techtudo.com.br/" class="widget-menu__list__link aria-check-hovered old_mutation"><span class="widget-menu__list__link__title aria-check-hovered old_mutation">tech</span></a></div>

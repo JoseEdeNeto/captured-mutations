@@ -1,0 +1,1 @@
+<span content="BRL" class="value aria-check-hovered old_mutation">R$</span>

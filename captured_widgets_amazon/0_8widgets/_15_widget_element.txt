@@ -1,0 +1,1 @@
+<a class="a-carousel-goto-prevpage old_mutation aria-check-hovered" tabindex="0" href="#" aria-disabled="true"><i class="a-icon a-icon-previous-rounded aria-check-hovered old_mutation"><span class="a-icon-alt">Previous page</span></i></a>

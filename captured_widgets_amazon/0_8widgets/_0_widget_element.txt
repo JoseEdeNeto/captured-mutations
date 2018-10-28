@@ -1,0 +1,1 @@
+<a id="nav-your-amazon" href="/gp/yourstore/home?ref=nav_cs_ys" class="nav-a aria-check-hovered old_mutation" tabindex="47">Your Amazon.com</a>

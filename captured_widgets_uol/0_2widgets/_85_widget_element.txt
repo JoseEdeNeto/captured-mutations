@@ -1,0 +1,1 @@
+<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat_video.js" style="" class=" old_mutation"></script>

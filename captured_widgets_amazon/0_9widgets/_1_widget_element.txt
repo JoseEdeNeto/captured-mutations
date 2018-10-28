@@ -1,0 +1,5 @@
+<script type="text/javascript" style="" class=" old_mutation">
+  if(window.GWI && window.GWI.BillboardWidget){
+    new window.GWI.BillboardWidget('ra6TrvNZSGto59frpW7__w', ['https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/Confidence_English_Hero1500x300._CB482150538_.png']);
+  };
+</script>

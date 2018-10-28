@@ -1,0 +1,1 @@
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" style="display: none; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" src="https://vars.hotjar.com/rcj-da10bd4908deb9e19dfde013ec3fe4ff.html" class=" old_mutation"></iframe>

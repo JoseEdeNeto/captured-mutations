@@ -1,0 +1,12 @@
+<a href="/gp/customer-preferences/select-language/ref=topnav_lang?preferencesReturnUrl=%2F" id="icp-nav-flyout" class="nav-a nav-a-2 icp-link-style-2 aria-check-hovered old_mutation nav-active">
+    <span class="icp-nav-link-inner aria-check-hovered old_mutation">
+      <span class="nav-line-1 aria-check-hovered old_mutation">
+        <span class="icp-nav-globe-img-2"></span>
+        <span class="icp-nav-language aria-check-hovered old_mutation">EN</span>
+      </span>
+      <span class="nav-line-2">&nbsp;
+        <span class="nav-icon nav-arrow" style="visibility: visible;"></span>
+      </span>
+    </span>
+    <span class="icp-nav-link-border"></span>
+  </a>

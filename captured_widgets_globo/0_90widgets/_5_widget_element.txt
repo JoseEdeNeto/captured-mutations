@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Fuzis apreendidos em aeroporto do RJ seriam entregues no Alemão" data-url="https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/10/24/fuzis-apreendidos-pela-pf-no-aeroporto-santos-dumont-iam-ser-entregues-no-complexo-do-alemao.ghtml" data-image-url="https://s2.glbimg.com/A23wq2zsRc7OO-9MaIPYGdmlNrE=/0x364:960x1019/293x200/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/K/H/dNM6HKR2C21uDc93ROMA/whatsapp-image-2018-10-23-at-20.53.28-2-.jpeg"></div></div>

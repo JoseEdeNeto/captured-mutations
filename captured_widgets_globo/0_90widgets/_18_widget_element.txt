@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Múmia  de 3 mil anos com tatuagens tem identidade descoberta" data-url="https://revistagalileu.globo.com/Ciencia/Arqueologia/noticia/2018/10/cientistas-desvendam-identidade-de-mumia-com-tatuagens-de-3-mil-anos.html" data-image-url="https://s2.glbimg.com/Te8xqVm95v4RRSX-T06-JYpfgTQ=/196x0:803x415/293x200/e.glbimg.com/og/ed/f/original/2018/10/24/hathor_magician_tattoos_1024.jpg"></div></div>

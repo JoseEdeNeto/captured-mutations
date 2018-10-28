@@ -1,0 +1,1 @@
+<script style="" class=" old_mutation">if(navigator.userAgent.match(/iPad/i)!=null){var text=document.getElementById("text-home");text.innerText="Adicione o UOL à sua tela inicial";var box=document.getElementById("box-pagina-inicial");box.className+=" boxIpad";}</script>

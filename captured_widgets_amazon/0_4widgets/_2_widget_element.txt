@@ -1,0 +1,3 @@
+<span class="nav-line-2 aria-check-hovered old_mutation">&nbsp;
+        <span class="nav-icon nav-arrow aria-check-hovered old_mutation" style="visibility: visible;"></span>
+      </span>

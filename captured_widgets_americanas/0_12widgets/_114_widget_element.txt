@@ -1,0 +1,1 @@
+<div class="hdr-bnr-image loaded lzy old_mutation" title="Lançamento Red Dead 2" data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/10/25/RED-DEAD-2-acom-home-menu-270x540-2b.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/10/25/RED-DEAD-2-acom-home-menu-270x540-2b.png&quot;);"></div>

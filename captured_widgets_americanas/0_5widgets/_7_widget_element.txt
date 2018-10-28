@@ -1,0 +1,5 @@
+<li class="mmn-item mmn-pnl-all old_mutation" style="">
+																								<a href="https://www.americanas.com.br/hotsite/lojas-parceiras?chave=pm_hm_mn_automotivo_acom_lojas_parceiras" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais lojas parceiras
+																								</a>
+																							</li>

@@ -1,0 +1,1 @@
+<span id="nav-cart-count" aria-hidden="true" class="nav-cart-count nav-cart-0 aria-check-hovered old_mutation">0</span>

@@ -1,0 +1,1 @@
+<div class="card-product-type old_mutation" style=""><span class="card-product-type-name new">Novo</span></div>

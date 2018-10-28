@@ -1,1 +1,1 @@
-<p class="hui-premium__title aria-check-hovered old_mutation">Agente indica adeus de Pedrinho no Timão</p>
+<span class="titulo aria-check-hovered old_mutation">StockCar</span>

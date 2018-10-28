@@ -1,3 +1,1 @@
-<div class="column large-1 show-for-large hui-premium__divider hui-premium__divider--vertical-medium aria-check-hovered old_mutation">
-        &nbsp;
-    </div>
+<li class="has-link has-children aria-check-hovered old_mutation"><a href="http://globoesporte.globo.com/futebol/" data-menu-id="futebol" class="aria-check-hovered old_mutation active"><span class="titulo">futebol</span></a></li>

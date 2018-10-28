@@ -1,3 +1,1 @@
-<h4 class="hui-highlight-publieditorial__header hui-color-publieditorial--color hui-color-publieditorial--bg aria-check-hovered old_mutation">
-                ESPECIAL PUBLICITÁRIO
-            </h4>
+<a href="http://gshow.globo.com/programas/webseries/" data-menu-id="series-originais" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">séries originais</span></a>

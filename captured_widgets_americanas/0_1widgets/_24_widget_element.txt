@@ -1,0 +1,1 @@
+<a class="rp-primary rp h_btn-secondary h_btn usr-signin aria-check-hovered old_mutation" id="h_usr-signin" href="https://cliente.americanas.com.br/simple-login/?next=https%3A%2F%2Fwww.americanas.com.br%2F">Entrar</a>

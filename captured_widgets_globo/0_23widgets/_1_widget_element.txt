@@ -1,1 +1,18 @@
-<div class=" aria-check-hovered old_mutation"><a href="http://globoesporte.globo.com/atletismo/" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">Atletismo</span></a></div>
+<div class="areatemplate_destaques_esquerda_topo_globo_com_2016 aria-check-hovered old_mutation"><div class="hui-premium
+            hui-premium-manchete
+            home-analytics-id-P
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+         aria-check-hovered old_mutation"><a href="https://g1.globo.com/mundo/noticia/2018/10/24/pacote-suspeito-e-encontrado-perto-da-casa-de-hillary-e-bill-clinton.ghtml" title="Pacotes suspeitos são enviados aos Clinton, Obama e à rede CNN" class="hui-premium__link
+            hui-highlight__link
+            
+     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">Pacotes suspeitos são enviados aos Clinton, Obama e à rede CNN</p></a><ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://oglobo.globo.com/mundo/suspeita-de-explosivos-interrompe-transmissao-ao-vivo-da-cnn-video-23181104" title="Suspeita interrompe transmissão ao vivo, e sede da CNN é esvaziada" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
+        
+        Suspeita interrompe transmissão ao vivo, e sede da CNN é esvaziada
+        </a></li></ul></div><div class="hui-premium__divider ">&nbsp;</div></div>

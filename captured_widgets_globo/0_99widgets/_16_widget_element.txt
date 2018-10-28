@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Hailey Baldwin ganha o carinho do pai após discussão com Bieber" data-url="https://revistaquem.globo.com/QUEM-News/noticia/2018/10/justin-bieber-e-hailey-baldwin-brigam-na-rua-e-modelo-e-confortada-pelo-pai.html" data-image-url="https://s2.glbimg.com/Gxea3XEoGQnSangby4ZlnMxQ5xU=/145x18:438x218/293x200/e.glbimg.com/og/ed/f/original/2018/10/24/jjustin.jpg"></div></div>

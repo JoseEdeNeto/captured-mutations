@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Novo 'desafio' vira moda no Instagram; entenda a brincadeira" data-url="https://www.techtudo.com.br/noticias/2018/10/foto-caido-no-chao-vira-moda-no-instagram-veja-o-fallingstarschallenge.ghtml" data-image-url="https://s2.glbimg.com/BNkf2F16U3s0qn4XcmQ6NObGRpQ=/75x230:601x589/293x200/s.glbimg.com/po/tt2/f/original/2018/10/24/581.jpg"></div></div>

@@ -1,0 +1,4 @@
+<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+												<use xlink:href="#bhf_icon-arrow"></use>
+												<title id="mmn-arw-title">eletroportáteis</title>
+											</svg>

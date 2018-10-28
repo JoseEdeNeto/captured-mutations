@@ -1,6 +1,0 @@
-<div class="
-        hui-share__wrapper
-        
-            hui-share__wrapper--with-left-offset
-        
-     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Presos 9 homens em fuga após assalto a loja em shopping de SP" data-url="https://g1.globo.com/sp/sao-paulo/noticia/2018/10/18/grupo-e-preso-apos-assalto-a-loja-em-shopping-na-zona-sul-de-sao-paulo.ghtml" data-image-url="https://s2.glbimg.com/81-ATU7RM81AHS7H1mPrv5SrtH4=/396x27:1562x823/293x200/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/Z/h/WL7QbRTEmuisufJZdY1Q/frame-01-07-58.687.jpg"></div></div>

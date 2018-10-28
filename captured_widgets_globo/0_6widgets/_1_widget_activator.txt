@@ -1,1 +1,153 @@
-<label for="home-search-field" class="home-header__search-loupe aria-check-hovered old_mutation"></label>
+<li class="g1 widget-menu__list visible old_mutation" data-hovering="true"><div class="home-analytics-area home-analytics-id-T"><a href="http://g1.globo.com/" class="widget-menu__list__link"><span class="widget-menu__list__link__title">g1</span><span class="widget-menu__arrow"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#my-icon"></use></svg></span></a></div><div class="float-box home-analytics-area home-analytics-id-S hui-floatbox hui-floatbox--no-arrow com-widget old_mutation opened" style="display: block;"><div class="menu-columns home-analytics-area
+                            home-analytics-id-J
+                            
+                        "><ul class="first-column old_mutation"><li class="has-children"><a data-menu-id="top-g1" class="active old_mutation"><div class="barrinhas"></div><span class="titulo">
+                                            top páginas
+                                        </span></a></li><li class="has-link has-children"><a href="http://g1.globo.com/" data-menu-id="g1"><span class="titulo">g1</span></a></li><li class="has-link has-children"><a href="http://redeglobo.globo.com" data-menu-id="na-tv"><span class="titulo">na tv</span></a></li><li class=" has-children"><a data-menu-id="jornais-revistas-e-radio"><span class="titulo">jornais, revistas e rádio</span></a></li><li class=" has-children"><a data-menu-id="servicos"><span class="titulo">serviços</span></a></li></ul><ul class="submenu"><li data-menu-id="top-g1" class="top-menu-home old_mutation visible"><div class="submenu-title">top páginas</div><div class="top-link home-analytics-area home-analytics-id-T"><div><a href="http://g1.globo.com/"><span class="titulo">G1</span></a></div><div><a href="http://g1.globo.com/politica/"><span class="titulo">Política</span></a></div><div><a href="http://g1.globo.com/carros/"><span class="titulo">Carros</span></a></div><div><a href="http://g1.globo.com/economia/"><span class="titulo">Economia</span></a></div><div><a href="http://extra.globo.com/"><span class="titulo">Jornal Extra</span></a></div><div><a href="https://g1.globo.com/politica/eleicoes/2018/"><span class="titulo">Eleições 2018</span></a></div><div><a href="http://g1.globo.com/mundo/"><span class="titulo">Mundo</span></a></div><div><a href="http://g1.globo.com/economia/concursos-e-emprego/"><span class="titulo">Concursos e Empregos</span></a></div><div><a href="http://oglobo.globo.com/"><span class="titulo">Jornal O Globo</span></a></div><div><a href="http://g1.globo.com/bom-dia-brasil/"><span class="titulo">Bom dia Brasil</span></a></div></div></li><li data-menu-id="g1"><div class="submenu-title">g1</div><div><a href="http://g1.globo.com/carros/"><span class="titulo">Carros</span></a></div><div><a href="http://g1.globo.com/economia/concursos-e-emprego/"><span class="titulo">Concursos e Empregos</span></a></div><div><a href="http://g1.globo.com/economia/"><span class="titulo">Economia</span></a></div><div><a href="http://g1.globo.com/educacao/"><span class="titulo">Educação</span></a></div><div><a href="https://g1.globo.com/politica/eleicoes/2018/"><span class="titulo">Eleições 2018</span></a></div><div><a href="http://g1.globo.com/mundo/"><span class="titulo">Mundo</span></a></div><div><a href="http://g1.globo.com/planeta-bizarro/"><span class="titulo">Planeta Bizarro</span></a></div><div><a href="http://g1.globo.com/politica/"><span class="titulo">Política</span></a></div><div><a href="http://g1.globo.com/pop-arte/"><span class="titulo">Pop &amp; Arte</span></a></div><div><a href="http://g1.globo.com/tecnologia/"><span class="titulo">Tecnologia &amp; Games</span></a></div></li><li data-menu-id="na-tv"><div class="submenu-title">na tv</div><div><a href="http://g1.globo.com/carros/"><span class="titulo">Auto Esporte</span></a></div><div><a href="http://g1.globo.com/bemestar/"><span class="titulo">Bem Estar</span></a></div><div><a href="http://g1.globo.com/bom-dia-brasil/"><span class="titulo">Bom dia Brasil</span></a></div><div><a href="http://g1.globo.com/como-sera/"><span class="titulo">Como Será?</span></a></div><div><a href="http://fantastico.globo.com/"><span class="titulo">Fantástico</span></a></div><div><a href="http://g1.globo.com/economia/agronegocios/"><span class="titulo">Globo Rural</span></a></div><div><a href="http://g1.globo.com/globo-news/"><span class="titulo">GloboNews</span></a></div><div><a href="http://g1.globo.com/globo-reporter/"><span class="titulo">Globo Repórter</span></a></div><div><a href="http://g1.globo.com/hora1"><span class="titulo">Hora 1</span></a></div><div><a href="http://g1.globo.com/jornal-da-globo/"><span class="titulo">Jornal da Globo</span></a></div><div><a href="http://g1.globo.com/jornal-hoje/"><span class="titulo">Jornal Hoje</span></a></div><div><a href="http://g1.globo.com/jornal-nacional/"><span class="titulo">Jornal Nacional</span></a></div><div><a href="http://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/"><span class="titulo">Pequenas Empresas</span></a></div><div><a href="http://g1.globo.com/profissao-reporter/"><span class="titulo">Profissão Repórter</span></a></div></li><li data-menu-id="jornais-revistas-e-radio"><div class="submenu-title">jornais, revistas e rádio</div><div><a href="http://extra.globo.com/"><span class="titulo">Jornal Extra</span></a></div><div><a href="http://oglobo.globo.com/"><span class="titulo">Jornal O Globo</span></a></div><div><a href="http://cbn.globoradio.globo.com/home/HOME.htm"><span class="titulo">Rádio CBN</span></a></div><div><a href="http://revistaautoesporte.globo.com/"><span class="titulo">Revista Auto Esporte</span></a></div><div><a href="http://revistacrescer.globo.com/"><span class="titulo">Revista Crescer</span></a></div><div><a href="http://revistaepoca.globo.com/"><span class="titulo">Revista Época</span></a></div><div><a href="http://revistagalileu.globo.com/"><span class="titulo">Revista Galileu</span></a></div><div><a href="http://revistagloborural.globo.com/"><span class="titulo">Revista Globo Rural</span></a></div><div><a href="http://radioglobo.globoradio.globo.com/"><span class="titulo">Rádio Globo</span></a></div><div><a href="http://www.valor.com.br/"><span class="titulo">Valor Econômico</span></a></div></li><li data-menu-id="servicos"><div class="submenu-title">serviços</div><div><a href="http://especiais.g1.globo.com/educacao/app-g1-enem/"><span class="titulo">Aplicativo G1 Enem</span></a></div><div><a href="http://educacao.globo.com/"><span class="titulo">Enem e Vestibular</span></a></div><div><a href="http://g1.globo.com/loteria/"><span class="titulo">Loterias</span></a></div><div><a href="http://g1.globo.com/previsao-do-tempo.html"><span class="titulo">Previsão do tempo</span></a></div><div><a href="http://g1.globo.com/carros/tabela-fipe/index.html"><span class="titulo">Tabela FIPE</span></a></div><div><a href="http://educacao.globo.com/telecurso/"><span class="titulo">Telecurso</span></a></div><div><a href="http://www.techtudo.com.br/velocimetro.html"><span class="titulo">Velocímetro</span></a></div></li></ul><div class="extra home-analytics-area home-analytics-id-W enabled"><h4>seu estado</h4>
+<div class="my-state-button-container home-analytics-area home-analytics-id-suggest">
+    <a class="my-state-button-area" href="http://g1.globo.com/pr/parana/">
+        <div>
+            <div class="nav-arrow"></div>
+            <div class="text-area">
+                <div>procurando por</div>
+                <span>Paraná?</span>
+            </div>
+        </div>
+    </a>
+</div>
+<ul class="flags-board"><li class="">
+    <a href="http://g1.globo.com/ac/acre/" title="Acre" data-uf="AC" class="searchable">
+        <div class="state-flag ac"></div>
+        <div class="state-border"><div class="sigla-uf">AC</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/al/alagoas/" title="Alagoas" data-uf="AL" class="searchable">
+        <div class="state-flag al"></div>
+        <div class="state-border"><div class="sigla-uf">AL</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ap/amapa/" title="Amapá" data-uf="AP" class="searchable">
+        <div class="state-flag ap"></div>
+        <div class="state-border"><div class="sigla-uf">AP</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/am/amazonas/" title="Amazonas" data-uf="AM" class="searchable">
+        <div class="state-flag am"></div>
+        <div class="state-border"><div class="sigla-uf">AM</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/bahia" title="Bahia" data-uf="BA" class="searchable">
+        <div class="state-flag ba"></div>
+        <div class="state-border"><div class="sigla-uf">BA</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ceara" title="Ceará" data-uf="CE" class="searchable">
+        <div class="state-flag ce"></div>
+        <div class="state-border"><div class="sigla-uf">CE</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/distrito-federal" title="Distrito Federal" data-uf="DF" class="searchable">
+        <div class="state-flag df"></div>
+        <div class="state-border"><div class="sigla-uf">DF</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/espirito-santo" title="Espírito Santo" data-uf="ES" class="searchable">
+        <div class="state-flag es"></div>
+        <div class="state-border"><div class="sigla-uf">ES</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/goias" title="Goiás" data-uf="GO" class="searchable">
+        <div class="state-flag go"></div>
+        <div class="state-border"><div class="sigla-uf">GO</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ma/maranhao/" title="Maranhão" data-uf="MA" class="searchable">
+        <div class="state-flag ma"></div>
+        <div class="state-border"><div class="sigla-uf">MA</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/minas-gerais" title="Minas Gerais" data-uf="MG" class="searchable">
+        <div class="state-flag mg"></div>
+        <div class="state-border"><div class="sigla-uf">MG</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/mato-grosso-do-sul" title="Mato Grosso do Sul" data-uf="MS" class="searchable">
+        <div class="state-flag ms"></div>
+        <div class="state-border"><div class="sigla-uf">MS</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/mato-grosso" title="Mato Grosso" data-uf="MT" class="searchable">
+        <div class="state-flag mt"></div>
+        <div class="state-border"><div class="sigla-uf">MT</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pa/para/" title="Pará" data-uf="PA" class="searchable">
+        <div class="state-flag pa"></div>
+        <div class="state-border"><div class="sigla-uf">PA</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pb/paraiba/" title="Paraíba" data-uf="PB" class="searchable">
+        <div class="state-flag pb"></div>
+        <div class="state-border"><div class="sigla-uf">PB</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pernambuco" title="Pernambuco" data-uf="PE" class="searchable">
+        <div class="state-flag pe"></div>
+        <div class="state-border"><div class="sigla-uf">PE</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pi/piaui/" title="Piauí" data-uf="PI" class="searchable">
+        <div class="state-flag pi"></div>
+        <div class="state-border"><div class="sigla-uf">PI</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pr/parana/" title="Paraná" data-uf="PR" class="searchable">
+        <div class="state-flag pr"></div>
+        <div class="state-border"><div class="sigla-uf">PR</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rio-de-janeiro" title="Rio de Janeiro" data-uf="RJ" class="searchable">
+        <div class="state-flag rj"></div>
+        <div class="state-border"><div class="sigla-uf">RJ</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rn/rio-grande-do-norte/" title="Rio Grande do Norte" data-uf="RN" class="searchable">
+        <div class="state-flag rn"></div>
+        <div class="state-border"><div class="sigla-uf">RN</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ro/rondonia" title="Rondônia" data-uf="RO" class="searchable">
+        <div class="state-flag ro"></div>
+        <div class="state-border"><div class="sigla-uf">RO</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rr/roraima/" title="Roraima" data-uf="RR" class="searchable">
+        <div class="state-flag rr"></div>
+        <div class="state-border"><div class="sigla-uf">RR</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rs/rio-grande-do-sul/" title="Rio Grande do Sul" data-uf="RS" class="searchable">
+        <div class="state-flag rs"></div>
+        <div class="state-border"><div class="sigla-uf">RS</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/sc/santa-catarina/" title="Santa Catarina" data-uf="SC" class="searchable">
+        <div class="state-flag sc"></div>
+        <div class="state-border"><div class="sigla-uf">SC</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/se/sergipe/" title="Sergipe" data-uf="SE" class="searchable">
+        <div class="state-flag se"></div>
+        <div class="state-border"><div class="sigla-uf">SE</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/sao-paulo" title="São Paulo" data-uf="SP" class="searchable">
+        <div class="state-flag sp"></div>
+        <div class="state-border"><div class="sigla-uf">SP</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/to/tocantins/" title="Tocantins" data-uf="TO" class="searchable">
+        <div class="state-flag to"></div>
+        <div class="state-border"><div class="sigla-uf">TO</div></div>
+    </a>
+</li></ul></div></div><div class="home-analytics-area home-analytics-id-D"></div></div></li>

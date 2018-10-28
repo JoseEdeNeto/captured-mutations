@@ -1,1 +1,1 @@
-<a href="https://globoplay.globo.com/" data-menu-id="globoplay" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">globoplay</span></a>
+<a href="http://globoesporte.globo.com/" data-menu-id="globoesportecom" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">globoesporte.com</span></a>

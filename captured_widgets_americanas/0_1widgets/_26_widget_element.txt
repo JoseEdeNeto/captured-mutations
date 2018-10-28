@@ -1,0 +1,8 @@
+<a id="h_usr-signinFace" class="usr-signin-face h_btn h_btn-secondary rp rp-primary aria-check-hovered old_mutation" href="#">
+        <span class="wrp-icon-face aria-check-hovered old_mutation">
+            <svg class="icon-face" aria-labelledby="usr-title" role="img">
+              <use xlink:href="#bhf_icon-social-facebook02"></use>
+            </svg>
+          <span class="msg-btn-face aria-check-hovered old_mutation">Entrar com Facebook</span>
+        </span>
+        </a>

@@ -1,0 +1,1 @@
+<span class="temp temp-graus-frio frio cor8 aria-check-hovered old_mutation">19ºC</span>

@@ -1,0 +1,1 @@
+<li class=" aria-check-hovered old_mutation"> <a name="menu-sub" data-metrics="sub-2;entretenimento" href="http://f5.folha.uol.com.br/" class="cor2-hover cor-transition aria-check-hovered old_mutation"> <strong class="hover-inherit aria-check-hovered old_mutation">F5 Entretenimento</strong> </a> </li>

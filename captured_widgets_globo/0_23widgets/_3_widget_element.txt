@@ -1,1 +1,4 @@
-<span class="titulo aria-check-hovered old_mutation">Atletismo</span>
+<a href="https://g1.globo.com/mundo/noticia/2018/10/24/pacote-suspeito-e-encontrado-perto-da-casa-de-hillary-e-bill-clinton.ghtml" title="Pacotes suspeitos são enviados aos Clinton, Obama e à rede CNN" class="hui-premium__link
+            hui-highlight__link
+            
+     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">Pacotes suspeitos são enviados aos Clinton, Obama e à rede CNN</p></a>

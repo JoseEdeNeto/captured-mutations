@@ -1,0 +1,3 @@
+<a href="https://www.americanas.com.br/garagem?chave=prf_bm_aut_mn_1_00_garagem" class="hdr-bnr-link aria-check-hovered old_mutation" title="Encontre seu pneu ideal">
+															<div class="hdr-bnr-image loaded lzy old_mutation aria-check-hovered" title="Encontre seu pneu ideal" data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/09/06/GARAGEM__bannersBanner-menu.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/09/06/GARAGEM__bannersBanner-menu.png&quot;);"></div>
+														</a>

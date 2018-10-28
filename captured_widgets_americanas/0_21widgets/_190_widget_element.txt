@@ -1,0 +1,1 @@
+<div class="placeholder aria-check-hovered old_mutation"><span class="card-product-installments aria-check-hovered old_mutation">4x de R$ 52,49 sem juros</span></div>

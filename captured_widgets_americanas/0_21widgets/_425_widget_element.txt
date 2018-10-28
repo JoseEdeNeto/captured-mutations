@@ -1,0 +1,1 @@
+<span class="value aria-check-hovered old_mutation">1.135,32</span>

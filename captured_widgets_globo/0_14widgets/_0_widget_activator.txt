@@ -1,1 +1,1 @@
-<span class="titulo">G1</span>
+<a href="http://g1.globo.com/economia/"><span class="titulo">Economia</span></a>

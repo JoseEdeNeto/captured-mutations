@@ -1,7 +1,1 @@
-<ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related"><a href="https://kogut.oglobo.globo.com/noticias-da-tv/novelas/noticia/2018/10/segundo-sol-agenor-sera-agredido-pelo-namorado-de-nice-apos-humilhar-ex.html" title="Agenor leva soco de Vicente" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
-        
-        Agenor leva soco de Vicente
-        </a></li><li class="hui-premium__related"><a href="https://extra.globo.com/tv-e-lazer/telinha/segundo-sol-antes-de-ir-para-cadeia-luzia-pede-continuem-procurando-por-remy-ele-esta-vivo-23163839.html" title="Luzia diz que Remy está vivo" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
-        
-        Luzia diz que Remy está vivo
-        </a></li></ul>
+<span class="titulo">MMA</span>

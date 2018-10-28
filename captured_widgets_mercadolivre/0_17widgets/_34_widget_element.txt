@@ -1,0 +1,1 @@
+<img src="https://http2.mlstatic.com/resources/frontend/homes-korriban/assets/images/ecosystem/protected.svg" class="img-container old_mutation" alt="Segurança, do início ao fim">

@@ -1,0 +1,3 @@
+<ul class="nav-categs-departments__list nav-categs-departments__list--dynamic aria-check-hovered old_mutation">
+  <li><a href="#" data-order="0">Tecnologia</a></li><li><a href="#" data-order="1">Acessórios para Veículos</a></li><li><a href="#" data-order="2">Beleza e Cuidado Pessoal</a></li><li><a href="#" data-order="3">Esporte e Lazer</a></li><li><a href="#" data-order="4">Casa e Eletrodomésticos</a></li><li><a href="#" data-order="5">Ferramentas e Indústria</a></li><li><a href="#" data-order="6">Brinquedos e Bebês</a></li><li class=" aria-check-hovered old_mutation"><a href="#" data-order="7" class="aria-check-hovered old_mutation">Joias e Relógios</a></li>
+</ul>

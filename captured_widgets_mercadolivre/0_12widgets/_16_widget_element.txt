@@ -1,0 +1,1 @@
+<div class="payment-data-title aria-check-hovered old_mutation">Até 12 parcelas sem juros</div>

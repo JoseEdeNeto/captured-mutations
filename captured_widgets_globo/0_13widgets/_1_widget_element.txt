@@ -1,1 +1,1 @@
-<a data-menu-id="servicos" class="aria-check-hovered old_mutation active"><span class="titulo">serviços</span></a>
+<a href="http://educacao.globo.com/telecurso/" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">Telecurso</span></a>

@@ -1,0 +1,1 @@
+<a class="menu-uol-estacao bg2-hover canal-assine show old_mutation aria-check-hovered" name="menu" data-metrics="menu;assine" href="https://clicklogger.rm.uol.com.br/?prd=11&amp;grp=src:13;chn:539;cpg:linkfixo_menu;creative:assine&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=https://assine.uol.com.br/" data-menu="8j33m6o">Assine</a>

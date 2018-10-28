@@ -1,0 +1,6 @@
+<li class="mmn-item sz sz-41 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/wearable" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		wearable
+																		<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																	</a>
+															</li>

@@ -1,0 +1,1 @@
+<a class="menu-uol-estacao bg2-hover canal-batepapo show old_mutation aria-check-hovered" name="menu" data-metrics="menu;batepapo" href="http://batepapo.uol.com.br/" data-menu="uqacnio">Bate-papo</a>

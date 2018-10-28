@@ -1,0 +1,1 @@
+<h2 class="a-color-base headline truncate-1line aria-check-hovered old_mutation">Explore best sellers</h2>

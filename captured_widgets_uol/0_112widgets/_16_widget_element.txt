@@ -1,0 +1,1 @@
+<script style="" class=" old_mutation">window.uolads && window.uolads.push({ id: "banner-native-shopping-2", customTargetings: {'modelo': 'barra_inferior_shopping_uol'} });</script>

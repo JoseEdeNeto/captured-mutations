@@ -1,1 +1,52 @@
-<a href="http://gshow.globo.com/programas/webseries/" data-menu-id="series-originais" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">séries originais</span></a>
+<div class="hui-premium-multiple__list aria-check-hovered old_mutation"><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+         aria-check-hovered old_mutation"><a href="https://g1.globo.com/sp/sao-paulo/eleicoes/2018/noticia/2018/10/24/marcio-franca-diz-que-nao-e-logico-ampliar-presidios-em-sp-e-propoe-que-imposto-sobre-combustiveis-seja-usado-no-transporte-publico.ghtml" title="Elevar presídios não é lógico, diz França em SP (Marcelo Brandt/G1)" class="hui-premium__link
+            hui-highlight__link
+            
+     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">Elevar presídios não é lógico, diz França em SP</p></a><ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2018/noticia/2018/10/24/ibope-de-23-de-outubro-para-governador-do-rj-por-sexo-idade-renda-escolaridade-religiao-raca-e-condicao-do-municipio.ghtml" title="Witzel lidera no interior do RJ; Paes, na capital (Marcos Serra Lima/G1)" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
+        
+        Witzel lidera no interior do RJ; Paes, na capital
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only mutation_widget" style="">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+         aria-check-hovered old_mutation"><a href="https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/24/pf-deflagra-operacao-de-combate-a-crimes-relacionados-as-eleicoes.ghtml" title="PF atua contra crime eleitoral em 4 estados" class="hui-premium__link
+            hui-highlight__link
+            
+     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">PF atua contra crime eleitoral em 4 estados</p></a><ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://extra.globo.com/emprego/servidor-publico/veja-quais-sao-as-propostas-de-bolsonaro-haddad-para-servico-publico-23180038.html" title="Veja propostas para o serviço público" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
+        
+        Veja propostas para o serviço público
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only mutation_widget" style="">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a href="https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/24/73-dizem-que-nao-receberam-conteudo-no-whatsapp-com-criticas-ou-ataques-a-candidatos-na-semana-antes-do-1o-turno-diz-ibope.ghtml" title="73% dizem não ter visto ataques via WhatsApp" class="hui-premium__link
+            hui-highlight__link
+            
+    "><p class="hui-premium__title">73% dizem não ter visto ataques via WhatsApp</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://epoca.globo.com/como-funciona-maquina-de-whatsapp-que-pode-eleger-bolsonaro-23180627" title="'Época' relata uso de listas e chips do exterior" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        'Época' relata uso de listas e chips do exterior
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only mutation_widget" style="">&nbsp;</div></div>

@@ -1,0 +1,1 @@
+<li class=" aria-check-hovered old_mutation"> <a name="menu-sub" data-metrics="sub-2;batepapo" href="http://tc.batepapo.uol.com.br/todas_as_salas.html?theme=/Amizade#/Amizade" class="cor2-hover cor-transition aria-check-hovered old_mutation"> <strong class="hover-inherit aria-check-hovered old_mutation">Amizade</strong> </a> </li>

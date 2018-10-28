@@ -1,0 +1,1 @@
+<a name="menu-sub" data-metrics="sub-1;entretenimento" href="http://entretenimento.uol.com.br/" class="cor2-hover cor-transition aria-check-hovered old_mutation"> <strong class="hover-inherit aria-check-hovered old_mutation">Página principal</strong> </a>

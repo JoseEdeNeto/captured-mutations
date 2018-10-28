@@ -1,1 +1,1 @@
-<div class=" aria-check-hovered old_mutation"><a href="http://sportv.globo.com/site/combate/" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">MMA</span></a></div>
+<div class="hui-premium__divider show-for-small-only old_mutation" style="">&nbsp;</div>

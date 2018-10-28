@@ -1,0 +1,1 @@
+<img src="https://http2.mlstatic.com/D_Q_NP_998818-MLA25754090344_072017-AE.webp" width="80" height="80" srcset="https://http2.mlstatic.com/D_Q_NP_998818-MLA25754090344_072017-AE.webp 1x, https://http2.mlstatic.com/D_Q_NP_2X_998818-MLA25754090344_072017-AE.webp 2x" class=" old_mutation aria-check-hovered">

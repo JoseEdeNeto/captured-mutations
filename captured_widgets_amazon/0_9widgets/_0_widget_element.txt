@@ -1,0 +1,39 @@
+<style style="" class=" old_mutation">
+			
+			#gw-desktop-herotator,
+			#gw-desktop-herotator .a-carousel-viewport {
+				height: 300px;
+			}
+			
+			#gw-desktop-herotator.tall {
+				 z-index: 0;
+			}
+			#gw-desktop-herotator.tall,
+			#gw-desktop-herotator.tall .a-carousel-controls {
+				max-height: 230px;
+			}
+			#gw-desktop-herotator.tall .a-carousel-viewport {
+				height: auto !important;
+			}
+			
+			#gw-desktop-herotator.tall .a-carousel-viewport::before {
+				background: linear-gradient(-180deg, rgba(234,237,237,0), #EAEDED);
+				bottom: 0;
+				content: "";
+				filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00EAEDED', endColorstr='#EAEDED',GradientType=0);
+				-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#00EAEDED', endColorstr='#EAEDED',GradientType=0)";
+				left: 0;
+				pointer-events: none;
+				position: absolute;
+				right: 0;
+				top: 250px;
+				z-index: 1;
+			}
+			#gw-desktop-herotator.tall .a-carousel-left,
+			#gw-desktop-herotator.tall .a-carousel-right {
+				max-height: 250px;
+			}
+			#gw-desktop-herotator.tall .a-carousel-container {
+				overflow: visible;
+			}
+		</style>

@@ -1,0 +1,8 @@
+<a href="https://www.americanas.com/ame?chave=HM_SV_AME" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		ame digital
+																		<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">ame digital</title>
+																		</svg>
+																	</a>

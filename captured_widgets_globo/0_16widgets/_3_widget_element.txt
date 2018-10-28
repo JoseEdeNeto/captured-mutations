@@ -1,1 +1,1 @@
-<span class="widget-menu__arrow aria-check-hovered old_mutation"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#my-icon"></use></svg></span>
+<span class="titulo aria-check-hovered old_mutation">Aplicativo G1 Enem</span>

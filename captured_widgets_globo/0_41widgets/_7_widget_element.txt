@@ -1,4 +1,0 @@
-<li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://oglobo.globo.com/marun-diz-que-temer-ficou-indignado-abalado-com-indiciamento-23163640" title="'Abalado e indignado', diz Marun sobre Temer" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
-        
-        'Abalado e indignado', diz Marun sobre Temer
-        </a></li>

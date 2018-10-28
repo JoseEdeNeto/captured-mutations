@@ -1,0 +1,10 @@
+<div class="nav-right aria-check-hovered old_mutation">
+        
+        
+        <script type="text/javascript" style="" class=" mutation_widget">window.navmet.tmp=+new Date();</script>
+
+  <div id="nav-swmslot" class=" aria-check-hovered old_mutation">
+    <div id="navSwmHoliday" style="width: 400px; height: 39px; overflow: hidden;position: relative;" class=" aria-check-hovered old_mutation"><a aria-label="New to Amazon? Click here to learn more" href="/b/ref=nav_swm_AE_EN_SWM_WhyA?ie=UTF8&amp;node=17416544011&amp;pf_rd_p=8aeded34-08fd-4dce-8f93-5cd8fd3de1b1&amp;pf_rd_s=nav-sitewide-msg-export&amp;pf_rd_t=4201&amp;pf_rd_i=navbar-4201&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_p=8aeded34-08fd-4dce-8f93-5cd8fd3de1b1" class="nav-imageHref aria-check-hovered old_mutation" tabindex="21"><img src="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/SWM/English/2018/October/FujI_EN_SWM_N2A_Oct18._CB481467230_.png" border="0" class=" aria-check-hovered old_mutation"></a></div>
+  </div>
+<script type="text/javascript" style="" class=" mutation_widget">window.navmet.push({key:'SWM',end:+new Date(),begin:window.navmet.tmp});</script>
+      </div>

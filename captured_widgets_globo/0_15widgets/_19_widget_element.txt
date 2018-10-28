@@ -1,3 +1,0 @@
-<a data-menu-id="top-ge" class="active old_mutation"><div class="barrinhas"></div><span class="titulo">
-                                            top páginas
-                                        </span></a>

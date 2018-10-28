@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Duelo de líderes Fla x Palmeiras já tem ingressos esgotados" data-url="https://extra.globo.com/esporte/flamengo/torcida-esgota-os-ingressos-para-flamengo-palmeiras-no-maracana-23181008.html" data-image-url="https://s2.glbimg.com/-p7WKvDWz0QRMw-BhzPoyiZ8sXc=/326x43:1090x564/293x200/s.glbimg.com/es/ge/f/original/2015/08/02/torcida_fla1.jpg"></div></div>

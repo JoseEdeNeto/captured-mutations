@@ -1,3 +1,0 @@
-<div class="column large-1 show-for-large hui-premium__divider hui-premium__divider--vertical-medium aria-check-hovered old_mutation">
-        &nbsp;
-    </div>

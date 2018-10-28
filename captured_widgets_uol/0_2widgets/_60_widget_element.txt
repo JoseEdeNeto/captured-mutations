@@ -1,0 +1,1 @@
+<span class="description-text linha-fina cor3 cor2-hover cor-transition assine aria-check-hovered old_mutation">Assine UOL e tenha <br> e-mails protegidos, conteúdo exclusivo, Clube UOL e muito mais!</span>

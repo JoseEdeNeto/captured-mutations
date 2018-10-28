@@ -1,0 +1,1 @@
+<span class="widget-economia__points aria-check-hovered old_mutation">83.949pts (-1351,09)</span>

@@ -1,0 +1,1 @@
+<span class="widget-economia__pctchng aria-check-hovered old_mutation">1,58</span>

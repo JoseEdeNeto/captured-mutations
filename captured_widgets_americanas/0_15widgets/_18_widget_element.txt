@@ -1,0 +1,47 @@
+<li class="mmn-item has-children mmn-submenu sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/utilidades-domesticas/pratos-e-talheres" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									pratos e talheres
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">pratos e talheres</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4 aria-check-hovered old_mutation">
+																										<ul class="mmn-list sizer szr-3 no-col aria-check-hovered old_mutation">
+																											<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">pratos e talheres</span></li>
+																														<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																															<a href="#" class="mmn-back mmn-bk-level-4 mutation_widget" style="">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">aparelho de jantar</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/utilidades-domesticas/pratos-e-talheres/aparelho-de-jantar" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																aparelho de jantar
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/utilidades-domesticas/pratos-e-talheres/faqueiros" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																faqueiros
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/utilidades-domesticas/pratos-e-talheres/pratos-avulsos" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																pratos avulsos
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																															<a href="https://www.americanas.com.br/categoria/utilidades-domesticas/pratos-e-talheres" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais pratos e talheres
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>

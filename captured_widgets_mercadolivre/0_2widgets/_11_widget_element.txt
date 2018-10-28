@@ -1,0 +1,41 @@
+<script style="" class=" old_mutation">
+(function(w, r) {
+  w[r] = w[r] || function() {
+    (w[r].q = w[r].q || []).push(arguments)
+  }
+})(window,'melidata');
+(function(d,u) {
+  if (!document.getElementById("MelidataIframe")) {
+    var i = d.createElement('iframe');
+    (i.frameElement || i).style.cssText = "width: 0; height: 0; border: 0; position: absolute";
+    i.src = "javascript:false";
+    i.id = "MelidataIframe";
+    var t = d.getElementsByTagName('script')[0];
+    t.parentNode.insertBefore(i, t);
+    var doc = i.contentWindow.document;
+    doc.open().write('<body onload="' +
+      'window.inDapIF = true;' +
+      'var js = document.createElement(\'script\');' +
+      'js.src = \'' + u + '\';' +
+      'document.body.appendChild(js);">');
+    doc.close();
+  } else {
+    // This page is charged async via AJAX and inserted into another one who has
+    // already download melidata js lib => Just clean the track
+    melidata("clean");
+  }
+})(document,'https://http2.mlstatic.com/storage/melidata-web-sdk/js/3/0.0.75/melidata.min.js');
+
+melidata("add", "id", "6048a5da-95d8-475f-9820-55662c368c66");
+melidata("add", "server_id", "6048a5da-95d8-475f-9820-55662c368c66" );
+melidata("add", "application", {"version":"0.52.4","server_hostname":"i-0854af65cbf68de59-10","server_poolname":"homes-palpatine-mlb","sdk_version":{"node_version":"v8.9.0"},"business":"mercadolibre","site_id":"MLB"});
+melidata("add", "user", {"uid":"8f5be841-8e9c-4fd2-9956-b8e68f7dfb83"});
+melidata("add", "device", {"platform":"/web/desktop","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/70.0.3538.77 Safari/537.36"});
+melidata("add", "platform", {"http":{"cookies":{},"headers":{"host":"www.mercadolivre.com.br","x-device-js":"true","x-nginx-host":"i-0ee985491aba48bea-10.92.77.76","x-platform":"ml"},"http_url":"http://www.mercadolivre.com.br"}});
+melidata("add", "experiments", {"frontend/assetsCdnDomainMLB":1743,"frontend/useNamogooForMLB":1895,"home/redesignHome":"1162"});
+melidata("add", "experiments_timestamp", "2018-10-24T21:27:08.06UTC");
+melidata("add", "event_data", {});
+melidata("send", "view", {
+  path: "/home",
+  data: {}
+}, "melidata");</script>

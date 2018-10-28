@@ -1,0 +1,4 @@
+<a href="https://www.americanas.com.br/categoria/games/pc-gaming" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		pc gaming
+																		<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																	</a>

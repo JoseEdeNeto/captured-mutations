@@ -1,0 +1,13 @@
+<div id="desktop-grid-4" data-gwi="{&quot;visible&quot;:&quot;desktop-grid-4-visible&quot;,&quot;active&quot;:&quot;desktop-grid-4-active&quot;}" data-order-ws="4" class="gw-col celwidget csm-placement-id-92311375-7987-4cfe-b33b-80aaf4d4ce05 aria-check-hovered old_mutation" data-order-sm="6" data-cel-widget="desktop-grid-4"><div id="KU-6SOX2xg8Os1pgN721MQ" class="a-cardui gw-sign-in aria-check-hovered old_mutation" data-a-card-type="basic">
+    <div class="a-cardui-header aria-check-hovered old_mutation">
+      <h2 class="headline aria-check-hovered old_mutation">Sign in for the best experience</h2>
+    </div>
+    <div class="a-cardui-body aria-check-hovered old_mutation">
+      <span class="a-button a-spacing-top-small a-button-span12 a-button-primary button aria-check-hovered old_mutation" id="a-autoid-0"><span class="a-button-inner aria-check-hovered old_mutation"><a href="https://www.amazon.com/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fref%3Dgw_sgn_ib%2F142-1874175-7485358&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=usflex&amp;openid.mode=checkid_setup&amp;marketPlaceId=ATVPDKIKX0DER&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;" class="a-button-text aria-check-hovered old_mutation" role="button" id="a-autoid-0-announce">Sign in securely</a></span></span>
+    </div>
+    
+    <script type="text/javascript" style="" class=" mutation_widget">//<![CDATA[
+	(function(f) {f(P._namespace('gwiAutoInstVisible'));}(function(P) {if(window.GWI){GWI.Card.autoInstVisible('KU-6SOX2xg8Os1pgN721MQ');}}));
+    (function(f) {f(P._namespace('gwiAutoInstActive'));}(function(P) {if(window.GWI){GWI.Card.autoInstActive('KU-6SOX2xg8Os1pgN721MQ');}}));
+  //]]></script>
+  </div></div>

@@ -1,0 +1,8 @@
+<li class="lst-item highlight aria-check-hovered mutation_widget">
+			<a href="https://www.americanas.com.br/oferta-do-dia?chave=prf_hm_0_tt_7_" title="oferta do dia" class="lst-lnk rp aria-check-hovered mutation_widget" rel="nofollow">
+					<svg class="highlight-icon" role="img">
+						<use xlink:href="#bhf_brand-simple"></use>
+					</svg>
+				oferta do dia
+			</a>
+		</li>

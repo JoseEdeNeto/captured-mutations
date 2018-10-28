@@ -1,0 +1,4 @@
+Widget number,Position X,Position Y,Width,Height,Number of Child Nodes,AverageWidth,AverageHeight,Average posX,Average posY,DeviationWidth, DeviationHeight, DeviationX, DeviationY
+000,1241,3176,75,18,2,32.5,11.5,1253.5,3179.5,30.405591591021544,2.1213203435596424,10.606601717798213,0.7071067811865476,
+001,1246,3179,11,13,1,9.0,12.0,1247.0,3179.0,0.0,0.0,0.0,0.0,
+001,1261,3180,54,10,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,

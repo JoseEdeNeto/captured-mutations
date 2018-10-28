@@ -1,0 +1,18 @@
+<li class="nav-menu-categories aria-check-hovered old_mutation nav-menu-chevron-down">
+<nav class="nav-categs old_mutation" data-js="nav-categs">
+  <section class="nav-categs-departments old_mutation" data-js="nav-categs-departments">
+<ul class="nav-categs-departments__list nav-categs-departments__list--dynamic">
+  <li><a href="#" data-order="0">Tecnologia</a></li><li><a href="#" data-order="1">Acessórios para Veículos</a></li><li><a href="#" data-order="2">Beleza e Cuidado Pessoal</a></li><li><a href="#" data-order="3">Esporte e Lazer</a></li><li><a href="#" data-order="4">Casa e Eletrodomésticos</a></li><li><a href="#" data-order="5">Ferramentas e Indústria</a></li><li><a href="#" data-order="6">Brinquedos e Bebês</a></li><li><a href="#" data-order="7">Joias e Relógios</a></li>
+</ul>
+<ul class="nav-categs-departments__list nav-categs-departments__list--static">
+  <li><a href="https://ofertas.mercadolivre.com.br/supermercado#menu=categories">Supermercado</a></li><li><a href="https://ofertas.mercadolivre.com.br/livros#menu=categories">Livros</a></li><li><a href="https://www.mercadolivre.com.br/moda/#menu=categories">Moda</a></li><li><a href="https://www.mercadolivre.com.br/lojas-oficiais/#menu=categories">Lojas oficiais</a></li>
+</ul>
+<ul class="nav-categs-departments__list nav-categs-departments__list--static">
+  <li><a href="https://www.mercadolivre.com.br/veiculos/#menu=categories">Veículos</a></li><li><a href="https://www.mercadolivre.com.br/imoveis/#menu=categories">Imóveis</a></li>
+</ul>
+<ul class="nav-categs-departments__list nav-categs-departments__list--static">
+  <li><a href="https://www.mercadolivre.com.br/categories.html#menu=categories">Ver mais categorias</a></li>
+</ul></section>
+  <section class="nav-categs-detail mutation_widget" data-js="nav-categs-detail" hidden="" style=""></section>
+</nav>
+<a href="https://www.mercadolivre.com.br/categories.html" class="nav-menu-categories-link aria-check-hovered old_mutation" rel="nofollow" data-js="nav-menu-categories-trigger">Categorias</a></li>

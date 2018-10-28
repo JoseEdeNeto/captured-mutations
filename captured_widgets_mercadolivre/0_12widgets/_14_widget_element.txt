@@ -1,0 +1,1 @@
+<a class="payment-data-icon aria-check-hovered old_mutation" href="/gz/home/payments/methods" data-title="Formas de pagamento"><img alt="" src="https://http2.mlstatic.com/resources/frontend/homes-korriban/assets/images/payments/credit-card.svg" class=" aria-check-hovered old_mutation"></a>

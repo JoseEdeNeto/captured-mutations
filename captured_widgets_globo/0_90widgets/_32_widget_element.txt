@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Brasileiro tenta achar pai desaparecido perto de Paris: 'Agonia'" data-url="https://g1.globo.com/mundo/noticia/2018/10/24/brasileiro-de-66-anos-com-alzheimer-esta-desaparecido-na-franca.ghtml" data-image-url="https://s2.glbimg.com/tlA-6-3yZlORrc7D6MY9SVmZcvI=/0x14:549x389/293x200/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/n/k/gOJRquSHWKwCDz4ooCeQ/104014006-0b5423f6-bc77-456f-9ba9-62b3c53bc300.jpg"></div></div>

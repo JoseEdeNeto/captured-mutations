@@ -1,1 +1,1 @@
-<a class="hui-columns__more hui-highlight__link hui-see-more__hide-extra-itens hui-highlight-hover-effect hui-highlight-title aria-check-hovered old_mutation" title="mais variedades" href="https://gshow.globo.com/">mais variedades ›</a>
+<li class="has-link has-children aria-check-hovered old_mutation"><a href="http://gshow.globo.com/programas/webseries/" data-menu-id="series-originais" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">séries originais</span></a></li>

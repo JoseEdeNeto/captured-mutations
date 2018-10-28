@@ -1,18 +1,1 @@
-<div class="hui-premium
-            column medium-8 hui-premium-multiple hui-premium-triplo
-            home-analytics-id-S
-            home-analytics-area
-            
-            
-                hui-premium--has-related
-                
-            
-                hui-color-journalism
-            
-         aria-check-hovered old_mutation"><a href="https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2018/noticia/2018/10/18/tre-rj-mantem-biometria-no-2o-turno-mas-nao-cre-em-novas-filas-houve-muita-confusao-por-serem-seis-cargos.ghtml" title="TRE-RJ mantém a biometria e crê em filas menores" class="hui-premium__link
-            hui-highlight__link
-            
-     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">TRE-RJ mantém a biometria e crê em filas menores</p></a><ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://oglobo.globo.com/fato-ou-fake/veja-que-fato-ou-fake-nas-falas-dos-candidatos-ao-governo-do-rj-no-debate-de-globo-extra-epoca-23163819" title="Veja fato ou fake do debate de Witzel e Paes" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
-        
-        Veja fato ou fake do debate de Witzel e Paes
-        </a></li></ul></div>
+<li class="has-link has-children aria-check-hovered old_mutation"><a href="http://redeglobo.globo.com" data-menu-id="na-tv" class="aria-check-hovered old_mutation active"><span class="titulo">na tv</span></a></li>

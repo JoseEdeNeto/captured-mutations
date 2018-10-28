@@ -1,1 +1,1 @@
-<a href="#aquario" class="widgetHoroscopoMenu-signs aria-check-hovered old_mutation" data-sign_slug="aquario"><svg class="widget-horoscopo__footer-sign" xmlns="http://www.w3.org/2000/svg"><use class="widget-horoscopo__footer-svg" xlink:href="#widget-horoscopo__aquario"></use></svg></a>
+<div class=" aria-check-hovered old_mutation"><a href="http://canalbrasil.globo.com/" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">Canal Brasil</span></a></div>

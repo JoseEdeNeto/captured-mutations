@@ -1,0 +1,1 @@
+<span id="gw-quick-look-btn" class="a-button a-button-base old_mutation" style=""><span class="a-button-inner"><input aria-hidden="true" class="a-button-input" type="submit" aria-labelledby="gw-quick-look-btn-announce"><span id="gw-quick-look-btn-announce" class="a-button-text" aria-hidden="true">Quick look</span></span></span>

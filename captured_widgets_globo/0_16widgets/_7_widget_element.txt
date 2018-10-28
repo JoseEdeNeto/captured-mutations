@@ -1,1 +1,1 @@
-<li class="has-link has-children aria-check-hovered old_mutation"><a href="http://sportv.globo.com/" data-menu-id="sportv" class="aria-check-hovered old_mutation"><span class="titulo">sportv</span></a></li>
+<div class=" aria-check-hovered old_mutation"><a href="http://g1.globo.com/loteria/" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">Loterias</span></a></div>

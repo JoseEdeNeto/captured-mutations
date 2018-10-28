@@ -1,0 +1,5 @@
+<script type="text/javascript" style="" class=" old_mutation">
+  if(window.GWI && window.GWI.BillboardWidget){
+    new window.GWI.BillboardWidget('lsTqVMBPgMp8FvdlQG3pKg', ['https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/Billboard/English/1122014_us_ags_gw_billboard_toys_gw_bb_440x200_1529963428._CB474165514_.jpg']);
+  };
+</script>

@@ -1,0 +1,1 @@
+<div class="payment-data-section payment-data-section-leading aria-check-hovered old_mutation"><div class="payment-data-title aria-check-hovered old_mutation">Pagamento cômodo e seguro</div><div class="payment-data-subtitle aria-check-hovered old_mutation">com Mercado Pago</div></div>

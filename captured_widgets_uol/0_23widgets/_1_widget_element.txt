@@ -1,0 +1,1 @@
+<span class="team-score saldo-gols aria-check-hovered old_mutation" data-json="e1">&nbsp;</span>

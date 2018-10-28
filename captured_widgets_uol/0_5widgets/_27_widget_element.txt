@@ -1,0 +1,1 @@
+<li class=" aria-check-hovered old_mutation"> <a name="menu-sub" data-metrics="sub-8;eleicoes" href="https://noticias.uol.com.br/politica/eleicoes/2018/guia/guia-do-eleitor.htm" class="cor2-hover cor-transition aria-check-hovered old_mutation"> <strong class="hover-inherit aria-check-hovered old_mutation">Guia do eleitor</strong> </a> </li>

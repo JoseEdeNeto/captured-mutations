@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Cartola do Bugre pode pagar até R$ 100 mil por cartaz após Dérbi" data-url="https://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/guarani/noticia/dirigente-pode-ser-punido-com-multa-de-ate-r-100-mil-por-provocacao-no-derbi-do-majestoso.ghtml" data-image-url="https://s2.glbimg.com/fMExaNKQRQRrygp6lf6cJmq_zZA=/94x0:1267x800/293x200/s.glbimg.com/en/ho/f/original/2018/10/24/guarani1.jpg"></div></div>

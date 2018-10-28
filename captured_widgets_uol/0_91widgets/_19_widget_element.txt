@@ -1,0 +1,1 @@
+<span class="valor corb aria-check-hovered old_mutation">R$ 4,245</span>

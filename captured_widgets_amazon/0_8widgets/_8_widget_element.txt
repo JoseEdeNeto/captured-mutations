@@ -1,0 +1,82 @@
+<div id="desktop-banner" class="celwidget csm-placement-id-d458eb6d-7034-4d68-8c13-e4795f95ff5b aria-check-hovered old_mutation" data-cel-widget="desktop-banner">
+		<style style="" class=" mutation_widget">
+			
+			#gw-desktop-herotator,
+			#gw-desktop-herotator .a-carousel-viewport {
+				height: 300px;
+			}
+			
+			#gw-desktop-herotator.tall {
+				 z-index: 0;
+			}
+			#gw-desktop-herotator.tall,
+			#gw-desktop-herotator.tall .a-carousel-controls {
+				max-height: 230px;
+			}
+			#gw-desktop-herotator.tall .a-carousel-viewport {
+				height: auto !important;
+			}
+			
+			#gw-desktop-herotator.tall .a-carousel-viewport::before {
+				background: linear-gradient(-180deg, rgba(234,237,237,0), #EAEDED);
+				bottom: 0;
+				content: "";
+				filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00EAEDED', endColorstr='#EAEDED',GradientType=0);
+				-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#00EAEDED', endColorstr='#EAEDED',GradientType=0)";
+				left: 0;
+				pointer-events: none;
+				position: absolute;
+				right: 0;
+				top: 250px;
+				z-index: 1;
+			}
+			#gw-desktop-herotator.tall .a-carousel-left,
+			#gw-desktop-herotator.tall .a-carousel-right {
+				max-height: 250px;
+			}
+			#gw-desktop-herotator.tall .a-carousel-container {
+				overflow: visible;
+			}
+		</style>
+		<div id="gw-desktop-herotator" class="a-section a-spacing-none aok-relative short gw-desktop-herotator-ready aria-check-hovered old_mutation">
+			<div data-a-carousel-options="{&quot;set_size&quot;:3,&quot;minimum_gutter_width&quot;:0,&quot;maintain_state&quot;:false,&quot;show_partial_next&quot;:false,&quot;name&quot;:&quot;gateway-desktop-layout.herotator&quot;,&quot;circular&quot;:false,&quot;animation_speed&quot;:6000}" data-a-display-strategy="single" data-a-transition-strategy="slideCircular" data-a-class="desktop" class="a-begin a-carousel-container a-carousel-display-single a-carousel-transition-slideCircular gw-desktop-herotator a-carousel-initialized aria-check-hovered old_mutation"><input autocomplete="on" type="hidden" class="a-carousel-firstvisibleitem old_mutation" value="1" style="">
+				<div class="a-row a-carousel-controls a-carousel-row a-carousel-has-buttons a-carousel-overlay-buttons a-carousel-rounded-buttons aria-check-hovered old_mutation"><div class="a-carousel-row-inner aria-check-hovered old_mutation"><div class="a-carousel-col a-carousel-left celwidget aria-check-hovered old_mutation" style="visibility: visible; z-index: 10;" cel_widget_id="gw-desktop-hero-left-cel" data-cel-widget="gw-desktop-hero-left-cel"><a class="a-carousel-goto-prevpage old_mutation aria-check-hovered" tabindex="0" href="#" aria-disabled="true"><i class="a-icon a-icon-previous-rounded aria-check-hovered old_mutation"><span class="a-icon-alt">Previous page</span></i></a></div><div class="a-carousel-col a-carousel-center aria-check-hovered old_mutation"><div class="a-carousel-viewport aria-check-hovered old_mutation" id="anonCarousel1" style="height: 300px;"><ol class="a-carousel aria-check-hovered old_mutation" role="list" style="width: 4500px; transform: translateX(-1500px) translateZ(0px);" aria-busy="false"><li class="a-carousel-card old_mutation" role="listitem" aria-setsize="3" aria-posinset="1" aria-hidden="false" style="visibility: visible; width: 1500px; margin: 0px;">
+						<div id="gw-ftGr-desktop-hero-E" class="celwidget csm-placement-id-1ae28429-b01c-409c-95e5-3ea4f9abd23a gw-ftGr-desktop-hero" data-cel-widget="gw-ftGr-desktop-hero-E"><div class="cropped-image-link image-map shogun-widget card-lite ameyal-cropped-image-link" id="wGgT-KnHKMB7YNx0EBnIMg">
+<div class="cropped-image-map-size" style="height: 300px"><div class="cropped-image-map-center-alignment"><span style="display: inline-block"><a class="a-link-normal aok-inline-block" href="/s/ref=fuji_en_hero_w_arrivals?fst=as%3Aoff&amp;rh=i%3Aspecialty-aps%2Cn%3A17923043011%2Cp_n_date_first_available_absolute%3A15196852011&amp;bbn=17923043011&amp;sort=date-desc-rank&amp;ie=UTF8&amp;qid=1533595204&amp;rnid=15196851011&amp;pf_rd_p=1ae28429-b01c-409c-95e5-3ea4f9abd23a&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6"><img alt="New arrivals. Women's Fashion." src="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/ipruden_2018-06-19T17-31_aa9f95_1121796_us_ags_gw_hero_newcopy_PW_HERO_W_CasualFriday_1x._CB475587992_.jpg" height="300px" width="1500px" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/ipruden_2018-06-19T17-31_aa9f95_1121796_us_ags_gw_hero_newcopy_PW_HERO_W_CasualFriday_2x._CB475570960_.jpg"></a>
+<div class="a-section"></div>
+</span>
+</div>
+</div>
+</div>
+
+</div> 
+								
+					</li><li class="a-carousel-card aria-check-hovered old_mutation" role="listitem" aria-setsize="3" aria-posinset="2" aria-hidden="true" style="visibility: visible; width: 1500px; margin: 0px;">
+						<div id="gw-ftGr-desktop-hero-A" class="gw-ftGr-desktop-hero gw-critical-content celwidget csm-placement-id-c1233aca-86e2-49e6-913f-772ff664053e aria-check-hovered old_mutation" data-cel-widget="gw-ftGr-desktop-hero-A"><div class="cropped-image-link image-map shogun-widget card-lite ameyal-cropped-image-link aria-check-hovered old_mutation" id="ra6TrvNZSGto59frpW7__w"><script type="text/javascript" style="" class=" mutation_widget">
+  if(window.GWI && window.GWI.BillboardWidget){
+    new window.GWI.BillboardWidget('ra6TrvNZSGto59frpW7__w', ['https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/Confidence_English_Hero1500x300._CB482150538_.png']);
+  };
+</script>
+<div class="cropped-image-map-size aria-check-hovered old_mutation" style="height: 300px"><div class="cropped-image-map-center-alignment aria-check-hovered old_mutation"><span style="display: inline-block" class=" aria-check-hovered old_mutation"><a class="a-link-normal aok-inline-block aria-check-hovered old_mutation" href="/b/ref=AE_EN_Hero_Confidence?node=17416544011&amp;pf_rd_p=c1233aca-86e2-49e6-913f-772ff664053e&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6"><img alt="Shop with 100% confidence on Amazon" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/Confidence_English_Hero1500x300._CB482150538_.png" height="300px" width="1500px" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/Confidence_English_Hero3000x600._CB482150534_.png" class=" aria-check-hovered old_mutation"></a>
+<div class="a-section"></div>
+</span>
+</div>
+</div>
+</div>
+<script style="" class=" mutation_widget">(function(f) {f(P._namespace('gwiAutoInstVisible'));}(function(P) {if(window.GWI){GWI.Card.autoInstVisible('ra6TrvNZSGto59frpW7__w');}}));</script>
+</div>
+					</li><li class="a-carousel-card old_mutation" role="listitem" aria-setsize="3" aria-posinset="3" aria-hidden="true" style="visibility: visible; width: 1500px; margin: 0px;">
+						<div id="gw-ftGr-desktop-hero-B" class="celwidget csm-placement-id-c40f03b0-c909-47b2-bdae-e099653068d5 gw-ftGr-desktop-hero" data-cel-widget="gw-ftGr-desktop-hero-B"><div class="cropped-image-link image-map shogun-widget card-lite ameyal-cropped-image-link" id="N7K_1Mnz_tyvssc_Wnidtw">
+<div class="cropped-image-map-size" style="height: 300px"><div class="cropped-image-map-center-alignment"><span style="display: inline-block"><a class="a-link-normal aok-inline-block" href="/b/ref=AE_EN_Hero_Deals?node=15529609011&amp;pf_rd_p=c40f03b0-c909-47b2-bdae-e099653068d5&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6"><img alt="Shop Today’s Deals. Low prices and new deals every day." src="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/2018/September/Fuji_EN_Deals2_1500x300._CB485793519_.png" height="300px" width="1500px" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/2018/September/Fuji_EN_Deals2_3000x600._CB485793518_.png"></a>
+<div class="a-section"></div>
+</span>
+</div>
+</div>
+</div>
+
+</div> 
+								
+					</li></ol></div></div><div class="a-carousel-col a-carousel-right celwidget" style="visibility: visible; z-index: 10;" cel_widget_id="gw-desktop-hero-right-cel" data-cel-widget="gw-desktop-hero-right-cel"><a class="a-carousel-goto-nextpage old_mutation" tabindex="0" href="#" aria-disabled="false"><i class="a-icon a-icon-next-rounded"><span class="a-icon-alt">Next page</span></i></a></div></div></div>
+			<span class="a-end aok-hidden mutation_widget" style=""></span></div>
+		</div>
+	</div>

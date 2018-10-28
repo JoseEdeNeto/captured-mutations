@@ -1,0 +1,1 @@
+<div class="widget-horizontal-item-click aria-check-hovered old_mutation" data-widget-subject="sao-paulo" data-tags="15308+AND+16130" data-name="São Paulo" title="São Paulo"> <div class="widget-horizontal-time sprite-futebol sprite-futebol-sao-paulo aria-check-hovered old_mutation"></div> <div class="widget-horizontal-time-nome mutation_widget" style="">São Paulo</div> </div>

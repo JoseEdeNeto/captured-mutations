@@ -1,0 +1,1 @@
+<div class="widget-horizontal-time sprite-futebol sprite-futebol-ceara aria-check-hovered old_mutation"></div>

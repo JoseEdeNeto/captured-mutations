@@ -1,0 +1,231 @@
+<ul class="mmn-list sizer szr-2 no-col aria-check-hovered old_mutation">
+													<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">tv, áudio e home theater</span></li>
+																<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																	<a href="#" class="mmn-back mmn-bk-level-2 mutation_widget" style="">
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">tv e home theater</title>
+																		</svg>
+																		Voltar
+																	</a>
+																</li>
+															<li class="mmn-item has-children mmn-submenu sz sz-1 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/tv-e-home-theater" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		tv e home theater
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">tv e home theater</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3 aria-check-hovered old_mutation">
+																			<ul class="mmn-list sizer szr-5 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">tv e home theater</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">tv</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item has-children mmn-submenu sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									tv
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">tv</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4 aria-check-hovered old_mutation">
+																										<ul class="mmn-list sizer szr-12 no-col aria-check-hovered old_mutation">
+																											<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">tv</span></li>
+																														<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																															<a href="#" class="mmn-back mmn-bk-level-4 mutation_widget" style="">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">tv 4k</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/tv-4k" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																tv 4k
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/smart-tv" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																smart tv
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/tv-led" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																tv led
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/f/polegadas-32%22" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																tv 32"
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/f/polegadas-40/polegadas-40%22/polegadas-42%22/polegadas-43%22?ordenacao=bestSellers&amp;origem=omega" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																tvs 40" a 43"
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-6 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/f/polegadas-49%22/polegadas-50%22" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																tvs 49" a 50"
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-7 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/f/marca-Samsung" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																samsung
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-8 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/f/marca-Philips" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																philips
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-9 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/f/marca-LG" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																lg
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-10 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/f/marca-Semp/marca-Semp-TCL/marca-Semp-Toshiba/marca-TCL/marca-Toshiba" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																semp tcl
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-11 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv/f/marca-Philco" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																philco
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-12 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/f/tag-sl23-acom-menu-usados?origem=omega" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																tvs usadas e seminovas
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/tv" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais tv
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/home-theater" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									home theater
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/acessorios-para-tv-e-video/suporte-para-tv" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									suporte para tv
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/acessorios-para-tv-e-video/conversores-digitais" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									conversor digital
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/acessorios-para-tv-e-video/cabos-e-conectores-de-audio-e-video/cabo-hdmi" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									cabo hdmi
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/categoria/tv-e-home-theater" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais tv e home theater
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+															<li class="mmn-item has-children mmn-submenu sz sz-2 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/audio" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		áudio
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">áudio</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3 aria-check-hovered old_mutation">
+																			<ul class="mmn-list sizer szr-6 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">áudio</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">caixa de som bluetooth</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/audio/dock-station-e-caixas-bluetooth" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									caixa de som bluetooth
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/audio/micro-system" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									micro system
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/audio/som-portatil" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									som portátil
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/audio/mini-system" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									mini system
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/audio/fones-de-ouvido" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									fone de ouvido
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-6 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/audio/soundbar" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									soundbar
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/categoria/audio" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais áudio
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+												</ul>

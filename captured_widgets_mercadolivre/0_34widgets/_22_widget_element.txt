@@ -1,0 +1,1 @@
+<div class="img-container aria-check-hovered old_mutation"><img src="https://http2.mlstatic.com/resources/frontend/homes-korriban/assets/images/ecosystem/protected.svg" class="img-container old_mutation aria-check-hovered" alt="Segurança, do início ao fim"></div>

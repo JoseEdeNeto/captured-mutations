@@ -1,0 +1,1 @@
+<a class="category" href="https://home.mercadolivre.com.br/eletrodomesticos/#c_id=/home/categories/element&amp;c_category_id=MLB5726"><div class="icon"><svg class="nc-icon"><use xlink:href="#nc-oven"></use></svg></div><p>Eletrodomésticos</p></a>

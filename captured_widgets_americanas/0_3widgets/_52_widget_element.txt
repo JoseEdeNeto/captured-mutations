@@ -1,0 +1,35 @@
+<li class="mmn-item has-children mmn-submenu sz sz-4 aria-check-hovered old_mutation hover">
+																	<a href="https://www.americanas.com.br/categoria/gift-card" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		gift cards
+																		<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">gift cards</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-1 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">gift cards</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">viagens e lazer</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item    sz sz-1">
+																								<a href="https://www.americanas.com.br/categoria/gift-card/viagens-e-lazer" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									viagens e lazer
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/gift-card" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais gift cards
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>

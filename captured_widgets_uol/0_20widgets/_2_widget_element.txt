@@ -1,0 +1,1 @@
+<div class="team team-home aria-check-hovered old_mutation"> <img class="team-flag aria-check-hovered old_mutation" alt="PSG" title="PSG" width="24px" height="24px" src="https://e.imguol.com/futebol/brasoes/100x100/psg.png"> <span class="team-name" title="PSG">PSG</span> <span class="team-score saldo-gols" data-json="e1">&nbsp;</span> </div>

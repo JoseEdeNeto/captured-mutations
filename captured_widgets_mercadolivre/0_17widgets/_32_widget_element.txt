@@ -1,0 +1,1 @@
+<img src="https://http2.mlstatic.com/resources/frontend/homes-korriban/assets/images/ecosystem/payment.svg" class="img-container old_mutation" alt="Pague com cartão de crédito ou boleto">

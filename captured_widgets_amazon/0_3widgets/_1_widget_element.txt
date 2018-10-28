@@ -1,0 +1,1 @@
+<div class="nav-arrow old_mutation" style="position: absolute; left: 34.7656px;"><div class="nav-arrow-inner"></div></div>

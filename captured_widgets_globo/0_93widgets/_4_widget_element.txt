@@ -1,0 +1,1 @@
+<div class="widget-economia__finance-value down aria-check-hovered old_mutation"><div class="widget-economia__up-down-icon aria-check-hovered old_mutation">-</div><span class="widget-economia__pctchng aria-check-hovered old_mutation">1,58</span><sup class="widget-economia__percent aria-check-hovered old_mutation">%</sup></div>

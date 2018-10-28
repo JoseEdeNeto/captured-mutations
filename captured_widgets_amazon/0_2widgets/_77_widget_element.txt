@@ -1,0 +1,1 @@
+<script type="text/html" id="s-minimal" style="" class=" old_mutation"><div class="s-suggestion s-custom" data-url="<#= url #>"><#= bprefix #><span class="s-heavy"><#= prefix #></span><#= suffix #></div></script>

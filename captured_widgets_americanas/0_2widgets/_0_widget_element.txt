@@ -1,0 +1,11 @@
+<script type="application/ld+json" style="" class=" old_mutation">{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "Americanas.com",
+  "url": "https://www.americanas.com.br",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.americanas.com.br/busca?conteudo={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}</script>

@@ -1,1 +1,0 @@
-<tr class=" aria-check-hovered old_mutation"><td class=" aria-check-hovered old_mutation">Euro</td><td class="value aria-check-hovered old_mutation">R$ <span class="euro aria-check-hovered old_mutation">4,246</span></td></tr>

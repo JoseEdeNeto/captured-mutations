@@ -1,0 +1,1 @@
+<div class="section-header aria-check-hovered old_mutation"><h1 class=" aria-check-hovered old_mutation">Ofertas da semana</h1><a href="http://ofertas.mercadolivre.com.br/ofertas-da-semana#c_id=/home/week-deal/element" id="view-more">Ver mais</a></div>

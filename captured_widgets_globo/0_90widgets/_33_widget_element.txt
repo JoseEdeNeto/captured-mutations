@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Polícia procura sósia de ator de 'Friends' por roubo e post viraliza" data-url="https://extra.globo.com/noticias/mundo/fas-de-friends-apontam-semelhanca-entre-suspeito-de-roubo-na-inglaterra-ator-23180782.html" data-image-url="https://s2.glbimg.com/hFq9WiRNidusXWsnYNVvj-hLfN4=/18x2:580x385/293x200/e.glbimg.com/og/ed/f/original/2018/10/24/ross_lookalike.jpg"></div></div>

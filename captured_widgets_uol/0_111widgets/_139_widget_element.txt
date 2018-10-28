@@ -1,0 +1,5 @@
+<div class="ad-box item-dfp-native aria-check-hovered old_mutation">
+              <a class="ad-link item-dfp-native" id="banner-native-shopping-3">
+                <script style="" class=" mutation_widget">window.uolads && window.uolads.push({ id: "banner-native-shopping-3", customTargetings: {'modelo': 'barra_inferior_shopping_uol'} });</script>
+            </a>
+            </div>

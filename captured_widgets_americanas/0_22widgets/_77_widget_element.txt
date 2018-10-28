@@ -1,0 +1,1 @@
+<span class="rating-star-average old_mutation" style="">3.8</span>

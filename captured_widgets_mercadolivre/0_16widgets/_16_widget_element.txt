@@ -1,0 +1,1 @@
+<span class="advertising__info__text advertising__info__text--bold aria-check-hovered old_mutation">SEGURANÇA</span>

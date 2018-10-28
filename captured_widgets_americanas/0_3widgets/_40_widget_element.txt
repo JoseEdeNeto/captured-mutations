@@ -1,0 +1,6 @@
+<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/automotivo/pneus/pneu-para-moto" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									pneus para motos
+																									
+																								</a>
+																						</li>

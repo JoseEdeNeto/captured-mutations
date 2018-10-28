@@ -1,0 +1,7 @@
+<ul class="header-banner sizer szr-1 aria-check-hovered old_mutation" data-pos="x85">
+													<li class="hdr-bnr-item sz sz-1 aria-check-hovered old_mutation">
+														<a href="https://www.americanas.com.br/hotsite/red-dead?chave=pm_hm_mn_gam_acom_rockstar_reddead_lancamento_2610" class="hdr-bnr-link aria-check-hovered old_mutation" title="Lançamento Red Dead 2">
+															<div class="hdr-bnr-image loaded lzy old_mutation aria-check-hovered" title="Lançamento Red Dead 2" data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/10/25/RED-DEAD-2-acom-home-menu-270x540-2b.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/10/25/RED-DEAD-2-acom-home-menu-270x540-2b.png&quot;);"></div>
+														</a>
+													</li>
+												</ul>

@@ -1,0 +1,1 @@
+<li class="area-noticias border2 old_mutation" data-area="noticias" data-active="noticias"> <span class="label-ctn bg2"><em class="corw label">notícias</em></span> </li>

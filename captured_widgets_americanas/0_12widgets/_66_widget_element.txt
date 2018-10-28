@@ -1,0 +1,207 @@
+<div class="mmn-panel mmn-pnl-level-3 aria-check-hovered old_mutation">
+																			<ul class="mmn-list sizer szr-7 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">beleza &amp; perfumaria</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">lançamentos</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/hotsite/lancamentos-beleza" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									lançamentos
+																									<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																								</a>
+																						</li>
+																						<li class="mmn-item has-children mmn-submenu sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/produtos-para-cabelo" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									cabelo
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">cabelo</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4 aria-check-hovered old_mutation">
+																										<ul class="mmn-list sizer szr-4 no-col aria-check-hovered old_mutation">
+																											<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">cabelo</span></li>
+																														<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																															<a href="#" class="mmn-back mmn-bk-level-4 mutation_widget" style="">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">chapinhas e pranchas</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/aparelhos-eletricos-para-cabelo/prancha-alisadora" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																chapinhas e pranchas
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/aparelhos-eletricos-para-cabelo/secador-de-cabelo" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																secadores de cabelos
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/produtos-para-cabelo/tratamento" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																tratamento para cabelo
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/produtos-para-cabelo/escova-progressiva" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																escova progressiva
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/produtos-para-cabelo" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais cabelo
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item has-children mmn-submenu sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/barbearia" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									barbearia
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">barbearia</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4 aria-check-hovered old_mutation">
+																										<ul class="mmn-list sizer szr-2 no-col aria-check-hovered old_mutation">
+																											<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">barbearia</span></li>
+																														<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																															<a href="#" class="mmn-back mmn-bk-level-4 mutation_widget" style="">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">barbeadores</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/barbearia/barbeador-eletrico" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																barbeadores
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/barbearia/maquina-de-cortar-cabelo" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																máquina de cortar cabelo
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/barbearia" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais barbearia
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item has-children mmn-submenu sz sz-4 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/perfumaria" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									perfumes
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">perfumes</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4 aria-check-hovered old_mutation">
+																										<ul class="mmn-list sizer szr-2 no-col aria-check-hovered old_mutation">
+																											<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">perfumes</span></li>
+																														<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																															<a href="#" class="mmn-back mmn-bk-level-4 mutation_widget" style="">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">perfumes masculinos</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/perfumaria/perfume-masculino" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																perfumes masculinos
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/perfumaria/perfume-feminino" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																perfumes femininos
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/perfumaria" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais perfumes
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/maquiagem" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									maquiagem
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item has-children mmn-submenu sz sz-6 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/dermocosmeticos" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									dermocosméticos
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img" style="">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">dermocosméticos</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4 aria-check-hovered old_mutation">
+																										<ul class="mmn-list sizer szr-1 no-col aria-check-hovered old_mutation">
+																											<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">dermocosméticos</span></li>
+																														<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																															<a href="#" class="mmn-back mmn-bk-level-4 mutation_widget" style="">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">protetor solar</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/protecao-solar" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																protetor solar
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/dermocosmeticos" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais dermocosméticos
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item sz sz-7 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/unha" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									unha
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais beleza &amp; perfumaria
+																								</a>
+																							</li>
+																			</ul>
+																		</div>

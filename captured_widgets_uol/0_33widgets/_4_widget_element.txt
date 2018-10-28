@@ -1,0 +1,1 @@
+<div class="chamada-container aria-check-hovered old_mutation"> <strong class="chapeu color1">Bosque nos EUA</strong> <h2 class="titulo color2 aria-check-hovered old_mutation" data-uol-see-later="title">Pando, um dos maiores organismos vivos, está morrendo <span class="comentariosContainer  mutation_widget" style=""></span></h2> </div>

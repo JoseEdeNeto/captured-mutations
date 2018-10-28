@@ -1,1 +1,0 @@
-<span class="titulo aria-check-hovered old_mutation">Loterias</span>

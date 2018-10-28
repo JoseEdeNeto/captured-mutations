@@ -1,0 +1,260 @@
+<div class="mmn-panel mmn-pnl-level-2 aria-check-hovered old_mutation">
+												<ul class="mmn-list sizer szr-41 no-col aria-check-hovered old_mutation">
+													<li class="mmn-pnl-title aria-check-hovered old_mutation"><span class="mmn-pnl-tit-txt aria-check-hovered old_mutation">todos os departamentos</span></li>
+																<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																	<a href="#" class="mmn-back mmn-bk-level-2 mutation_widget" style="">
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">agro, indústria e comércio</title>
+																		</svg>
+																		Voltar
+																	</a>
+																</li>
+															<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/agro-industria-e-comercio" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		agro, indústria e comércio
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/alimentos-e-bebidas" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		alimentos e bebidas
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/audio" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		áudio
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/automotivo" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		automotivo
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		ar condicionado e ventilação
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-6 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/artesanato" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		artesanato
+																		<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-7 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/artigos-de-festas" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		artigos de festas
+																		<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-8 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/bebes" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		bebês
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-9 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		beleza &amp; perfumaria
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-10 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/brinquedos" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		brinquedos
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-11 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/cama-mesa-e-banho" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		cama, mesa e banho
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-12 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/cameras-e-filmadoras" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		câmeras e filmadoras
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-13 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/casa-e-construcao" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		casa e construção
+																		<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-14 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		celulares e smartphones
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-15 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/decoracao" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		decoração
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-16 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/filmes-e-series" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		dvd e blu-ray
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-17 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/eletrodomesticos" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		eletrodomésticos
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-18 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/eletroportateis" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		eletroportáteis
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-19 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/enfeites-de-natal" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		enfeites de natal
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-20 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/esporte-e-lazer" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		esporte e lazer
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-21 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/games" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		games
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-22 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/gift-card" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		gift cards
+																		<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-23 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/informatica" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		informática
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-24 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		informática e acessórios
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-25 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/instrumentos-musicais" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		instrumentos musicais
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-26 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/livros" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		livros
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-27 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/malas-mochilas-e-acessorios" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		malas, mochilas e acessórios
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-28 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/moda" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		moda e acessórios
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-29 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/moveis" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		móveis
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-30 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/musica" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		música
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-31 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/papelaria" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		papelaria
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-32 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/pet-shop" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		pet shop
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-33 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/relogios" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		relógios
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-34 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/saude" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		saúde
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-35 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/sinalizacao-e-seguranca" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		sinalização e segurança
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-36 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/suplementos-e-vitaminas" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		suplementos e vitaminas
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-37 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/telefonia-fixa" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		telefonia fixa
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-38 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/tv-e-home-theater" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		tv e áudio
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-39 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/utilidades-domesticas" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		utilidades domésticas
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-40 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/vestuario-esportivo" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		vestuário esportivo
+																		
+																	</a>
+															</li>
+															<li class="mmn-item sz sz-41 aria-check-hovered old_mutation">
+																	<a href="https://www.americanas.com.br/categoria/wearable" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		wearable
+																		<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																	</a>
+															</li>
+												</ul>
+											</div>

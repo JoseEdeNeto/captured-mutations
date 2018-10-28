@@ -1,0 +1,1 @@
+<span data-item="1" class="thumb aria-check-hovered old_mutation bg5" data-metrics="mod-1;topo-hibrido"></span>

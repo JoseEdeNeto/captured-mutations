@@ -1,0 +1,9 @@
+<div id="desktop-billboard-2" data-gwi="{&quot;visible&quot;:&quot;desktop-billboard-2-visible&quot;,&quot;active&quot;:&quot;desktop-billboard-2-active&quot;}" class="billboard celwidget csm-placement-id-07368e1d-9cd3-4235-801e-0c8a93eafd5a aria-check-hovered old_mutation" data-cel-widget="desktop-billboard-2"><div id="YRSN6xfdiUOR3Ghe7FiIsg" class="a-section a-text-center scalable-image-link scalable-image-map card-lite ameyal-scalable-image-link aria-check-hovered old_mutation"><script type="text/javascript" style="" class=" mutation_widget">
+  if(window.GWI && window.GWI.BillboardWidget){
+    new window.GWI.BillboardWidget('YRSN6xfdiUOR3Ghe7FiIsg', ['https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/Billboard/English/1122014_us_ags_gw_billboard_electronics_gw_bb_440x200_1529963428._CB474165515_.jpg']);
+  };
+</script>
+<a class="a-link-normal aria-check-hovered old_mutation" href="/s/ref=AE_EN_BB_ElectronicsNew?fst=as%3Aoff&amp;rh=i%3Aspecialty-aps%2Cn%3A%2116225009011%2Cp_n_date%3A1249033011&amp;bbn=16225009011&amp;ie=UTF8&amp;qid=1529963736&amp;rnid=1249031011&amp;pf_rd_p=07368e1d-9cd3-4235-801e-0c8a93eafd5a&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6"><img alt="New arrivals in electronics" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/Billboard/English/1122014_us_ags_gw_billboard_electronics_gw_bb_440x200_1529963428._CB474165515_.jpg" height="100%" width="440px" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/Billboard/English/1122014_us_ags_gw_billboard_electronics_gw_bb_880x400_1529963428._CB474165515_.jpg" class=" aria-check-hovered old_mutation"></a>
+</div>
+<script style="" class=" mutation_widget">(function(f) {f(P._namespace('gwiAutoInstVisible'));}(function(P) {if(window.GWI){GWI.Card.autoInstVisible('YRSN6xfdiUOR3Ghe7FiIsg');}}));</script>
+</div>

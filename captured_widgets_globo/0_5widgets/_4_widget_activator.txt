@@ -1,0 +1,373 @@
+<ul id="home-menu" class="nested widget-menu aria-check-hovered old_mutation"><li class="g1 widget-menu__list"><div class="home-analytics-area home-analytics-id-T"><a href="http://g1.globo.com/" class="widget-menu__list__link"><span class="widget-menu__list__link__title">g1</span><span class="widget-menu__arrow"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#my-icon"></use></svg></span></a></div><div class="float-box home-analytics-area home-analytics-id-S hui-floatbox hui-floatbox--no-arrow com-widget mutation_widget" style=""><div class="menu-columns home-analytics-area
+                            home-analytics-id-J
+                            
+                        "><ul class="first-column"><li class="has-children"><a data-menu-id="top-g1"><div class="barrinhas"></div><span class="titulo">
+                                            top páginas
+                                        </span></a></li><li class="has-link has-children"><a href="http://g1.globo.com/" data-menu-id="g1"><span class="titulo">g1</span></a></li><li class="has-link has-children"><a href="http://redeglobo.globo.com" data-menu-id="na-tv"><span class="titulo">na tv</span></a></li><li class=" has-children"><a data-menu-id="jornais-revistas-e-radio"><span class="titulo">jornais, revistas e rádio</span></a></li><li class=" has-children"><a data-menu-id="servicos"><span class="titulo">serviços</span></a></li></ul><ul class="submenu"><li data-menu-id="top-g1" class="top-menu-home old_mutation"><div class="submenu-title">top páginas</div><div class="top-link home-analytics-area home-analytics-id-T"><div><a href="http://g1.globo.com/"><span class="titulo">G1</span></a></div><div><a href="http://g1.globo.com/politica/"><span class="titulo">Política</span></a></div><div><a href="http://g1.globo.com/carros/"><span class="titulo">Carros</span></a></div><div><a href="http://g1.globo.com/economia/"><span class="titulo">Economia</span></a></div><div><a href="http://extra.globo.com/"><span class="titulo">Jornal Extra</span></a></div><div><a href="https://g1.globo.com/politica/eleicoes/2018/"><span class="titulo">Eleições 2018</span></a></div><div><a href="http://g1.globo.com/mundo/"><span class="titulo">Mundo</span></a></div><div><a href="http://g1.globo.com/economia/concursos-e-emprego/"><span class="titulo">Concursos e Empregos</span></a></div><div><a href="http://oglobo.globo.com/"><span class="titulo">Jornal O Globo</span></a></div><div><a href="http://g1.globo.com/bom-dia-brasil/"><span class="titulo">Bom dia Brasil</span></a></div></div></li><li data-menu-id="g1"><div class="submenu-title">g1</div><div><a href="http://g1.globo.com/carros/"><span class="titulo">Carros</span></a></div><div><a href="http://g1.globo.com/economia/concursos-e-emprego/"><span class="titulo">Concursos e Empregos</span></a></div><div><a href="http://g1.globo.com/economia/"><span class="titulo">Economia</span></a></div><div><a href="http://g1.globo.com/educacao/"><span class="titulo">Educação</span></a></div><div><a href="https://g1.globo.com/politica/eleicoes/2018/"><span class="titulo">Eleições 2018</span></a></div><div><a href="http://g1.globo.com/mundo/"><span class="titulo">Mundo</span></a></div><div><a href="http://g1.globo.com/planeta-bizarro/"><span class="titulo">Planeta Bizarro</span></a></div><div><a href="http://g1.globo.com/politica/"><span class="titulo">Política</span></a></div><div><a href="http://g1.globo.com/pop-arte/"><span class="titulo">Pop &amp; Arte</span></a></div><div><a href="http://g1.globo.com/tecnologia/"><span class="titulo">Tecnologia &amp; Games</span></a></div></li><li data-menu-id="na-tv"><div class="submenu-title">na tv</div><div><a href="http://g1.globo.com/carros/"><span class="titulo">Auto Esporte</span></a></div><div><a href="http://g1.globo.com/bemestar/"><span class="titulo">Bem Estar</span></a></div><div><a href="http://g1.globo.com/bom-dia-brasil/"><span class="titulo">Bom dia Brasil</span></a></div><div><a href="http://g1.globo.com/como-sera/"><span class="titulo">Como Será?</span></a></div><div><a href="http://fantastico.globo.com/"><span class="titulo">Fantástico</span></a></div><div><a href="http://g1.globo.com/economia/agronegocios/"><span class="titulo">Globo Rural</span></a></div><div><a href="http://g1.globo.com/globo-news/"><span class="titulo">GloboNews</span></a></div><div><a href="http://g1.globo.com/globo-reporter/"><span class="titulo">Globo Repórter</span></a></div><div><a href="http://g1.globo.com/hora1"><span class="titulo">Hora 1</span></a></div><div><a href="http://g1.globo.com/jornal-da-globo/"><span class="titulo">Jornal da Globo</span></a></div><div><a href="http://g1.globo.com/jornal-hoje/"><span class="titulo">Jornal Hoje</span></a></div><div><a href="http://g1.globo.com/jornal-nacional/"><span class="titulo">Jornal Nacional</span></a></div><div><a href="http://g1.globo.com/economia/pme/pequenas-empresas-grandes-negocios/"><span class="titulo">Pequenas Empresas</span></a></div><div><a href="http://g1.globo.com/profissao-reporter/"><span class="titulo">Profissão Repórter</span></a></div></li><li data-menu-id="jornais-revistas-e-radio"><div class="submenu-title">jornais, revistas e rádio</div><div><a href="http://extra.globo.com/"><span class="titulo">Jornal Extra</span></a></div><div><a href="http://oglobo.globo.com/"><span class="titulo">Jornal O Globo</span></a></div><div><a href="http://cbn.globoradio.globo.com/home/HOME.htm"><span class="titulo">Rádio CBN</span></a></div><div><a href="http://revistaautoesporte.globo.com/"><span class="titulo">Revista Auto Esporte</span></a></div><div><a href="http://revistacrescer.globo.com/"><span class="titulo">Revista Crescer</span></a></div><div><a href="http://revistaepoca.globo.com/"><span class="titulo">Revista Época</span></a></div><div><a href="http://revistagalileu.globo.com/"><span class="titulo">Revista Galileu</span></a></div><div><a href="http://revistagloborural.globo.com/"><span class="titulo">Revista Globo Rural</span></a></div><div><a href="http://radioglobo.globoradio.globo.com/"><span class="titulo">Rádio Globo</span></a></div><div><a href="http://www.valor.com.br/"><span class="titulo">Valor Econômico</span></a></div></li><li data-menu-id="servicos"><div class="submenu-title">serviços</div><div><a href="http://especiais.g1.globo.com/educacao/app-g1-enem/"><span class="titulo">Aplicativo G1 Enem</span></a></div><div><a href="http://educacao.globo.com/"><span class="titulo">Enem e Vestibular</span></a></div><div><a href="http://g1.globo.com/loteria/"><span class="titulo">Loterias</span></a></div><div><a href="http://g1.globo.com/previsao-do-tempo.html"><span class="titulo">Previsão do tempo</span></a></div><div><a href="http://g1.globo.com/carros/tabela-fipe/index.html"><span class="titulo">Tabela FIPE</span></a></div><div><a href="http://educacao.globo.com/telecurso/"><span class="titulo">Telecurso</span></a></div><div><a href="http://www.techtudo.com.br/velocimetro.html"><span class="titulo">Velocímetro</span></a></div></li></ul><div class="extra home-analytics-area home-analytics-id-W enabled"><h4>seu estado</h4>
+<div class="my-state-button-container home-analytics-area home-analytics-id-suggest">
+    <a class="my-state-button-area" href="http://g1.globo.com/pr/parana/">
+        <div>
+            <div class="nav-arrow"></div>
+            <div class="text-area">
+                <div>procurando por</div>
+                <span>Paraná?</span>
+            </div>
+        </div>
+    </a>
+</div>
+<ul class="flags-board"><li class="">
+    <a href="http://g1.globo.com/ac/acre/" title="Acre" data-uf="AC" class="searchable">
+        <div class="state-flag ac"></div>
+        <div class="state-border"><div class="sigla-uf">AC</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/al/alagoas/" title="Alagoas" data-uf="AL" class="searchable">
+        <div class="state-flag al"></div>
+        <div class="state-border"><div class="sigla-uf">AL</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ap/amapa/" title="Amapá" data-uf="AP" class="searchable">
+        <div class="state-flag ap"></div>
+        <div class="state-border"><div class="sigla-uf">AP</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/am/amazonas/" title="Amazonas" data-uf="AM" class="searchable">
+        <div class="state-flag am"></div>
+        <div class="state-border"><div class="sigla-uf">AM</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/bahia" title="Bahia" data-uf="BA" class="searchable">
+        <div class="state-flag ba"></div>
+        <div class="state-border"><div class="sigla-uf">BA</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ceara" title="Ceará" data-uf="CE" class="searchable">
+        <div class="state-flag ce"></div>
+        <div class="state-border"><div class="sigla-uf">CE</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/distrito-federal" title="Distrito Federal" data-uf="DF" class="searchable">
+        <div class="state-flag df"></div>
+        <div class="state-border"><div class="sigla-uf">DF</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/espirito-santo" title="Espírito Santo" data-uf="ES" class="searchable">
+        <div class="state-flag es"></div>
+        <div class="state-border"><div class="sigla-uf">ES</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/goias" title="Goiás" data-uf="GO" class="searchable">
+        <div class="state-flag go"></div>
+        <div class="state-border"><div class="sigla-uf">GO</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ma/maranhao/" title="Maranhão" data-uf="MA" class="searchable">
+        <div class="state-flag ma"></div>
+        <div class="state-border"><div class="sigla-uf">MA</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/minas-gerais" title="Minas Gerais" data-uf="MG" class="searchable">
+        <div class="state-flag mg"></div>
+        <div class="state-border"><div class="sigla-uf">MG</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/mato-grosso-do-sul" title="Mato Grosso do Sul" data-uf="MS" class="searchable">
+        <div class="state-flag ms"></div>
+        <div class="state-border"><div class="sigla-uf">MS</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/mato-grosso" title="Mato Grosso" data-uf="MT" class="searchable">
+        <div class="state-flag mt"></div>
+        <div class="state-border"><div class="sigla-uf">MT</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pa/para/" title="Pará" data-uf="PA" class="searchable">
+        <div class="state-flag pa"></div>
+        <div class="state-border"><div class="sigla-uf">PA</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pb/paraiba/" title="Paraíba" data-uf="PB" class="searchable">
+        <div class="state-flag pb"></div>
+        <div class="state-border"><div class="sigla-uf">PB</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pernambuco" title="Pernambuco" data-uf="PE" class="searchable">
+        <div class="state-flag pe"></div>
+        <div class="state-border"><div class="sigla-uf">PE</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pi/piaui/" title="Piauí" data-uf="PI" class="searchable">
+        <div class="state-flag pi"></div>
+        <div class="state-border"><div class="sigla-uf">PI</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/pr/parana/" title="Paraná" data-uf="PR" class="searchable">
+        <div class="state-flag pr"></div>
+        <div class="state-border"><div class="sigla-uf">PR</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rio-de-janeiro" title="Rio de Janeiro" data-uf="RJ" class="searchable">
+        <div class="state-flag rj"></div>
+        <div class="state-border"><div class="sigla-uf">RJ</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rn/rio-grande-do-norte/" title="Rio Grande do Norte" data-uf="RN" class="searchable">
+        <div class="state-flag rn"></div>
+        <div class="state-border"><div class="sigla-uf">RN</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/ro/rondonia" title="Rondônia" data-uf="RO" class="searchable">
+        <div class="state-flag ro"></div>
+        <div class="state-border"><div class="sigla-uf">RO</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rr/roraima/" title="Roraima" data-uf="RR" class="searchable">
+        <div class="state-flag rr"></div>
+        <div class="state-border"><div class="sigla-uf">RR</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/rs/rio-grande-do-sul/" title="Rio Grande do Sul" data-uf="RS" class="searchable">
+        <div class="state-flag rs"></div>
+        <div class="state-border"><div class="sigla-uf">RS</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/sc/santa-catarina/" title="Santa Catarina" data-uf="SC" class="searchable">
+        <div class="state-flag sc"></div>
+        <div class="state-border"><div class="sigla-uf">SC</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/se/sergipe/" title="Sergipe" data-uf="SE" class="searchable">
+        <div class="state-flag se"></div>
+        <div class="state-border"><div class="sigla-uf">SE</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/sao-paulo" title="São Paulo" data-uf="SP" class="searchable">
+        <div class="state-flag sp"></div>
+        <div class="state-border"><div class="sigla-uf">SP</div></div>
+    </a>
+</li><li class="">
+    <a href="http://g1.globo.com/to/tocantins/" title="Tocantins" data-uf="TO" class="searchable">
+        <div class="state-flag to"></div>
+        <div class="state-border"><div class="sigla-uf">TO</div></div>
+    </a>
+</li></ul></div></div><div class="home-analytics-area home-analytics-id-D"></div></div></li><li class="ge widget-menu__list"><div class="home-analytics-area home-analytics-id-T"><a href="http://globoesporte.globo.com/" class="widget-menu__list__link"><span class="widget-menu__list__link__title">ge</span><span class="widget-menu__arrow"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#my-icon"></use></svg></span></a></div><div class="float-box home-analytics-area home-analytics-id-S hui-floatbox hui-floatbox--no-arrow com-widget mutation_widget" style=""><div class="menu-columns home-analytics-area
+                            home-analytics-id-E
+                            
+                        "><ul class="first-column"><li class="has-children"><a data-menu-id="top-ge"><div class="barrinhas"></div><span class="titulo">
+                                            top páginas
+                                        </span></a></li><li class="has-link has-children"><a href="http://globoesporte.globo.com/" data-menu-id="globoesportecom"><span class="titulo">globoesporte.com</span></a></li><li class="has-link has-children"><a href="http://sportv.globo.com/" data-menu-id="sportv"><span class="titulo">sportv</span></a></li><li class="has-link has-children"><a href="http://redeglobo.globo.com" data-menu-id="na-tv"><span class="titulo">na tv</span></a></li><li class="has-link has-children"><a href="http://globoesporte.globo.com/futebol/" data-menu-id="futebol"><span class="titulo">futebol</span></a></li><li class=" has-children"><a data-menu-id="mais-esportes"><span class="titulo">mais esportes</span></a></li></ul><ul class="submenu"><li data-menu-id="top-ge" class="top-menu-home old_mutation"><div class="submenu-title">top páginas</div><div class="top-link home-analytics-area home-analytics-id-T"><div><a href="http://globoesporte.globo.com/futebol/brasileirao-serie-a/"><span class="titulo">Brasileirão Série A</span></a></div><div><a href="http://globoesporte.globo.com/"><span class="titulo">Globo Esporte</span></a></div><div><a href="http://globoesporte.globo.com/motor/formula-1/"><span class="titulo">Fórmula 1</span></a></div><div><a href="http://globoesporte.globo.com/futebol/futebol-internacional/"><span class="titulo">Futebol Internacional</span></a></div><div><a href="http://globoesporte.globo.com/futebol/brasileirao-serie-b/"><span class="titulo">Brasileirão Série B</span></a></div><div><a href="http://globoesporte.globo.com/cartola-fc/"><span class="titulo">Cartola FC</span></a></div><div><a href="http://globoesporte.globo.com/futebol/"><span class="titulo">Futebol Nacional</span></a></div><div><a href="http://globoesporte.globo.com/futebol/liga-dos-campeoes/"><span class="titulo">Liga dos Campeões</span></a></div><div><a href="http://globoesporte.globo.com/volei/"><span class="titulo">Vôlei</span></a></div><div><a href="http://sportv.globo.com/site/combate/"><span class="titulo">MMA</span></a></div></div></li><li data-menu-id="globoesportecom"><div class="submenu-title">globoesporte.com</div><div><a href="http://globoesporte.globo.com/futebol/"><span class="titulo">Futebol</span></a></div><div><a href="http://futpedia.globo.com/"><span class="titulo">Futpédia</span></a></div><div><a href="http://globoesporte.globo.com/cartola-fc/"><span class="titulo">Cartola FC</span></a></div></li><li data-menu-id="sportv"><div class="submenu-title">sportv</div><div><a href="http://sportv.globo.com/site/nba/"><span class="titulo">NBA</span></a></div></li><li data-menu-id="na-tv"><div class="submenu-title">na tv</div><div><a href="http://sportv.globo.com/site/eventos/combate/"><span class="titulo">Combate</span></a></div><div><a href="http://globoesporte.globo.com/programas/corujao-do-esporte/"><span class="titulo">Corujão do Esporte</span></a></div><div><a href="http://globoesporte.globo.com/programas/esporte-espetacular/"><span class="titulo">Esporte Espetacular</span></a></div><div><a href="http://globoesporte.globo.com/"><span class="titulo">Globo Esporte</span></a></div><div><a href="http://app.globoesporte.globo.com/tv/planeta-extremo/"><span class="titulo">Planeta Extremo</span></a></div><div><a href="http://sociopremiere.globo.com/"><span class="titulo">Premiere</span></a></div><div><a href="http://sportv.globo.com/"><span class="titulo">SporTV</span></a></div><div><a href="http://globoesporte.globo.com/lutas/tuf-brasil/"><span class="titulo">The Ultimate Fighter Brasil</span></a></div></li><li data-menu-id="futebol"><div class="submenu-title">futebol</div><div><a href="http://globoesporte.globo.com/futebol/brasileirao-serie-a/"><span class="titulo">Brasileirão Série A</span></a></div><div><a href="http://globoesporte.globo.com/futebol/brasileirao-serie-b/"><span class="titulo">Brasileirão Série B</span></a></div><div><a href="http://globoesporte.globo.com/futebol/brasileirao-serie-c/"><span class="titulo">Brasileirão Série C</span></a></div><div><a href="http://globoesporte.globo.com/futebol/copa-do-brasil/"><span class="titulo">Copa do Brasil</span></a></div><div><a href="http://globoesporte.globo.com/futebol/copa-sul-americana/"><span class="titulo">Copa Sul-Americana</span></a></div><div><a href="http://globoesporte.globo.com/futebol/futebol-internacional/"><span class="titulo">Futebol Internacional</span></a></div><div><a href="http://globoesporte.globo.com/futebol/"><span class="titulo">Futebol Nacional</span></a></div><div><a href="http://globoesporte.globo.com/futebol/liga-dos-campeoes/"><span class="titulo">Liga dos Campeões</span></a></div><div><a href="http://globoesporte.globo.com/futebol/selecao-brasileira/"><span class="titulo">Seleção Brasileira</span></a></div></li><li data-menu-id="mais-esportes"><div class="submenu-title">mais esportes</div><div><a href="http://globoesporte.globo.com/atletismo/"><span class="titulo">Atletismo</span></a></div><div><a href="http://globoesporte.globo.com/basquete/"><span class="titulo">Basquete</span></a></div><div><a href="http://globoesporte.globo.com/eu-atleta/"><span class="titulo">Eu Atleta</span></a></div><div><a href="http://globoesporte.globo.com/motor/formula-1/"><span class="titulo">Fórmula 1</span></a></div><div><a href="http://globoesporte.globo.com/eventos/futsal/"><span class="titulo">Futsal</span></a></div><div><a href="http://sportv.globo.com/site/combate/"><span class="titulo">MMA</span></a></div><div><a href="http://globoesporte.globo.com/natacao/"><span class="titulo">Natação</span></a></div><div><a href="http://globoesporte.globo.com/motor/stock-car/"><span class="titulo">StockCar</span></a></div><div><a href="http://globoesporte.globo.com/tenis/"><span class="titulo">Tênis</span></a></div><div><a href="http://globoesporte.globo.com/volei/"><span class="titulo">Vôlei</span></a></div></li></ul><div class="extra home-analytics-area home-analytics-id-W enabled"><div class="buttons-area">
+    <a href="#" class="btn serie-a current">SÉRIE A</a>
+    <a href="#" class="btn serie-b">SÉRIE B</a>
+</div>
+<ul class="shields soccer-teams">
+    <li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/america-mg/" title="América-MG">
+        <div class="america-mg soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/atletico-mg/" title="Atlético-MG">
+        <div class="atletico-mg soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/atletico-pr/" title="Atlético-PR">
+        <div class="atletico-pr soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/bahia/" title="Bahia">
+        <div class="bahia soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/botafogo/" title="Botafogo">
+        <div class="botafogo soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/ce/futebol/times/ceara/" title="Ceará">
+        <div class="ceara soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/sc/futebol/times/chapecoense" title="Chapecoense">
+        <div class="chapecoense soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/corinthians/" title="Corinthians">
+        <div class="corinthians soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/cruzeiro/" title="Cruzeiro">
+        <div class="cruzeiro soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/flamengo/" title="Flamengo">
+        <div class="flamengo soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/fluminense/" title="Fluminense">
+        <div class="fluminense soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/gremio/" title="Grêmio">
+        <div class="gremio soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/internacional/" title="Internacional">
+        <div class="internacional soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/palmeiras/" title="Palmeiras">
+        <div class="palmeiras soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/pr/futebol/times/parana-clube/" title="Paraná">
+        <div class="parana soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/santos/" title="Santos">
+        <div class="santos soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/pe/futebol/times/sport/" title="Sport">
+        <div class="sport soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/sao-paulo/" title="São Paulo">
+        <div class="sao-paulo soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/futebol/times/vasco/" title="Vasco">
+        <div class="vasco soccer-team__logo"></div>
+    </a>
+</li><li data-serie="a" class="soccer-team__visible soccer-team">
+    <a href="http://globoesporte.globo.com/ba/futebol/times/vitoria/" title="Vitória">
+        <div class="vitoria soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/go/futebol/times/atletico-go/" title="Atlético-GO">
+        <div class="atletico-go soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/sc/futebol/times/avai/" title="Avaí">
+        <div class="avai soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/mg/sul-de-minas/futebol/times/boa-esporte/" title="Boa Esporte">
+        <div class="boa soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/rs/futebol/times/brasil-de-pelotas/" title="Brasil de Pelotas">
+        <div class="brasil-de-pelotas soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/al/futebol/times/crb/" title="CRB">
+        <div class="crb soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/al/futebol/times/csa/" title="CSA">
+        <div class="csa-al soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/pr/futebol/times/coritiba/" title="Coritiba">
+        <div class="coritiba soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/sc/futebol/times/criciuma/" title="Criciúma">
+        <div class="criciuma soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/sc/futebol/times/figueirense/" title="Figueirense">
+        <div class="figueirense soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/ce/futebol/times/fortaleza/" title="Fortaleza">
+        <div class="fortaleza soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/go/futebol/times/goias/" title="Goiás">
+        <div class="goias soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/guarani" title="Guarani">
+        <div class="guarani soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/rs/futebol/times/juventude/" title="Juventude">
+        <div class="juventude soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/pr/futebol/times/londrina/" title="Londrina">
+        <div class="londrina soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/sp/sorocaba/futebol/times/oeste/" title="Oeste">
+        <div class="oeste soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/pa/futebol/times/paysandu" title="Paysandu">
+        <div class="paysandu soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/" title="Ponte Preta">
+        <div class="ponte-preta soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/ma/futebol/times/sampaio-correa/" title="Sampaio Corrêa">
+        <div class="sampaio-correia soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/sp/sorocaba/futebol/times/sao-bento/" title="São Bento">
+        <div class="sao-bento soccer-team__logo"></div>
+    </a>
+</li><li data-serie="b" class=" soccer-team">
+    <a href="http://globoesporte.globo.com/go/futebol/times/vila-nova/" title="Vila Nova">
+        <div class="vila-nova soccer-team__logo"></div>
+    </a>
+</li>
+</ul></div></div><div class="home-analytics-area home-analytics-id-D"></div></div></li><li class="gshow widget-menu__list aria-check-hovered old_mutation visible" data-hovering="true"><div class="home-analytics-area home-analytics-id-T aria-check-hovered old_mutation"><a href="https://gshow.globo.com/" class="widget-menu__list__link aria-check-hovered old_mutation"><span class="widget-menu__list__link__title aria-check-hovered old_mutation">gshow</span><span class="widget-menu__arrow"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#my-icon"></use></svg></span></a></div><div class="float-box home-analytics-area home-analytics-id-S hui-floatbox hui-floatbox--no-arrow com-widget opened old_mutation" style="display: block;"><div class="menu-columns home-analytics-area
+                            home-analytics-id-M
+                            
+                        "><ul class="first-column old_mutation"><li class="has-children"><a data-menu-id="top-gshow" class="active old_mutation"><div class="barrinhas"></div><span class="titulo">
+                                            top páginas
+                                        </span></a></li><li class="has-link has-children"><a href="https://gshow.globo.com/" data-menu-id="gshow"><span class="titulo">gshow</span></a></li><li class=" has-children"><a data-menu-id="programas"><span class="titulo">programas</span></a></li><li class=" has-children"><a data-menu-id="series"><span class="titulo">séries</span></a></li><li class="has-link has-children"><a href="http://gshow.globo.com/programas/webseries/" data-menu-id="series-originais"><span class="titulo">séries originais</span></a></li><li class=" has-children"><a data-menu-id="famosos"><span class="titulo">famosos</span></a></li><li class=" has-children"><a data-menu-id="moda-estilo"><span class="titulo">moda &amp; estilo</span></a></li><li class=" has-children"><a data-menu-id="bem-estar-e-saude"><span class="titulo">bem-estar e saúde</span></a></li><li class=" has-children"><a data-menu-id="casa-e-decoracao"><span class="titulo">casa e decoração</span></a></li><li class=" has-children"><a data-menu-id="gastronomia"><span class="titulo">gastronomia</span></a></li><li class=" has-children"><a data-menu-id="na-tv"><span class="titulo">na tv</span></a></li><li class="has-link "><a href="https://gshow.globo.com/realities/bbb/" data-menu-id="big-brother-brasil"><span class="titulo">big brother brasil</span></a></li></ul><ul class="submenu"><li data-menu-id="top-gshow" class="top-menu-home visible old_mutation"><div class="submenu-title">top páginas</div><div class="top-link home-analytics-area home-analytics-id-T"><div><a href="http://revistaquem.globo.com/"><span class="titulo">Quem</span></a></div><div><a href="http://extra.globo.com/famosos/"><span class="titulo">Retratos da vida</span></a></div><div><a href="http://gshow.globo.com/programas/mais-voce/"><span class="titulo">Mais Você</span></a></div><div><a href="http://oglobo.globo.com/cultura/kogut/"><span class="titulo">Patricia kogut</span></a></div><div><a href="http://gshow.globo.com/Famosos/"><span class="titulo">Famosos</span></a></div><div><a href="https://gshow.globo.com/"><span class="titulo">Gshow</span></a></div><div><a href="https://gshow.globo.com/series/sob-pressao/"><span class="titulo">Sob Pressão</span></a></div><div><a href="https://gshow.globo.com/programas/amor-e-sexo/"><span class="titulo">Amor &amp; Sexo</span></a></div><div><a href="https://gshow.globo.com/realities/popstar/"><span class="titulo">PopStar</span></a></div><div><a href="http://revistacasaejardim.globo.com/"><span class="titulo">Revista Casa e Jardim</span></a></div></div></li><li data-menu-id="gshow"><div class="submenu-title">gshow</div><div><a href="http://gshow.globo.com/Famosos/"><span class="titulo">Famosos</span></a></div><div><a href="http://horoscopo.gshow.globo.com/"><span class="titulo">Horóscopo</span></a></div><div><a href="http://gshow.globo.com/receitas-gshow/"><span class="titulo">Receitas</span></a></div></li><li data-menu-id="programas"><div class="submenu-title">programas</div><div><a href=" http://gshow.globo.com/programas/altas-horas/"><span class="titulo">Altas Horas</span></a></div><div><a href="https://gshow.globo.com/programas/amor-e-sexo/"><span class="titulo">Amor &amp; Sexo</span></a></div><div><a href="http://gshow.globo.com/realities/bbb/"><span class="titulo">Big Brother Brasil</span></a></div><div><a href="http://gshow.globo.com/programas/caldeirao-do-huck/"><span class="titulo">Caldeirão do Huck</span></a></div><div><a href="http://gshow.globo.com/programas/conversa-com-bial/"><span class="titulo">Conversa com Bial</span></a></div><div><a href="http://gshow.globo.com/programas/domingao-do-faustao/"><span class="titulo">Domingão do Faustão</span></a></div><div><a href="http://gshow.globo.com/programas/e-de-casa/"><span class="titulo">É de Casa</span></a></div><div><a href="http://gshow.globo.com/programas/encontro-com-fatima-bernardes/"><span class="titulo">Encontro com Fátima Bernardes</span></a></div><div><a href="http://gshow.globo.com/programas/escolinha-do-professor-raimundo/"><span class="titulo">Escolinha do Professor Raimundo</span></a></div><div><a href="http://gshow.globo.com/programas/mais-voce/"><span class="titulo">Mais Você</span></a></div><div><a href="https://gshow.globo.com/realities/popstar/"><span class="titulo">PopStar</span></a></div><div><a href="https://gshow.globo.com/programas/so-toca-top/"><span class="titulo">SóTocaTop</span></a></div><div><a href="https://gshow.globo.com/series/ta-no-ar-a-tv-na-tv/"><span class="titulo">Tá no Ar: a TV na TV</span></a></div><div><a href="http://gshow.globo.com/programas/tamanho-familia/"><span class="titulo">Tamanho Família</span></a></div><div><a href="http://gshow.globo.com/realities/the-voice-brasil/"><span class="titulo">The Voice Brasil</span></a></div><div><a href="https://gshow.globo.com/realities/the-voice-kids/"><span class="titulo">The Voice Kids</span></a></div><div><a href="http://gshow.globo.com/programas/video-show/index.html"><span class="titulo">Vídeo Show</span></a></div><div><a href="http://gshow.globo.com/programas/zero1/"><span class="titulo">Zero1</span></a></div><div><a href="https://gshow.globo.com/programas/zorra/"><span class="titulo">Zorra</span></a></div></li><li data-menu-id="series"><div class="submenu-title">séries</div><div><a href="https://gshow.globo.com/series/carcereiros/"><span class="titulo">Carcereiros</span></a></div><div><a href="https://gshow.globo.com/series/mister-brau/"><span class="titulo">Mister Brau</span></a></div><div><a href="https://gshow.globo.com/series/onde-nascem-os-fortes/"><span class="titulo">Onde Nascem Os Fortes</span></a></div><div><a href="https://gshow.globo.com/series/sob-pressao/"><span class="titulo">Sob Pressão</span></a></div></li><li data-menu-id="series-originais"><div class="submenu-title">séries originais</div><div><a href="http://gshow.globo.com/webseries/bichos/no-ar.html"><span class="titulo">Bichos</span></a></div><div><a href="http://gshow.globo.com/webseries/como-fazer/no-ar.html"><span class="titulo">Como fazer</span></a></div><div><a href="http://gshow.globo.com/webseries/deborah-secco-apresenta/no-ar.html"><span class="titulo">Deborah Secco apresenta</span></a></div><div><a href="http://gshow.globo.com/webseries/dulce-delight/"><span class="titulo">Dulce Delight</span></a></div><div><a href="http://gshow.globo.com/webseries/eu-so-quero-amar-malhacao-seu-lugar-no-mundo/no-ar.html"><span class="titulo">Eu Só Quero Amar</span></a></div><div><a href="http://gshow.globo.com/webseries/faca-em-casa/no-ar.html"><span class="titulo">Faça em casa</span></a></div><div><a href="http://gshow.globo.com/webseries/laboratorio-do-som/no-ar.html"><span class="titulo">Laboratório do som</span></a></div><div><a href="http://gshow.globo.com/webseries/mazzaropi-o-pai-de-candinho/no-ar.html"><span class="titulo">Mazzaropi, o Pai de Candinho</span></a></div><div><a href="http://gshow.globo.com/webseries/os-desatinados-malhacao-seu-lugar-no-mundo/no-ar.html"><span class="titulo">Os desatinados</span></a></div><div><a href="http://gshow.globo.com/webseries/radionovela-heranca-de-odio/no-ar.html"><span class="titulo">Radionovela Herança de Ódio</span></a></div><div><a href="http://gshow.globo.com/webseries/sebastiana-quebra-galho/no-ar.html"><span class="titulo">Sebastiana Quebra-Galho</span></a></div><div><a href="http://gshow.globo.com/webseries/segundos-de-sabedoria/no-ar.html"><span class="titulo">Segundos de Sabedoria</span></a></div><div><a href="http://gshow.globo.com/novelas/totalmente-demais/totalmente-sem-nocao-demais.html"><span class="titulo">Totalmente sem noção demais</span></a></div></li><li data-menu-id="famosos"><div class="submenu-title">famosos</div><div><a href="http://oglobo.globo.com/cultura/kogut/"><span class="titulo">patricia kogut</span></a></div><div><a href="http://revistaquem.globo.com/"><span class="titulo">quem</span></a></div><div><a href="http://extra.globo.com/famosos/"><span class="titulo">retratos da vida</span></a></div></li><li data-menu-id="moda-estilo"><div class="submenu-title">moda &amp; estilo</div><div><a href="http://ela.oglobo.globo.com/"><span class="titulo">Ela no Globo</span></a></div><div><a href="http://gshow.globo.com/Estilo/"><span class="titulo">Estilo no Gshow</span></a></div><div><a href="http://revistaglamour.globo.com/"><span class="titulo">Revista Glamour</span></a></div><div><a href="http://gq.globo.com/"><span class="titulo">Revista GQ Brasil</span></a></div><div><a href="http://revistamarieclaire.globo.com/"><span class="titulo">Revista Marie Claire</span></a></div><div><a href="http://gnt.globo.com/moda/"><span class="titulo">Moda no GNT</span></a></div><div><a href="http://vogue.globo.com/"><span class="titulo">Revista Vogue</span></a></div></li><li data-menu-id="bem-estar-e-saude"><div class="submenu-title">bem-estar e saúde</div><div><a href="http://gnt.globo.com/beleza/"><span class="titulo">Beleza no GNT</span></a></div><div><a href="http://gnt.com.br/bemestar"><span class="titulo">Bem-estar no GNT</span></a></div><div><a href="http://revistacrescer.globo.com/"><span class="titulo">Revista Crescer</span></a></div><div><a href="http://g1.globo.com/bemestar/"><span class="titulo">Bem-estar no G1</span></a></div><div><a href="http://gnt.globo.com/maes-e-filhos/"><span class="titulo">Mães no GNT</span></a></div><div><a href="http://horoscopo.gshow.globo.com/"><span class="titulo">Horóscopo no Gshow</span></a></div><div><a href="http://gq.globo.com/Paternidade/"><span class="titulo">Paternidade na GQ</span></a></div></li><li data-menu-id="casa-e-decoracao"><div class="submenu-title">casa e decoração</div><div><a href="http://revistacasaejardim.globo.com/"><span class="titulo">Revista Casa e Jardim</span></a></div><div><a href="http://gnt.globo.com/casa-e-decoracao/"><span class="titulo">Casa no GNT</span></a></div><div><a href="http://casavogue.globo.com/"><span class="titulo">Casa Vogue</span></a></div><div><a href="http://revista.zapimoveis.com.br/?utm_source=globo.com-etc&amp;utm_medium=botao-casa-decoracao&amp;utm_campaign=Revista-Home"><span class="titulo">Revista do Zap</span></a></div></li><li data-menu-id="gastronomia"><div class="submenu-title">gastronomia</div><div><a href="http://gnt.globo.com/receitas/"><span class="titulo">Receitas no GNT</span></a></div><div><a href="http://gshow.globo.com/receitas-gshow/"><span class="titulo">Receitas no Gshow</span></a></div><div><a href="https://revistacasaejardim.globo.com/Casa-e-Comida/Receitas/index.html"><span class="titulo">Receitas Casa e Jardim</span></a></div></li><li data-menu-id="na-tv"><div class="submenu-title">na tv</div><div><a href="http://redeglobo.globo.com/"><span class="titulo">Rede Globo</span></a></div><div><a href="http://canalbrasil.globo.com/"><span class="titulo">Canal Brasil</span></a></div><div><a href="http://mundogloob.globo.com/"><span class="titulo">Gloob</span></a></div><div><a href="http://gnt.globo.com/"><span class="titulo">GNT</span></a></div><div><a href="http://megapix.globo.com/"><span class="titulo">Megapix</span></a></div><div><a href="http://multishow.globo.com/"><span class="titulo">Multishow</span></a></div><div><a href="http://telecine.globo.com/"><span class="titulo">Telecine</span></a></div><div><a href=" http://uc.globo.com/"><span class="titulo">Universal Channel</span></a></div><div><a href="http://canalviva.globo.com/"><span class="titulo">Viva</span></a></div><div><a href=" http://canaloff.globo.com"><span class="titulo">Off</span></a></div></li></ul><div class="extra home-analytics-area home-analytics-id-W enabled"><h4>novelas</h4>
+<ul class="novelas-list"><li class="novela">
+    <a href="https://gshow.globo.com/novelas/espelho-da-vida/" class="searchable">
+        <span class="borda-novela">
+            <span></span>
+            <img src="https://s2.glbimg.com/0BDVRFljj1oNRcb4jRlqBnZpfhQ=/top/smart/filters:strip_icc()/s2.glbimg.com/LXdtEPkN0CH9BUWBcMpaPDDmz9M=/0x0:45x30/45x30/s.glbimg.com/en/ho/f/original/2018/09/25/logo-espelho-da-vida_45x30.jpg">
+        </span>
+        <span class="name">Espelho da Vida</span>
+    </a>
+</li><li class="novela">
+    <a href="https://globoplay.globo.com/belissima/p/3918/" class="searchable">
+        <span class="borda-novela">
+            <span></span>
+            <img src="https://s2.glbimg.com/bSIemQkZDWLQPEt_8LbjN7yqwF8=/top/smart/filters:strip_icc()/s2.glbimg.com/LPVUa3Q1MKEH9r9C6ZRaGUu6aeY=/0x0:45x30/45x30/s.glbimg.com/en/ho/f/original/2018/06/11/logo-belissima-45x30.png">
+        </span>
+        <span class="name">Belíssima</span>
+    </a>
+</li><li class="novela">
+    <a href="http://gshow.globo.com/novelas/malhacao/2018/" class="searchable">
+        <span class="borda-novela">
+            <span></span>
+            <img src="https://s2.glbimg.com/9ocru8OQpEEch5-N-7YO8v_Lsc0=/top/smart/filters:strip_icc()/s2.glbimg.com/oCTfolzvdMiEd7IZ72flwg1ZFcc=/0x0:45x30/45x30/s.glbimg.com/en/ho/f/original/2018/03/08/logo-malhacao-2018_45x30.jpg">
+        </span>
+        <span class="name">Malhação - Vidas Brasileiras</span>
+    </a>
+</li><li class="novela">
+    <a href="https://gshow.globo.com/novelas/o-tempo-nao-para/" class="searchable">
+        <span class="borda-novela">
+            <span></span>
+            <img src="https://s2.glbimg.com/cX-B93trUdOqdLtjr8neM6Eu2Qc=/top/smart/filters:strip_icc()/s2.glbimg.com/yPAfh2Z5V6yiGLCxcaYESBG2aUk=/0x0:45x30/45x30/s.glbimg.com/en/ho/f/original/2018/07/31/logo-45x30.png">
+        </span>
+        <span class="name">O Tempo Não Para</span>
+    </a>
+</li><li class="novela">
+    <a href="https://gshow.globo.com/novelas/segundo-sol/" class="searchable">
+        <span class="borda-novela">
+            <span></span>
+            <img src="https://s2.glbimg.com/X188W379cKEOjJXL544gyiGq50s=/top/smart/filters:strip_icc()/s2.glbimg.com/x9YTQpxJOrU4uc6aVceREV3UHII=/0x0:45x30/45x30/s.glbimg.com/en/ho/f/original/2018/05/14/logo-segundo-sol-45x30.png">
+        </span>
+        <span class="name">Segundo Sol</span>
+    </a>
+</li></ul></div></div><div class="home-analytics-area home-analytics-id-D"></div></div></li><li class="tech widget-menu__list"><div class="home-analytics-area home-analytics-id-T"><a href="http://www.techtudo.com.br/" class="widget-menu__list__link"><span class="widget-menu__list__link__title">tech</span></a></div></li><li class="videos widget-menu__list"><div class="home-analytics-area home-analytics-id-T"><a href="https://globoplay.globo.com/" class="widget-menu__list__link"><span class="widget-menu__list__link__title">vídeos</span><span class="widget-menu__arrow"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#my-icon"></use></svg></span></a></div><div class="float-box home-analytics-area home-analytics-id-S sem-widget hui-floatbox hui-floatbox--no-arrow mutation_widget" style=""><div class="menu-columns home-analytics-area
+                            home-analytics-id-V
+                            
+                        "><ul class="first-column"><li class="has-link "><a href="https://globoplay.globo.com/" data-menu-id="globoplay"><span class="titulo">globoplay</span></a></li><li class="has-link "><a href="https://globosatplay.globo.com/" data-menu-id="globosat-play"><span class="titulo">globosat play</span></a></li></ul></div><div class="home-analytics-area home-analytics-id-D"></div></div></li></ul>

@@ -1,1 +1,1 @@
-<a data-menu-id="jornais-revistas-e-radio" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">jornais, revistas e rádio</span></a>
+<div class=" aria-check-hovered old_mutation"><a href="http://g1.globo.com/previsao-do-tempo.html" class=" aria-check-hovered old_mutation"><span class="titulo">Previsão do tempo</span></a></div>

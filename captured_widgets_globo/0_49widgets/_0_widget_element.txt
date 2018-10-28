@@ -1,1 +1,1 @@
-<input id="hui-checkbox-journalism" type="checkbox" class="hui-see-more__check old_mutation" style="">
+<div class=" aria-check-hovered old_mutation"><a href="http://globoesporte.globo.com/eventos/futsal/" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">Futsal</span></a></div>

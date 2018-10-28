@@ -1,0 +1,1 @@
+<script id="jsFooter" async="" src="//statics-americanas.b2w.io/statics-footer/1.29.2.1497/footer.min.js" style="" class=" old_mutation"></script>

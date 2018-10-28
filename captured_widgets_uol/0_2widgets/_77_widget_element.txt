@@ -1,0 +1,1 @@
+<script type="text/javascript" defer="" src="//www.uol.com.br/camaleao/assets/libs/eleicoes/vendor.webpack.js?v=1cqf039pn" style="" class=" old_mutation"></script>

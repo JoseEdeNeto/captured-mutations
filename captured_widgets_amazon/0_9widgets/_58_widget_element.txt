@@ -1,0 +1,10 @@
+<div style="display: none;" class=" old_mutation">
+  <div id="nav-prime-tooltip">
+    <div class="nav-npt-text-title"> Get fast, free shipping with Amazon Prime </div>
+    <div class="nav-npt-text-detail"> Prime members enjoy FREE Two-Day Shipping and exclusive access to music, movies, TV shows, original audio series, and Kindle books. </div>
+    <div class="nav-npt-text-detail">
+      &gt;
+      <a class="nav-npt-a" href="/gp/prime/ref=nav_tooltip_redirect">Get started</a>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,1 @@
+<picture class=" aria-check-hovered old_mutation"><source srcset="https://images-americanas.b2w.io/spacey/2018/10/26/01_OA_BF_F01_AME_DESK_v10-1.png" media="(min-width: 768px)"><img alt="Smartphone Samsung" src="https://images-americanas.b2w.io/spacey/2018/10/26/01_OA_BF_F01_AME_DESK_v10-1.png" class="img-responsive aria-check-hovered old_mutation"></picture>

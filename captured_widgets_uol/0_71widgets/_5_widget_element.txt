@@ -1,0 +1,1 @@
+<div class="menu-uol menu-uol-vertical aria-check-hovered old_mutation"> <a data-metrics="mod-6;entretenimento" class="cor-transition menu-vertical-cabecalho aria-check-hovered old_mutation" data-area="abm1veo"></a> </div>

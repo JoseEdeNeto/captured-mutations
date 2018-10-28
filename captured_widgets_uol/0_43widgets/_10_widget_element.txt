@@ -1,0 +1,17 @@
+<div class="uoltm-barra-ofertas-main aria-check-hovered old_mutation">
+    <div class="tm-ads uol-tm-span" id="banner-native-barra-1">
+        <script style="" class=" mutation_widget">window.uolads.push({ id: "banner-native-barra-1", pos: 1 });</script>
+    </div>
+    <div class="tm-ads uol-tm-span" id="banner-native-barra-2">
+        <script style="" class=" mutation_widget">window.uolads.push({ id: "banner-native-barra-2", pos: 2 });</script>          
+    </div>
+    <div class="tm-ads uol-tm-span" id="banner-native-barra-3">       
+        <script style="" class=" mutation_widget">window.uolads.push({ id: "banner-native-barra-3", pos: 3 });</script>
+    </div>
+    <div class="tm-ads uol-tm-span" id="banner-native-barra-4">
+        <script style="" class=" mutation_widget">window.uolads.push({ id: "banner-native-barra-4", pos: 4 });</script>              
+    </div>
+    <div class="tm-ads uol-tm-span" id="banner-native-barra-5">
+        <script style="" class=" mutation_widget">window.uolads.push({ id: "banner-native-barra-5", pos: 5 });</script>
+    </div>
+</div>

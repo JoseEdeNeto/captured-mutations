@@ -1,0 +1,1 @@
+<iframe src="https://tm.uol.com.br/mercurio.html" id="tm-remote-storage" style="position: absolute; width: 1px; height: 1px; left: -9999px; display: none;" data-loaded="true" class=" old_mutation"></iframe>

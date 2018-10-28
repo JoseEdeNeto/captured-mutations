@@ -1,0 +1,488 @@
+<li class="mmn-item  has-children  mmn-submenu sz sz-9 aria-check-hovered old_mutation">
+										<span class="mmn-itm-link mmn-itm-hash itm-lnk-level-1 aria-check-hovered old_mutation" tabindex="1">
+											moda, beleza e perfumaria
+											
+											<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+												<use xlink:href="#bhf_icon-arrow"></use>
+												<title id="mmn-arw-title">moda, beleza e perfumaria</title>
+											</svg>
+										</span>
+										<div class="mmn-panel mmn-pnl-level-2">
+												<ul class="mmn-list sizer szr-2 no-col">
+													<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">moda, beleza e perfumaria</span></li>
+																<li class="mmn-item mmn-pnl-back">
+																	<a href="#" class="mmn-back mmn-bk-level-2">
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">moda</title>
+																		</svg>
+																		Voltar
+																	</a>
+																</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-1">
+																	<a href="https://www.americanas.com.br/categoria/moda" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		moda
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">moda</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-5 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">moda</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">feminino</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-1">
+																								<a href="https://www.americanas.com.br/categoria/moda/feminino" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									feminino
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">feminino</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-3 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">feminino</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">roupas</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/moda/feminino/roupas" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																roupas
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/moda/feminino/calcados" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																calçados
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-3">
+																															<a href="https://www.americanas.com.br/categoria/moda/feminino/bolsas-e-acessorios" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																bolsas e acessórios
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/moda/feminino" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais feminino
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-2">
+																								<a href="https://www.americanas.com.br/categoria/moda/masculino" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									masculino
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">masculino</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-2 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">masculino</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">roupas</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/moda/masculino/roupas" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																roupas
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/moda/masculino/calcados" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																calçados
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/moda/masculino" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais masculino
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-3">
+																								<a href="https://www.americanas.com.br/categoria/moda/infantil" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									infantil
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">infantil</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-2 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">infantil</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">para meninas</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/moda/infantil/meninas" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																para meninas
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/moda/infantil/meninos" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																para meninos
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/moda/infantil" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais infantil
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-4">
+																								<a href="https://www.americanas.com.br/categoria/vestuario-esportivo" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									vestuário esportivo
+																									<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">vestuário esportivo</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-2 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">vestuário esportivo</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">feminino</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/vestuario-esportivo/feminino" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																feminino
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/vestuario-esportivo/masculino" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																masculino
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/vestuario-esportivo" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais vestuário esportivo
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-5">
+																								<a href="https://www.americanas.com.br/hotsite/moda-fmais-inverno" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									marcas exclusivas
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">marcas exclusivas</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-2 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">marcas exclusivas</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">F+</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/hotsite/moda-fmais-inverno" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																F+
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/hotsite/luk" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																luk
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/hotsite/moda-fmais-inverno" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais marcas exclusivas
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/moda" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais moda
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-2">
+																	<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		beleza &amp; perfumaria
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">beleza &amp; perfumaria</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-7 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">beleza &amp; perfumaria</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">lançamentos</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item    sz sz-1">
+																								<a href="https://www.americanas.com.br/hotsite/lancamentos-beleza" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									lançamentos
+																									<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																								</a>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-2">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/produtos-para-cabelo" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									cabelo
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">cabelo</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-4 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">cabelo</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">chapinhas e pranchas</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/aparelhos-eletricos-para-cabelo/prancha-alisadora" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																chapinhas e pranchas
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/aparelhos-eletricos-para-cabelo/secador-de-cabelo" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																secadores de cabelos
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-3">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/produtos-para-cabelo/tratamento" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																tratamento para cabelo
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-4">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/produtos-para-cabelo/escova-progressiva" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																escova progressiva
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/produtos-para-cabelo" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais cabelo
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-3">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/barbearia" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									barbearia
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">barbearia</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-2 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">barbearia</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">barbeadores</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/barbearia/barbeador-eletrico" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																barbeadores
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/barbearia/maquina-de-cortar-cabelo" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																máquina de cortar cabelo
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/barbearia" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais barbearia
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-4">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/perfumaria" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									perfumes
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">perfumes</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-2 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">perfumes</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">perfumes masculinos</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/perfumaria/perfume-masculino" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																perfumes masculinos
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/perfumaria/perfume-feminino" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																perfumes femininos
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/perfumaria" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais perfumes
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item    sz sz-5">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/maquiagem" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									maquiagem
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-6">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/dermocosmeticos" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									dermocosméticos
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">dermocosméticos</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-1 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">dermocosméticos</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">protetor solar</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/protecao-solar" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																protetor solar
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/dermocosmeticos" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais dermocosméticos
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item    sz sz-7">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria/unha" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									unha
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/beleza-e-perfumaria" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais beleza &amp; perfumaria
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+												</ul>
+													<ul class="header-banner sizer szr-1" data-pos="x91">
+													<li class="hdr-bnr-item sz sz-1">
+														<a href="https://www.americanas.com.br/categoria/moda?chave=brd_hm_mn_0_0_moda" class="hdr-bnr-link" title="moda">
+															<div class="hdr-bnr-image loaded lzy old_mutation" title="moda" data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/10/16/banner-menu_moda_verao19_ACOM_3.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/10/16/banner-menu_moda_verao19_ACOM_3.png&quot;);"></div>
+														</a>
+													</li>
+												</ul>
+										</div>
+								</li>

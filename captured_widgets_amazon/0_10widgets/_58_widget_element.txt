@@ -1,0 +1,3 @@
+<a class="feed-carousel-control feed-right old_mutation aria-check-hovered" tabindex="-1" href="#" aria-label="Carousel next slide" aria-hidden="true" style="display: none;">
+    <span class="gw-icon feed-arrow aria-check-hovered old_mutation"></span>
+  </a>

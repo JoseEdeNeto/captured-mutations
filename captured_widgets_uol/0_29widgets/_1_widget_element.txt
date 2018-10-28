@@ -1,0 +1,1 @@
+<span class="temp temp-graus-quente aria-check-hovered old_mutation">26ºC</span>

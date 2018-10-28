@@ -1,0 +1,1 @@
+<span class="value aria-check-hovered old_mutation">109,90</span>

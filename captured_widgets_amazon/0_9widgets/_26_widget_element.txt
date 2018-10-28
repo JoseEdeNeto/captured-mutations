@@ -1,0 +1,11 @@
+<div id="desktop-grid-2" data-gwi="{&quot;visible&quot;:&quot;desktop-grid-2-visible&quot;,&quot;active&quot;:&quot;desktop-grid-2-active&quot;}" data-order-ws="2" class="gw-col celwidget csm-placement-id-a9cf5e72-2152-4a49-b793-8f856c9701a9 aria-check-hovered old_mutation" data-order-sm="2" data-cel-widget="desktop-grid-2"><div id="IOOAzqaAhWaTTv_e3c_iGQ" class="a-cardui fat-image-link card-lite aria-check-hovered old_mutation" data-a-card-type="basic"><div class="a-cardui-header aria-check-hovered old_mutation"><h2 class="a-color-base headline truncate-1line aria-check-hovered old_mutation">Explore best sellers</h2>
+</div>
+<div class="a-cardui-body aria-check-hovered old_mutation"><a class="a-link-normal center-image aok-block aria-check-hovered old_mutation" href="/s/ref=AE_EN_ATF_Elec?fst=as%3Aoff&amp;rh=i%3Aspecialty-aps%2Cn%3A!16225009011%2Cp_72%3A1248879011&amp;bbn=16225009011&amp;ie=UTF8&amp;qid=1529517925&amp;rnid=1248877011&amp;pf_rd_p=a9cf5e72-2152-4a49-b793-8f856c9701a9&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6"><div class="a-image-container a-dynamic-image-container aria-check-hovered old_mutation" style="height:260px;"><img alt="Explore best sellers. See our most popular products in electronics." src="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/ATF/Electronicss1X._CB475578960_SY260_.jpg" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/ATF/Electronics2X._CB475578963_SY520_.jpg" class=" aria-check-hovered old_mutation"></div>
+</a>
+<p class="a-spacing-top-mini a-size-base description truncate-2line aria-check-hovered old_mutation">See our most popular products in electronics</p>
+</div>
+<div class="a-cardui-footer aria-check-hovered old_mutation"><a class="a-link-normal see-more truncate-1line aria-check-hovered old_mutation" href="/s/ref=AE_EN_ATF_Elec?fst=as%3Aoff&amp;rh=i%3Aspecialty-aps%2Cn%3A!16225009011%2Cp_72%3A1248879011&amp;bbn=16225009011&amp;ie=UTF8&amp;qid=1529517925&amp;rnid=1248877011&amp;pf_rd_p=a9cf5e72-2152-4a49-b793-8f856c9701a9&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6">See more</a>
+</div>
+</div>
+<script style="" class=" mutation_widget">(function(f) {f(P._namespace('gwiAutoInstVisible'));}(function(P) {if(window.GWI){GWI.Card.autoInstVisible('IOOAzqaAhWaTTv_e3c_iGQ');}}));</script>
+</div>

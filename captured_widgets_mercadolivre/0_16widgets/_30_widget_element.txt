@@ -1,0 +1,1 @@
+<div class="ui-card foot-main aria-check-hovered old_mutation"><span class="main-item-label">Descubra</span><span class="main-item-title aria-check-hovered old_mutation">Amantes da cozinha</span></div>

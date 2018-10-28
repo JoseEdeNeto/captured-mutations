@@ -1,0 +1,12 @@
+<style data-hj-ignore-attributes="" style="" class=" old_mutation">
+        
+        .critical--969281175.b2w-slider-wrapper .slick-slider.fullslideshow .slick-list .slick-track {
+          width: 2700%;
+          transform: translate3d(-3.7037037037037037%, 0px, 0px);
+        }
+      
+
+        .critical--969281175.b2w-slider-wrapper .slick-slider .slick-list .slick-track .slick-slide {
+          width: 3.7037037037037037%;
+        }
+    </style>

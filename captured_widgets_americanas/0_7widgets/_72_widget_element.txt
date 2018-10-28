@@ -1,0 +1,53 @@
+<ul class="mmn-list sizer szr-6 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">informática e acessórios</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">monitor</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/monitor" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									monitor
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/acessorios-para-notebook/capa-para-notebook" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									capa para notebook
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/mouse" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									mouse
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/teclado" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									teclado
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/hd-externo" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									hd externo
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-6 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/impressora" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									impressora
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais informática e acessórios
+																								</a>
+																							</li>
+																			</ul>

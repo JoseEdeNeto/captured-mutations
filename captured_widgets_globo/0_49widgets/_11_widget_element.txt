@@ -1,6 +1,0 @@
-<div class="
-        hui-share__wrapper
-        
-            hui-share__wrapper--with-left-offset
-        
-     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Vídeo: andaime com operários fica girando em vendaval em GO" data-url="https://g1.globo.com/go/goias/noticia/2018/10/18/operario-relata-susto-ao-apos-ficar-girando-em-andaime-durante-vendaval-em-goiania.ghtml" data-image-url="https://s2.glbimg.com/pyG0cNFw6t6P3i0ZB4NG_Lhq0OQ=/523x230:1143x654/293x200/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/M/g/RW2Cl4T7KAp9SkATdBjA/andaime.jpg"></div></div>

@@ -1,4 +1,1 @@
-<a href="https://globoesporte.globo.com/futebol/times/cruzeiro/noticia/arrascaeta-profetizou-em-papo-com-colega-do-uruguai-que-faria-gol-importante-para-o-cruzeiro.ghtml" title="Arrascaeta profetizou o gol " class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
-        
-        Arrascaeta profetizou o gol 
-        </a>
+<span class="titulo aria-check-hovered old_mutation">Eu Atleta</span>

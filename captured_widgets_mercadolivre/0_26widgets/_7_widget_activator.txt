@@ -1,0 +1,1 @@
+<a class="category" href="https://home.mercadolivre.com.br/eletronicos/#c_id=/home/categories/element&amp;c_category_id=MLB1000"><div class="icon"><svg class="nc-icon"><use xlink:href="#nc-audio-92"></use></svg></div><p>Eletrônicos, Áudio e Vídeo</p></a>

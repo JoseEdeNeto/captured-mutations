@@ -1,0 +1,37 @@
+<div class="mmn-panel mmn-pnl-level-3 aria-check-hovered old_mutation">
+																			<ul class="mmn-list sizer szr-3 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">telefonia fixa</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">telefone sem fio</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/telefonia-fixa/telefone-sem-fio" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									telefone sem fio
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/telefonia-fixa/telefone-com-fio" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									telefone com fio
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/telefonia-fixa/telefone-sem-fio/telefones-sem-fio-com-ramal" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									telefone sem fio com ramal
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/categoria/telefonia-fixa" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais telefonia fixa
+																								</a>
+																							</li>
+																			</ul>
+																		</div>

@@ -1,0 +1,1 @@
+<a name="menu-sub" data-metrics="sub-4;tvefamosos" href="http://tvefamosos.uol.com.br/novelas/" class="cor2-hover cor-transition aria-check-hovered old_mutation"> <strong class="hover-inherit aria-check-hovered old_mutation">Novelas</strong> </a>

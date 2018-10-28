@@ -1,0 +1,1 @@
+<span class="ui-item__discount-text aria-check-hovered old_mutation">36% OFF</span>

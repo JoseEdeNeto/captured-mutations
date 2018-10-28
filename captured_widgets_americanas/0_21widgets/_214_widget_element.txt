@@ -1,0 +1,1 @@
+<div class="card-product-prime-stamp aria-check-hovered old_mutation"><span class=" aria-check-hovered old_mutation">Inclui oferta</span><svg class="svg-icon svg-prime svg-icon-md" aria-labelledby="" role="img"><use xlink:href="#icon-prime"></use></svg></div>

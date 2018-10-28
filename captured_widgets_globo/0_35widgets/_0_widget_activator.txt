@@ -1,1 +1,4 @@
-<a href="http://gshow.globo.com/webseries/como-fazer/no-ar.html"><span class="titulo">Como fazer</span></a>
+<ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://extra.globo.com/tv-e-lazer/telinha/espelho-da-vida-cris-conhece-outra-vida-de-alain-se-assusta-23179256.html" title="Cris vê a outra vida de Alain" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
+        
+        Cris vê a outra vida de Alain
+        </a></li></ul>

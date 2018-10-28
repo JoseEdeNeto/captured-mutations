@@ -1,1 +1,1 @@
-<p class="hui-premium__title aria-check-hovered old_mutation">Craque da final, Dedé agradece 'fenômeno'</p>
+<div class="submenu-title aria-check-hovered old_mutation">mais esportes</div>

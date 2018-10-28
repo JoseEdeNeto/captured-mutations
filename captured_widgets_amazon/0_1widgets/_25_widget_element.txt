@@ -1,0 +1,7 @@
+<div class="nav-search-field  aria-check-hovered old_mutation">
+        <!-- DO NOT REMOVE: the text in the label are for screen reader, and it is not visible in the web page -->
+        <label id="nav-search-label" for="twotabsearchtextbox" class="aok-offscreen">
+          Search
+        </label>
+        <input type="text" id="twotabsearchtextbox" value="" name="field-keywords" autocomplete="off" placeholder="" class="nav-input aria-check-hovered old_mutation" dir="auto" tabindex="19">
+      </div>

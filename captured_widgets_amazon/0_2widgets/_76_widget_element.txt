@@ -1,0 +1,1 @@
+<script type="text/html" id="s-option" style="" class=" old_mutation"><option value="<#= value #>"><#= store #></option></script>

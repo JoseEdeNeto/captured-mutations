@@ -1,0 +1,11 @@
+<style style="" class=" old_mutation">
+        
+        .critical--542602979.b2w-slider-wrapper .slick-slider .slick-list .slick-track {
+          width: 300%;
+        }
+      
+
+        .critical--542602979.b2w-slider-wrapper .slick-slider .slick-list .slick-track .slick-slide {
+          width: 6.666666666666667%;
+        }
+    </style>

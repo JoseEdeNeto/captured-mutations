@@ -1,0 +1,49 @@
+<div id="h_trendingtopics" class="ready updated aria-check-hovered old_mutation"><ul class="list aria-check-hovered old_mutation" id="list-level-1">
+			<li class="lst-item signin-prime">
+					<a href="http://www.americanas.com.br/hotsite/prime?chave=prf_0_hr_0_0_prime" title="Seja Americanas Prime" class="lst-lnk dd">
+						<svg class="bhf-icon-signin-prime" aria-labelledby="brd-title-signin-prime" role="img">
+							<use xlink:href="#bhf_icon-signin-prime"></use>
+						<title id="brd-title-signin-prime">Seja Americanas Prime</title>
+					</svg>
+				</a>
+			</li>
+		<li class="lst-item highlight">
+			<a href="https://www.americanas.com.br/oferta-do-dia?chave=prf_hm_0_tt_7_" title="oferta do dia" class="lst-lnk rp" rel="nofollow">
+					<svg class="highlight-icon" role="img">
+						<use xlink:href="#bhf_brand-simple"></use>
+					</svg>
+				oferta do dia
+			</a>
+		</li>
+		<li class="lst-item">
+			<a href="https://go.onelink.me/NCRJ?pid=app-home-tt&amp;c=app-home-tt&amp;chave=brd_hm_tt_0_0_app" title="baixe o app" class="lst-lnk rp">
+				baixe o app
+			</a>
+		</li>
+		<li class="lst-item">
+			<a href="https://www.americanas.com.br/especial/black-friday?chave=brd_hm_tt_0_0_black-friday18" title="black friday" class="lst-lnk rp">
+				black friday
+			</a>
+		</li>
+		<li class="lst-item aria-check-hovered old_mutation">
+			<a href="https://www.americanas.com.br/hotsite/cupom-de-desconto?chave=prf_hm_0_tt_0_0_cupom" title="cupom" class="lst-lnk rp aria-check-hovered old_mutation">
+				cupom
+			</a>
+		</li>
+		<li class="lst-item">
+			<a href="https://www.americanas.com.br/hotsite/amedigital?chave=prf_hm_0_tt_0_0_ame" title="até 25% de cashback" class="lst-lnk rp">
+				até 25% de cashback
+			</a>
+		</li>
+		<li class="lst-item">
+			<a href="https://www.americanas.com.br/especial/pre-black-friday-cartao?chave=fin_hm_tt_0_6_cartao_acom" title="ofertas do cartão" class="lst-lnk rp">
+				ofertas do cartão
+			</a>
+		</li>
+		<li class="lst-item">
+			<a href="https://www.americanas.com.br/hotsite/temtudo?chave=brd_hm_tt_0_temtudo" title="tem tudo" class="lst-lnk rp">
+				tem tudo
+			</a>
+		</li>
+</ul>
+</div>

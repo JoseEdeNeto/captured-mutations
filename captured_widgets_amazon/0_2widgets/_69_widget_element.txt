@@ -1,0 +1,5 @@
+<script style="" class=" old_mutation">
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('beforeLoad').execute(function() {
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/31KhtijCACL.js?AUIClients/A11yClientSideMetrics');
+});
+</script>

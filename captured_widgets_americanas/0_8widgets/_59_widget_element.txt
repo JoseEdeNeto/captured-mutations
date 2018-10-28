@@ -1,0 +1,6 @@
+<li class="mmn-item sz sz-12 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/tv-e-home-theater/f/tag-sl23-acom-menu-usados?origem=omega" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																tvs usadas e seminovas
+																																
+																															</a>
+																													</li>

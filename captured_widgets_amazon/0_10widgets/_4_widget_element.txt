@@ -1,0 +1,4 @@
+<script type="text/javascript" style="" class=" old_mutation">//<![CDATA[
+	(function(f) {f(P._namespace('gwiAutoInstVisible'));}(function(P) {if(window.GWI){GWI.Card.autoInstVisible('KU-6SOX2xg8Os1pgN721MQ');}}));
+    (function(f) {f(P._namespace('gwiAutoInstActive'));}(function(P) {if(window.GWI){GWI.Card.autoInstActive('KU-6SOX2xg8Os1pgN721MQ');}}));
+  //]]></script>

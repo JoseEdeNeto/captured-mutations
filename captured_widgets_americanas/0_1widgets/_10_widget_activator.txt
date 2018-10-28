@@ -1,0 +1,3 @@
+<svg class="icon-face" aria-labelledby="usr-title" role="img">
+              <use xlink:href="#bhf_icon-social-facebook02"></use>
+            </svg>

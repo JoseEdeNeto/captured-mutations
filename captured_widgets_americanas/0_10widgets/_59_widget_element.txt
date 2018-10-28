@@ -1,0 +1,31 @@
+<div class="mmn-panel mmn-pnl-level-3 aria-check-hovered old_mutation">
+																			<ul class="mmn-list sizer szr-2 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">produtos exclusivos</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">classic home</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/busca?conteudo=classic home&amp;filtro=[{" id":"category_breadcrumb_name_level_pt_acom_1","value":"decoração"}]&ordenacao="moreRelevant&amp;origem=nanook&quot;" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									classic home
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/busca?conteudo=orb&amp;filtro=[{" id":"category_breadcrumb_name_level_pt_acom_1","value":"móveis"}]&ordenacao="moreRelevant&amp;origem=nanook&quot;" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									orb
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/nossas-marcas" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais produtos exclusivos
+																								</a>
+																							</li>
+																			</ul>
+																		</div>

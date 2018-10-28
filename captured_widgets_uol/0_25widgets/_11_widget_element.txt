@@ -1,0 +1,1 @@
+<span class="team-name aria-check-hovered old_mutation" title="Estrela Vermelha">ESV</span>

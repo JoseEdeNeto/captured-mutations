@@ -1,0 +1,5 @@
+<script type="text/javascript" style="" class=" old_mutation">
+P.when("A", "cf").execute(function(A){
+  A.loadDescendantImagesManually(A.$("#asin-shoveler-ns_KRBXE1XKYPSBQG3RRXZ1_5020_"));
+});
+</script>

@@ -1,0 +1,6 @@
+<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/f/tag-tag_familiazenfone5_acom" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																zenfone 5
+																																<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																															</a>
+																													</li>

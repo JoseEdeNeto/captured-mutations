@@ -1,0 +1,50 @@
+<div class="mmn-panel mmn-pnl-level-4 aria-check-hovered old_mutation">
+																										<ul class="mmn-list sizer szr-6 no-col aria-check-hovered old_mutation">
+																											<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">top modelos</span></li>
+																														<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																															<a href="#" class="mmn-back mmn-bk-level-4 mutation_widget" style="">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">iphone 7</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/iphone/iphone-7" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																iphone 7
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-j7" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																galaxy j7
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-j5" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																galaxy j5
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-s8-plus" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																galaxy s8+
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/moto-g/moto-g-5" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																moto g5
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item sz sz-6 aria-check-hovered old_mutation">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/lg-k" class="mmn-itm-link itm-lnk-level-4 aria-check-hovered old_mutation" tabindex="1">
+																																lg k
+																																
+																															</a>
+																													</li>
+																										</ul>
+																									</div>

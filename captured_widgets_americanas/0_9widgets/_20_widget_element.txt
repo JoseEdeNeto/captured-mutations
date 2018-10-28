@@ -1,0 +1,83 @@
+<ul class="mmn-list sizer szr-11 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">eletrodomésticos</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">geladeiras / refrigeradores</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/geladeira-refrigerador" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									geladeiras / refrigeradores
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/fogao" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									fogões
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/cooktop" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									cooktop
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/forno/forno-de-embutir" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									forno de embutir
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/coifa-e-depurador/coifas" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									coifas
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-6 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/micro-ondas" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									micro-ondas
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-7 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/adega-climatizada" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									adega de vinho
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-8 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/lava-loucas" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									lava-louças
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-9 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/maquina-de-lavar-e-tanquinho" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									máquina de lavar
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-10 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos/secadora-de-roupa-e-centrifuga" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									secadora de roupas
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-11 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/agro-industria-e-comercio" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									linha industrial
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/categoria/eletrodomesticos" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais eletrodomésticos
+																								</a>
+																							</li>
+																			</ul>

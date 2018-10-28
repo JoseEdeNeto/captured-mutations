@@ -1,0 +1,1 @@
+<a class="menu-uol-estacao bg2-hover canal-entretenimento aria-check-hovered old_mutation" name="menu" data-metrics="menu;entretenimento" href="http://entretenimento.uol.com.br/" data-menu="abm1veo">Entretê</a>

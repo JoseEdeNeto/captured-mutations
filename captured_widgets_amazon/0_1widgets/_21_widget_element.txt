@@ -1,0 +1,8 @@
+<div class="nav-right aria-check-hovered old_mutation">
+      <div class="nav-search-submit nav-sprite aria-check-hovered old_mutation">
+        <span id="nav-search-submit-text" class="nav-search-submit-text nav-sprite">
+          Go
+        </span>
+        <input type="submit" class="nav-input aria-check-hovered old_mutation" value="Go" tabindex="20">
+      </div>
+    </div>

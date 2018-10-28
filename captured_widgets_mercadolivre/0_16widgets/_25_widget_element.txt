@@ -1,0 +1,1 @@
+<button class="ui-dropdown__link aria-check-hovered old_mutation">Amantes da cozinha<span class="ui-dropdown__indicator"><svg viewBox="0 0 28 17" xmlns="http://www.w3.org/2000/svg" class="ui-icon ui-icon--chevron"><path d="M26.086 2L13.543 14.513 1 2" stroke-width="3" stroke="#3483fa" fill="none" fill-rule="evenodd"></path></svg></span></button>

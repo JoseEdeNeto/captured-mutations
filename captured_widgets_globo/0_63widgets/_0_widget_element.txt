@@ -1,1 +1,1 @@
-<a href="#touro" class="widgetHoroscopoMenu-signs aria-check-hovered old_mutation" data-sign_slug="touro"><svg class="widget-horoscopo__footer-sign" xmlns="http://www.w3.org/2000/svg"><use class="widget-horoscopo__footer-svg" xlink:href="#widget-horoscopo__touro"></use></svg></a>
+<li class=" has-children aria-check-hovered old_mutation"><a data-menu-id="bem-estar-e-saude" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">bem-estar e saúde</span></a></li>

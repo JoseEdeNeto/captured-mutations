@@ -1,0 +1,1 @@
+<div class="widget-horizontal-left-box aria-check-hovered old_mutation">   <div class="widget-horizontal-title cor22-hover cor-transition fixed-message aria-check-hovered old_mutation">Escolha sua novela</div>   </div>

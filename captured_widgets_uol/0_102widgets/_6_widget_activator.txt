@@ -1,0 +1,1 @@
+<em class="sprite sprite-geral icon-photo-black aria-check-hovered old_mutation"></em>

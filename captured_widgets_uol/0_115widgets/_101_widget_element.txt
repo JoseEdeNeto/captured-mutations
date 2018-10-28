@@ -1,0 +1,1 @@
+<i class="sprite sprite-geral logo-rodape aria-check-hovered old_mutation">UOL</i>

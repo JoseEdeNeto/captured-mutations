@@ -1,0 +1,5 @@
+<div class="cropped-image-map-size aria-check-hovered old_mutation" style="height: 300px"><div class="cropped-image-map-center-alignment aria-check-hovered old_mutation"><span style="display: inline-block" class=" aria-check-hovered old_mutation"><a class="a-link-normal aok-inline-block aria-check-hovered old_mutation" href="/b/ref=AE_EN_Hero_Confidence?node=17416544011&amp;pf_rd_p=c1233aca-86e2-49e6-913f-772ff664053e&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6"><img alt="Shop with 100% confidence on Amazon" src="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/Confidence_English_Hero1500x300._CB482150538_.png" height="300px" width="1500px" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/Confidence_English_Hero3000x600._CB482150534_.png" class=" aria-check-hovered old_mutation"></a>
+<div class="a-section"></div>
+</span>
+</div>
+</div>

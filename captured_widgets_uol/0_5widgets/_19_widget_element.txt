@@ -1,0 +1,1 @@
+<a name="menu-sub" data-metrics="sub-5;eleicoes" href="https://noticias.uol.com.br/politica/politicos-brasil/" class="cor2-hover cor-transition aria-check-hovered old_mutation"> <strong class="hover-inherit aria-check-hovered old_mutation">Candidatos</strong> </a>

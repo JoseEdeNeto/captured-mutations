@@ -1,0 +1,313 @@
+<li class="mmn-item  has-children  mmn-submenu sz sz-4 aria-check-hovered old_mutation">
+										<span class="mmn-itm-link mmn-itm-hash itm-lnk-level-1 aria-check-hovered old_mutation" tabindex="1">
+											informática e tablets
+											
+											<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+												<use xlink:href="#bhf_icon-arrow"></use>
+												<title id="mmn-arw-title">informática e tablets</title>
+											</svg>
+										</span>
+										<div class="mmn-panel mmn-pnl-level-2">
+												<ul class="mmn-list sizer szr-5 no-col">
+													<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">informática e tablets</span></li>
+																<li class="mmn-item mmn-pnl-back">
+																	<a href="#" class="mmn-back mmn-bk-level-2">
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">informática</title>
+																		</svg>
+																		Voltar
+																	</a>
+																</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-1">
+																	<a href="https://www.americanas.com.br/categoria/informatica" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		informática
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">informática</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-5 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">informática</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">notebook</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-1">
+																								<a href="https://www.americanas.com.br/categoria/informatica/notebook" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									notebook
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">notebook</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-2 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">notebook</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">2 em 1</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/informatica/notebook/notebook-2-em-1" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																2 em 1
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/informatica/notebook/notebook-gamer" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																notebook gamer
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/informatica/notebook" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais notebook
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-2">
+																								<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									computadores e all in one
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">computadores e all in one</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-3 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">computadores e all in one</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">computador</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one/computador" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																computador
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one/all-in-one" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																all in one
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-3">
+																															<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one/computador-gamer" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																pc gamer
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/informatica/computadores-e-all-in-one" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais computadores e all in one
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item    sz sz-3">
+																								<a href="https://www.americanas.com.br/categoria/informatica/f/marca-Apple" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									apple
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-4">
+																								<a href="https://www.americanas.com.br/categoria/informatica/servidor" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									servidores
+																									<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-5">
+																								<a href="https://www.americanas.com.br/categoria/informatica/workstation" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									workstations
+																									<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/informatica" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais informática
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+															<li class="mmn-item    sz sz-2">
+																	<a href="https://www.americanas.com.br/categoria/games/pc-gaming" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		pc gaming
+																		<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																	</a>
+															</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-3">
+																	<a href="https://www.americanas.com.br/categoria/informatica/tablet-e-ipad" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		tablet e ipad
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">tablet e ipad</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-2 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">tablet e ipad</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">ipad</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item    sz sz-1">
+																								<a href="https://www.americanas.com.br/categoria/informatica/tablet-e-ipad/ipad" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									ipad
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-2">
+																								<a href="https://www.americanas.com.br/categoria/informatica/tablet-e-ipad/tablet" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									tablet
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/informatica/tablet-e-ipad" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais tablet e ipad
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-4">
+																	<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		informática e acessórios
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">informática e acessórios</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-6 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">informática e acessórios</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">monitor</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item    sz sz-1">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/monitor" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									monitor
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-2">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/acessorios-para-notebook/capa-para-notebook" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									capa para notebook
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-3">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/mouse" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									mouse
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-4">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/teclado" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									teclado
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-5">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/hd-externo" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									hd externo
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-6">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/impressora" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									impressora
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais informática e acessórios
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-5">
+																	<a href="https://www.americanas.com.br/categoria/gift-card" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		gift cards
+																		<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">gift cards</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-1 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">gift cards</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">software</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item    sz sz-1">
+																								<a href="https://www.americanas.com.br/categoria/gift-card/software" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									software
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/gift-card" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais gift cards
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+												</ul>
+													<ul class="header-banner sizer szr-1" data-pos="x78">
+													<li class="hdr-bnr-item sz sz-1">
+														<a href="https://www.americanas.com.br/categoria/informatica-e-acessorios/f/tag-tag_acom_philipsaoc?chave=pm_bs_fu_inf_acom_philips_infoacess_out_2310" class="hdr-bnr-link" title="Monitores Philips">
+															<div class="hdr-bnr-image loaded lzy old_mutation" title="Monitores Philips" data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/10/11/AF_acom-home-menu_Philips193V5LSB2.288P6LJEB_270x540.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/10/11/AF_acom-home-menu_Philips193V5LSB2.288P6LJEB_270x540.png&quot;);"></div>
+														</a>
+													</li>
+												</ul>
+										</div>
+								</li>

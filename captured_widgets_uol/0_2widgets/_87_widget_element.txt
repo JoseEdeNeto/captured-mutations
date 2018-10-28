@@ -1,0 +1,1 @@
+<iframe src="https://tm.uol.com.br/purge-clients.html?name=DEretargeting&amp;expname=DEretargetingExp&amp;expdomain=1" style="width: 0px; display: none; opacity: 0; border: 0px;" class=" old_mutation"></iframe>

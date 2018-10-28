@@ -1,0 +1,5 @@
+<li class="hdr-bnr-item sz sz-1 aria-check-hovered old_mutation">
+														<a href="https://www.b2wempresas.com.br?epar=pm_am_menu" class="hdr-bnr-link aria-check-hovered old_mutation" title="b2w empresas">
+															<div class="hdr-bnr-image loaded lzy old_mutation aria-check-hovered" title="b2w empresas" data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/04/10/menu_ACOM_b2w_empresas_cupom.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/04/10/menu_ACOM_b2w_empresas_cupom.png&quot;);"></div>
+														</a>
+													</li>

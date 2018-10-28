@@ -1,0 +1,9 @@
+<div id="gw-ftGr-desktop-hero-B" class="celwidget csm-placement-id-c40f03b0-c909-47b2-bdae-e099653068d5 gw-ftGr-desktop-hero aria-check-hovered old_mutation" data-cel-widget="gw-ftGr-desktop-hero-B"><div class="cropped-image-link image-map shogun-widget card-lite ameyal-cropped-image-link aria-check-hovered old_mutation" id="N7K_1Mnz_tyvssc_Wnidtw">
+<div class="cropped-image-map-size aria-check-hovered old_mutation" style="height: 300px"><div class="cropped-image-map-center-alignment aria-check-hovered old_mutation"><span style="display: inline-block" class=" aria-check-hovered old_mutation"><a class="a-link-normal aok-inline-block aria-check-hovered old_mutation" href="/b/ref=AE_EN_Hero_Deals?node=15529609011&amp;pf_rd_p=c40f03b0-c909-47b2-bdae-e099653068d5&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6"><img alt="Shop Today’s Deals. Low prices and new deals every day." src="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/2018/September/Fuji_EN_Deals2_1500x300._CB485793519_.png" height="300px" width="1500px" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/01/amazonglobal/images/Fuji/hero/English/2018/September/Fuji_EN_Deals2_3000x600._CB485793518_.png" class=" aria-check-hovered old_mutation"></a>
+<div class="a-section"></div>
+</span>
+</div>
+</div>
+</div>
+
+</div>

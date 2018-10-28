@@ -1,6 +1,0 @@
-<div class="
-        hui-share__wrapper
-        
-            hui-share__wrapper--with-left-offset
-        
-     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Estudante ferido em ataque a escola no PR com tiro recebe alta" data-url="https://g1.globo.com/pr/parana/noticia/2018/10/18/adolescente-ferido-em-ataque-a-escola-em-medianeira-recebe-alta.ghtml" data-image-url="https://s2.glbimg.com/qHBP5UHMJ8lX929uA5PBMAzx1Ok=/0x304:1000x987/293x200/s.glbimg.com/en/ho/f/original/2018/10/18/bruno_raphael_facundo_e_vitima_de_ataque_em_curitiba.jpg"></div></div>

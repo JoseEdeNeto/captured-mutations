@@ -1,0 +1,5 @@
+<li class="lst-item aria-check-hovered old_mutation">
+			<a href="https://www.americanas.com.br/hotsite/amedigital?chave=prf_hm_0_tt_0_0_ame" title="até 25% de cashback" class="lst-lnk rp aria-check-hovered old_mutation">
+				até 25% de cashback
+			</a>
+		</li>

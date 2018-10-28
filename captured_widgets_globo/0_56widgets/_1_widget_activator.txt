@@ -1,1 +1,3 @@
-<a class="hui-columns__more hui-highlight__link hui-see-more__hide-extra-itens hui-highlight-hover-effect hui-highlight-title aria-check-hovered old_mutation" title="mais esportes" href="https://globoesporte.globo.com/">mais esportes ›</a>
+<li class="has-children aria-check-hovered old_mutation"><a data-menu-id="top-gshow" class="old_mutation aria-check-hovered active"><div class="barrinhas"></div><span class="titulo aria-check-hovered old_mutation">
+                                            top páginas
+                                        </span></a></li>

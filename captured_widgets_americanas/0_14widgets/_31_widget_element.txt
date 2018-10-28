@@ -1,0 +1,8 @@
+<a href="https://www.americanas.com.br/categoria/utilidades-domesticas" class="mmn-itm-link itm-lnk-level-1 aria-check-hovered old_mutation" tabindex="1">
+											utilidades domésticas
+											
+											<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+												<use xlink:href="#bhf_icon-arrow"></use>
+												<title id="mmn-arw-title">utilidades domésticas</title>
+											</svg>
+										</a>

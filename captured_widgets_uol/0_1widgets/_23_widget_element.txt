@@ -1,0 +1,1 @@
+<a href="http://economia.uol.com.br/cotacoes/" data-metrics="mod-0;header" name="header" title="Variação: + 0,72%" class="opacity80 cor-transition corw aria-check-hovered old_mutation"> Dólar <span class="icon-filled-arrow-up corw aria-check-hovered old_mutation"></span> R$ <span class="corw aria-check-hovered old_mutation">3,724</span> </a>

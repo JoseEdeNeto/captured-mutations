@@ -1,0 +1,1 @@
+<a class="category aria-check-hovered old_mutation" href="https://home.mercadolivre.com.br/cameras-e-accesorios/#c_id=/home/categories/element&amp;c_category_id=MLB1039"><div class="icon"><svg class="nc-icon"><use xlink:href="#nc-camera-20"></use></svg></div><p>Câmeras e Acessórios</p></a>

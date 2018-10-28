@@ -1,0 +1,1 @@
+<img class="team-flag aria-check-hovered old_mutation" alt="Barcelona" title="Barcelona" width="24px" height="24px" src="https://e.imguol.com/futebol/brasoes/100x100/barcelona.png">

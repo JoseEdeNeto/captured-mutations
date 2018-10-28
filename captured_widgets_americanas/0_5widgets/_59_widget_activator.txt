@@ -1,0 +1,334 @@
+<li class="mmn-item  has-children  mmn-submenu sz sz-3 aria-check-hovered old_mutation">
+										<span class="mmn-itm-link mmn-itm-hash itm-lnk-level-1 aria-check-hovered old_mutation" tabindex="1">
+											celulares e telefonia fixa
+											
+											<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+												<use xlink:href="#bhf_icon-arrow"></use>
+												<title id="mmn-arw-title">celulares e telefonia fixa</title>
+											</svg>
+										</span>
+										<div class="mmn-panel mmn-pnl-level-2">
+												<ul class="mmn-list sizer szr-3 no-col">
+													<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">celulares e telefonia fixa</span></li>
+																<li class="mmn-item mmn-pnl-back">
+																	<a href="#" class="mmn-back mmn-bk-level-2">
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">celulares</title>
+																		</svg>
+																		Voltar
+																	</a>
+																</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-1">
+																	<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		celulares
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">celulares</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-4 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">celulares</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">últimos lançamentos</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-1">
+																								<span class="mmn-itm-link mmn-itm-hash itm-lnk-level-3" tabindex="1">
+																									últimos lançamentos
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">últimos lançamentos</title>
+																									</svg>
+																								</span>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-8 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">últimos lançamentos</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">galaxy note 9</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/hotsite/novo-samsung-galaxy" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																galaxy note 9
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/produto/133716707" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																lg qnote+
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-3">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/f/tag-tag_familiazenfone5_acom" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																zenfone 5
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-4">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-j4" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																galaxy j4
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-5">
+																															<a href="https://www.americanas.com.br/hotsite/novo-samsung-galaxy-s9" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																galaxy s9
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-6">
+																															<a href="https://www.americanas.com.br/hotsite/novomoto" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																moto g6
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-7">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-a8" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																galaxy a8
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-8">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/iphone/iphone-8" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																iphone 8
+																																
+																															</a>
+																													</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-2">
+																								<span class="mmn-itm-link mmn-itm-hash itm-lnk-level-3" tabindex="1">
+																									top modelos
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">top modelos</title>
+																									</svg>
+																								</span>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-6 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">top modelos</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">iphone 7</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/iphone/iphone-7" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																iphone 7
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-j7" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																galaxy j7
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-3">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-j5" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																galaxy j5
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-4">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-s8-plus" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																galaxy s8+
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-5">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/moto-g/moto-g-5" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																moto g5
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-6">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/lg-k" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																lg k
+																																
+																															</a>
+																													</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-3">
+																								<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/acessorios-para-celular" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									acessórios
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">acessórios</title>
+																									</svg>
+																								</a>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-4 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">acessórios</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">acessórios para celular</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/acessorios-para-celular" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																acessórios para celular
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/wearable" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																wearables
+																																<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-3">
+																															<a href="https://www.americanas.com.br/categoria/wearable/smartwatch" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																smartwatch
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-4">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/acessorios-para-celular/capa-e-pelicula" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																capa e película
+																																
+																															</a>
+																													</li>
+																														<li class="mmn-item mmn-pnl-all">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/acessorios-para-celular" class="mmn-all mmn-all-level-4 mmn-itm-link" tabindex="1">
+																																veja mais acessórios
+																															</a>
+																														</li>
+																										</ul>
+																									</div>
+																						</li>
+																						<li class="mmn-item  has-children  mmn-submenu sz sz-4">
+																								<span class="mmn-itm-link mmn-itm-hash itm-lnk-level-3" tabindex="1">
+																									veja também
+																									
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">veja também</title>
+																									</svg>
+																								</span>
+																								<div class="mmn-panel mmn-pnl-level-4">
+																										<ul class="mmn-list sizer szr-2 no-col">
+																											<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">veja também</span></li>
+																														<li class="mmn-item mmn-pnl-back">
+																															<a href="#" class="mmn-back mmn-bk-level-4">
+																																<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																																	<use xlink:href="#bhf_icon-arrow"></use>
+																																	<title id="mmn-arw-title">smartphones usados</title>
+																																</svg>
+																																Voltar
+																															</a>
+																														</li>
+																													<li class="mmn-item    sz sz-1">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/f/tag-tag_telusadosmenu_acom?origem=omega" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																smartphones usados
+																																
+																															</a>
+																													</li>
+																													<li class="mmn-item    sz sz-2">
+																															<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones/celular-basico" class="mmn-itm-link itm-lnk-level-4" tabindex="1">
+																																celular básico
+																																
+																															</a>
+																													</li>
+																										</ul>
+																									</div>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/celulares-e-smartphones" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais celulares
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-2">
+																	<a href="https://www.americanas.com.br/categoria/telefonia-fixa" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		telefonia fixa
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">telefonia fixa</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-3 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">telefonia fixa</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">telefone sem fio</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item    sz sz-1">
+																								<a href="https://www.americanas.com.br/categoria/telefonia-fixa/telefone-sem-fio" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									telefone sem fio
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-2">
+																								<a href="https://www.americanas.com.br/categoria/telefonia-fixa/telefone-com-fio" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									telefone com fio
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-3">
+																								<a href="https://www.americanas.com.br/categoria/telefonia-fixa/telefone-sem-fio/telefones-sem-fio-com-ramal" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									telefone sem fio com ramal
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/telefonia-fixa" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais telefonia fixa
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+															<li class="mmn-item    sz sz-3">
+																	<a href="https://www.americanas.com.br/hotsite/contrate" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		plano de celular
+																		<span class="mmn-itm-flag mmn-itm-novo">Novo</span>
+																	</a>
+															</li>
+												</ul>
+													<ul class="header-banner sizer szr-1" data-pos="x77">
+													<li class="hdr-bnr-item sz sz-1">
+														<a href="https://www.americanas.com.br/hotsite/tabletsamsung?chave=pm_hm_mn_tel_acom_samsung_tablet_2610" class="hdr-bnr-link" title="Tablets Samsung">
+															<div class="hdr-bnr-image loaded lzy old_mutation" title="Tablets Samsung" data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/10/26/samsung-smartwatch-tablet-acom-home-menu-270x540-bOK.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/10/26/samsung-smartwatch-tablet-acom-home-menu-270x540-bOK.png&quot;);"></div>
+														</a>
+													</li>
+												</ul>
+										</div>
+								</li>

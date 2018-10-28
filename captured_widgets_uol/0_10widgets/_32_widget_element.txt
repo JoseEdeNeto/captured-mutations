@@ -1,0 +1,1 @@
+<li class=" aria-check-hovered old_mutation"> <a name="menu-sub-vitrine" title="Humm minuto" data-metrics="sub-3;tvuol" href="https://comidasebebidas.uol.com.br/receitas/receitas-rapidas/" class="opacity80 cor-transition aria-check-hovered old_mutation"> - Humm minuto </a> </li>

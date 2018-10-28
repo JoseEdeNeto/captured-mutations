@@ -1,0 +1,56 @@
+<div class="a-popover-preload old_mutation" id="a-popover-gw-asin-popover" style="">
+    <div id="gw-popover-wrapper">
+      <div id="gw-asin-popover">
+        <i id="gw-popover-close" class="gw-icon close-icon" title="Close Button"></i>
+        <div class="content" data-bind="visible: !loading">
+          
+          <a class="imgblock" aria-labelledby="quicklook-product-image" data-bind="href: url"><img id="quicklook-product-image" class="product-image" data-bind="attr: image, attr: flingData"></a>
+          <div class="detailblock">
+            <div class="details">
+              <div class="byline a-color-tertiary" data-bind="text: byline"></div>
+              <a class="title" data-bind="text: title, trimText: 63, href: url"></a>
+              <div class="reviews">
+                <a data-bind="href: reviews.url">
+                  <i class="a-icon a-icon-star-medium" data-bind="visible: reviews, css: reviews.auiStarClassMedium">
+                    <span class="a-icon-alt" data-bind="text: reviews.hoverText"></span>
+                  </i>
+                  <span class="review-count a-color-tertiary" data-bind="text: reviews.numberOfRatings"></span>
+                </a>
+              </div>
+              <div class="pricing">
+                <span class="price" data-bind="html: priceOnly, css: addToCart.priceClass"></span>
+                <i class="prime a-icon" data-bind="visible: isPrime, css: prime.auiIconClass" title="Prime"></i>
+                <div>
+                  <span class="ppu" data-bind="html: ppu"></span>
+                </div>
+              </div>
+              <span class="dp-link">
+                <span class="a-button a-button-primary" id="a-autoid-1">
+                  <span class="a-button-inner">
+                    <a href="" class="details-button a-button-text" role="button" data-bind="href: url" id="a-autoid-1-announce">See product details</a>
+                  </span>
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+        <div class="loading" aria-hidden="true" data-bind="visible: loading">
+          <i class="gw-spinner" role="presentation"></i>
+        </div>
+      </div>
+      <div id="sims-section">
+        <div class="sims-wrapper">
+          <div class="sims-loading" aria-hidden="true">
+            <i class="gw-loading-stripe" role="presentation"></i>
+          </div>
+          <div class="sims-header">
+            
+            <span class="sims-header-text a-size-medium a-align-center a-color-tertiary">Customers also bought</span>
+          </div>
+          <div class="sims-container">
+            <div class="sims-details"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

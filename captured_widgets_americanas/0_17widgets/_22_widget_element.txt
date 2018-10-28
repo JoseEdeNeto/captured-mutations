@@ -1,0 +1,6 @@
+<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="http://www.americanas.com.br/cartao-americanas-vantagens?chave=fin_hm_mn_0_3_cartao_acom" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									vantagens
+																									
+																								</a>
+																						</li>

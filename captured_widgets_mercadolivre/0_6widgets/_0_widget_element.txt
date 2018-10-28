@@ -1,0 +1,1 @@
+<input type="text" class="nav-search-input aria-check-hovered old_mutation" name="as_word" placeholder="Buscar produtos, marcas e muito mais..." maxlength="120" autofocus="" autocapitalize="off" autocorrect="off" spellcheck="false" tabindex="2" autocomplete="off">

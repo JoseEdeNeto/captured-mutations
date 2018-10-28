@@ -1,0 +1,1 @@
+<div class="widget-horoscopo__before-title aria-check-hovered old_mutation"><strong class="widget-horoscopo__title aria-check-hovered old_mutation">Escorpião</strong><span class="widget-horoscopo__period aria-check-hovered old_mutation">23/10 a 21/11</span></div>

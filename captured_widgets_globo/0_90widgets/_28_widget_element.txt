@@ -1,0 +1,4 @@
+<div class="
+        hui-share__wrapper
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="'Ondas J' viajam por sólidos e descobrem que centro da Terra é 'mais macio' que esperado" data-url="https://g1.globo.com/ciencia-e-saude/noticia/2018/10/24/um-planeta-dentro-de-outro-estudo-mostra-que-centro-da-terra-e-solido-e-macio.ghtml" data-image-url="https://s2.glbimg.com/zksooRGIk-MT0xKowbO-5sEGIS0=/61x0:1622x1065/293x200/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/N/O/3GAogIQVGHJ8RzdAoakw/furacao.jpg"></div></div>

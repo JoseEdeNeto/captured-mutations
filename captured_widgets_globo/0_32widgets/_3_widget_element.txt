@@ -1,1 +1,3 @@
-<li data-menu-id="casa-e-decoracao" class="visible old_mutation"><div class="submenu-title">casa e decoração</div><div><a href="http://revistacasaejardim.globo.com/"><span class="titulo">Revista Casa e Jardim</span></a></div><div><a href="http://gnt.globo.com/casa-e-decoracao/"><span class="titulo">Casa no GNT</span></a></div><div><a href="http://casavogue.globo.com/"><span class="titulo">Casa Vogue</span></a></div><div><a href="http://revista.zapimoveis.com.br/?utm_source=globo.com-etc&amp;utm_medium=botao-casa-decoracao&amp;utm_campaign=Revista-Home"><span class="titulo">Revista do Zap</span></a></div></li>
+<div class="column medium-2 large-1 show-for-medium hui-premium__divider hui-premium__divider--vertical-medium aria-check-hovered old_mutation">
+        &nbsp;
+    </div>

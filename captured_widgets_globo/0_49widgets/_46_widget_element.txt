@@ -1,6 +1,0 @@
-<div class="
-        hui-share__wrapper
-        
-            hui-share__wrapper--with-left-offset
-        
-     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Invasor em pancadaria é substituído e não encara amigo de Conor" data-url="https://sportv.globo.com/site/combate/noticia/curtinhas-invasor-do-octogono-do-ufc-229-tukhugov-e-substituido-por-johnson-na-luta-com-lobov.ghtml" data-image-url="https://s2.glbimg.com/q3pYJxzKJk_MoseldqerWVTObic=/0x44:565x430/293x200/s.glbimg.com/en/ho/f/original/2018/10/18/ernest-chavez-x-zubaira-tukhugov_getty.jpg"></div></div>

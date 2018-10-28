@@ -1,0 +1,24 @@
+<style style="" class=" old_mutation">
+  #nav-prime-tooltip{
+    padding: 0 20px 2px 20px;
+    background-color: white;
+    font-family: arial,sans-serif;
+  }
+  .nav-npt-text-title{
+    font-family: arial,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 21px;
+    color: #E47923;
+  }
+  .nav-npt-text-detail, a.nav-npt-a{
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    color: #333333;
+    margin: 2px 0px;
+  }
+  a.nav-npt-a {
+    text-decoration: underline;
+  }
+</style>

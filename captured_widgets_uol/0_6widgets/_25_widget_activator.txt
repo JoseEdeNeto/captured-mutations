@@ -1,0 +1,1 @@
+<li class="menu-uol-item area-padrao old_mutation aria-check-hovered"> <a class="menu-uol-estacao bg2-hover canal-folha aria-check-hovered old_mutation" name="menu" data-metrics="menu;folha" href="http://www.folha.uol.com.br/" data-menu="8mqia6">Folha</a> </li>

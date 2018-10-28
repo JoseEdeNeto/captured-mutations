@@ -1,0 +1,3 @@
+<a class="feed-carousel-control feed-left old_mutation" tabindex="-1" href="#" aria-label="Carousel previous slide" aria-hidden="true" style="display: inline;">
+    <span class="gw-icon feed-arrow"></span>
+  </a>

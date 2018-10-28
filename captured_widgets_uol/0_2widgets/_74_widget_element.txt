@@ -1,0 +1,1 @@
+<a class="btCelular btCelularRodape old_mutation" href="#versao-mobile" rel="celular-rodape" style="">Acessar a versão Celular</a>

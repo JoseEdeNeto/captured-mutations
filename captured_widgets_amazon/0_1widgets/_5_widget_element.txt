@@ -1,0 +1,15 @@
+<div class="nav-left aria-check-hovered old_mutation">
+        <script type="text/javascript" style="" class=" mutation_widget">window.navmet.tmp=+new Date();</script>
+<script type="text/javascript" style="" class=" mutation_widget">window.navmet.push({key:'HamburgerMenuIcon',end:+new Date(),begin:window.navmet.tmp});</script>
+        
+        
+        <script type="text/javascript" style="" class=" mutation_widget">window.navmet.tmp=+new Date();</script>
+  <div id="nav-logo" class=" aria-check-hovered old_mutation">
+    <a href="/ref=nav_logo" class="nav-logo-link aria-check-hovered old_mutation" tabindex="6">
+      <span class="nav-sprite nav-logo-base aria-check-hovered old_mutation">Amazon</span>
+      <span class="nav-sprite nav-logo-ext mutation_widget" style=""></span>
+      <span class="nav-sprite nav-logo-locale mutation_widget" style=""></span>
+    </a>
+  </div>
+<script type="text/javascript" style="" class=" mutation_widget">window.navmet.push({key:'Logo',end:+new Date(),begin:window.navmet.tmp});</script>
+      </div>

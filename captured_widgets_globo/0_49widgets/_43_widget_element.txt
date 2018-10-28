@@ -1,6 +1,0 @@
-<div class="
-        hui-share__wrapper
-        
-            hui-share__wrapper--with-left-offset
-        
-     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Levir manda recado antes da chegada ao Galo: 'Vai ter emoção'" data-url="https://globoesporte.globo.com/futebol/times/atletico-mg/noticia/preparem-os-remedios-para-o-coracao-avisa-levir-que-chega-nesta-5a-feira-ao-atletico-mg.ghtml" data-image-url="https://s2.glbimg.com/LFWUgDo8rrP_GhJk1PKEdqgUKLc=/18x53:505x385/293x200/s.glbimg.com/en/ho/f/original/2018/10/18/levir1.jpg"></div></div>

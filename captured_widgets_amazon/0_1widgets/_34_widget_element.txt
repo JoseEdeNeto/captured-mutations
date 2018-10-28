@@ -1,0 +1,114 @@
+<div id="nav-main" class="nav-sprite aria-check-hovered old_mutation">
+      
+      
+      
+      
+      
+      <div class="nav-left">
+        
+        
+        <div id="nav-global-location-slot"><span class="a-declarative" data-a-modal="{&quot;width&quot;:375,&quot;closeButton&quot;:&quot;false&quot;,&quot;popoverLabel&quot;:&quot;Choose your location&quot;,&quot;name&quot;:&quot;glow-modal&quot;,&quot;url&quot;:&quot;/gp/glow/get-address-selections.html?selectedLocationType=COUNTRY_CODE&amp;selectedLocationValue=BR&amp;deviceType=desktop&amp;pageType=Gateway&amp;storeContext=generic&quot;,&quot;footer&quot;:&quot;<span class=\&quot;a-declarative\&quot; data-action=\&quot;a-popover-close\&quot; data-a-popover-close=\&quot;{}\&quot;><span class=\&quot;a-button a-button-primary\&quot;><span class=\&quot;a-button-inner\&quot;><button name=\&quot;glowDoneButton\&quot; class=\&quot;a-button-text\&quot; type=\&quot;button\&quot;>Done</button></span></span></span>&quot;,&quot;header&quot;:&quot;Choose your location&quot;}" data-action="a-modal"><a class="nav-a nav-a-2 a-popover-trigger a-declarative" tabindex="35"><div class="nav-sprite" id="nav-packard-glow-loc-icon"></div><div id="glow-ingress-block"><span class="nav-line-1" id="glow-ingress-line1">Deliver to</span><span class="nav-line-2" id="glow-ingress-line2">Brazil</span></div></a></span><input data-addnewaddress="add-new" id="unifiedLocation1ClickAddress" name="dropdown-selection" type="hidden" value="add-new"><input data-addnewaddress="add-new" id="ubbShipTo" name="dropdown-selection-ubb" type="hidden" value="add-new"></div>
+        
+        
+        
+        
+        
+        
+        
+      </div>
+      <div class="nav-right">
+        <script type="text/javascript" style="" class=" mutation_widget">window.navmet.tmp=+new Date();</script>
+        <div id="nav-tools">
+          
+          
+          
+          
+  <a href="/gp/customer-preferences/select-language/ref=topnav_lang?preferencesReturnUrl=%2F" id="icp-nav-flyout" class="nav-a nav-a-2 icp-link-style-2">
+    <span class="icp-nav-link-inner">
+      <span class="nav-line-1">
+        <span class="icp-nav-globe-img-2"></span>
+        <span class="icp-nav-language">EN</span>
+      </span>
+      <span class="nav-line-2">&nbsp;
+        <span class="nav-icon nav-arrow" style="visibility: visible;"></span>
+      </span>
+    </span>
+    <span class="icp-nav-link-border"></span>
+  </a>
+
+          
+<a href="https://www.amazon.com/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=usflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;openid.pape.max_auth_age=0" class="nav-a nav-a-2" data-nav-ref="nav_ya_signin" data-nav-role="signin" data-ux-jq-mouseenter="true" id="nav-link-accountList" tabindex="61">
+  <span class="nav-line-1">Hello. Sign in</span>
+  <span class="nav-line-2">Account &amp; Lists<span class="nav-icon nav-arrow" style="visibility: visible;"></span>
+  </span>
+  <span class="nav-line-3">Sign in</span>
+  <span class="nav-line-4">Account &amp; Lists</span>
+</a>
+
+          
+<a href="/gp/css/order-history?ref=nav_orders_first" class="nav-a nav-a-2 nav-single-row-link" id="nav-orders" tabindex="63">
+  <span class="nav-line-1"></span>
+  <span class="nav-line-2">Orders</span>
+</a>
+
+          
+          
+          
+  <a href="/gp/cart/view.html?ref=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2" id="nav-cart" tabindex="65">
+    <span aria-hidden="true" class="nav-line-1"></span>
+    <span aria-hidden="true" class="nav-line-2">Cart<span class="nav-icon nav-arrow"></span>
+    </span>
+    <span class="nav-cart-icon nav-sprite"></span>
+    <span id="nav-cart-count" aria-hidden="true" class="nav-cart-count nav-cart-0">0</span>
+  </a>
+
+        </div>
+        <script type="text/javascript" style="" class=" mutation_widget">window.navmet.push({key:'Tools',end:+new Date(),begin:window.navmet.tmp});</script>
+      </div>
+      <div class="nav-fill aria-check-hovered old_mutation">
+        
+        
+        
+        
+        
+        
+          
+          
+ <div id="nav-shop">
+<a href="/gp/site-directory?ref=nav_shopall_btn" class="nav-a nav-a-2 nav-single-row-link" data-ux-jq-mouseenter="true" id="nav-link-shopall" tabindex="36">
+  <span class="nav-line-1"></span>
+  <span class="nav-line-2">Departments<span class="nav-icon nav-arrow" style="visibility: visible;"></span>
+  </span>
+</a>
+
+ </div>
+          <div id="nav-xshop-container" class=" aria-check-hovered old_mutation">
+            <div id="nav-xshop">
+              
+              
+              <script type="text/javascript" style="" class=" mutation_widget">window.navmet.tmp=+new Date();</script>
+<a id="nav-your-amazon" href="/gp/yourstore/home?ref=nav_cs_ys" class="nav-a" tabindex="47">Your Amazon.com</a>
+
+<a href="/international-sales-offers/b/?ie=UTF8&amp;node=15529609011&amp;ref=nav_navm_intl_deal_btn" class="nav-a" tabindex="48">Today's Deals</a>
+
+<a href="/gift-cards/b/?ie=UTF8&amp;node=2238192011&amp;ref=nav_cs_gift_cards" class="nav-a" tabindex="49">Gift Cards</a>
+
+<a href="/b/?_encoding=UTF8&amp;ld=AZUSSOA-sell&amp;node=12766669011&amp;ref=nav_cs_sell" class="nav-a" tabindex="50">Sell</a>
+
+<a href="/gp/browse.html?node=16115931011&amp;ref=nav_cs_registry" class="nav-a" tabindex="51">Registry</a>
+
+<a href="/treasuretruck?ref=nav_cs_treasuretruck" class="nav-a" tabindex="52">Treasure Truck</a>
+
+<a href="/gp/help/customer/display.html?nodeId=508510&amp;ref=nav_cs_help" class="nav-a" tabindex="53">Help</a>
+
+<a href="/gp/help/customer/accessibility" aria-label="Click to call our Disability Customer Support line, or reach us directly at 1-888-283-1678" class="nav-hidden-aria" tabindex="54">Disability Customer Support</a>
+<script type="text/javascript" style="" class=" mutation_widget">window.navmet.push({key:'CrossShop',end:+new Date(),begin:window.navmet.tmp});</script>
+            </div>
+            
+            
+            
+            
+          </div>
+        
+      </div>
+    </div>

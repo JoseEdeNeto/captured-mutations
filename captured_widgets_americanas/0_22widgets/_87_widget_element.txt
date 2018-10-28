@@ -1,0 +1,1 @@
+<div class="card-product-details-info aria-check-hovered old_mutation"></div>

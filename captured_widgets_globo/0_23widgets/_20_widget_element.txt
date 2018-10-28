@@ -1,1 +1,1 @@
-<a href="http://globoesporte.globo.com/natacao/" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">Natação</span></a>
+<div class="hui-premium__divider show-for-small-only old_mutation" style="">&nbsp;</div>

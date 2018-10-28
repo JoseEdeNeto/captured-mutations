@@ -1,0 +1,3 @@
+<span class="a-color-base aria-check-hovered old_mutation">
+      Explore top toys &amp; games
+    </span>

@@ -1,0 +1,197 @@
+<li class="mmn-item  has-children  mmn-submenu sz sz-2 aria-check-hovered old_mutation">
+										<span class="mmn-itm-link mmn-itm-hash itm-lnk-level-1 aria-check-hovered old_mutation" tabindex="1">
+											brinquedos e bebês
+											
+											<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+												<use xlink:href="#bhf_icon-arrow"></use>
+												<title id="mmn-arw-title">brinquedos e bebês</title>
+											</svg>
+										</span>
+										<div class="mmn-panel mmn-pnl-level-2">
+												<ul class="mmn-list sizer szr-2 no-col">
+													<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">brinquedos e bebês</span></li>
+																<li class="mmn-item mmn-pnl-back">
+																	<a href="#" class="mmn-back mmn-bk-level-2">
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">brinquedos</title>
+																		</svg>
+																		Voltar
+																	</a>
+																</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-1">
+																	<a href="https://www.americanas.com.br/categoria/brinquedos" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		brinquedos
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">brinquedos</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-14 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">brinquedos</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">bonecas</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item    sz sz-1">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/bonecas" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									bonecas
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-2">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/bonecos" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									bonecos
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-3">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/barbie" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									barbie
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-4">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/lego" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									lego
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-5">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/playground" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									playground
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-6">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/praia-e-piscina" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									praia e piscina
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-7">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/jogos" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									jogos
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-8">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/bicicleta-infantil" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									bicicleta infantil
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-9">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/brinquedos-esportivos/bolas-infantis" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									bolas infantis
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-10">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/fantasias" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									fantasias
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-11">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/brinquedos-eletronicos" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									brinquedos eletrônicos
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-12">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/mini-veiculos" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									mini veículos
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-13">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/brinquedos-de-controle-remoto" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									controle remoto
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-14">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos/pelucias" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									pelúcias
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/brinquedos" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais brinquedos
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+															<li class="mmn-item  has-children  mmn-submenu sz sz-2">
+																	<a href="https://www.americanas.com.br/categoria/bebes" class="mmn-itm-link itm-lnk-level-2" tabindex="1">
+																		bebês
+																		
+																		<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																			<use xlink:href="#bhf_icon-arrow"></use>
+																			<title id="mmn-arw-title">bebês</title>
+																		</svg>
+																	</a>
+																	<div class="mmn-panel mmn-pnl-level-3">
+																			<ul class="mmn-list sizer szr-4 no-col">
+																				<li class="mmn-pnl-title"><span class="mmn-pnl-tit-txt">bebês</span></li>
+																							<li class="mmn-item mmn-pnl-back">
+																								<a href="#" class="mmn-back mmn-bk-level-3">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">fraldas</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item    sz sz-1">
+																								<a href="https://www.americanas.com.br/categoria/bebes/higiene-e-saude/fraldas" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									fraldas
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-2">
+																								<a href="https://www.americanas.com.br/categoria/bebes/passeio/carrinhos-de-passeio" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									carrinho de passeio
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-3">
+																								<a href="https://www.americanas.com.br/categoria/bebes/bercario" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									berçario
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item    sz sz-4">
+																								<a href="https://www.americanas.com.br/categoria/bebes/brinquedos-para-bebe" class="mmn-itm-link itm-lnk-level-3" tabindex="1">
+																									brinquedos para bebê
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all">
+																								<a href="https://www.americanas.com.br/categoria/bebes" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais bebês
+																								</a>
+																							</li>
+																			</ul>
+																		</div>
+															</li>
+												</ul>
+													<ul class="header-banner sizer szr-1" data-pos="x83">
+													<li class="hdr-bnr-item sz sz-1">
+														<a href="https://www.americanas.com.br/hotsite/dia-das-criancas-18-brink?chave=brd_hi_dt_4_brink_criancas18&amp;pfm_carac=&amp;pfm_index=1&amp;pfm_page=department&amp;pfm_pos=maintop2&amp;pfm_type=vit_spacey" class="hdr-bnr-link" title="Brinquedos">
+															<div class="hdr-bnr-image loaded lzy old_mutation" title="Brinquedos" data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/10/25/DDC_MENU.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/10/25/DDC_MENU.png&quot;);"></div>
+														</a>
+													</li>
+												</ul>
+										</div>
+								</li>

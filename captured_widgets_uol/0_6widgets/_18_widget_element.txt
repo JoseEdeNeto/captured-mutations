@@ -1,0 +1,1 @@
+<li class=" aria-check-hovered old_mutation"> <a name="menu-sub" data-metrics="sub-5;economia" href="http://economia.uol.com.br/imposto-de-renda/" class="cor2-hover cor-transition aria-check-hovered old_mutation"> <strong class="hover-inherit aria-check-hovered old_mutation">Imposto de renda</strong> </a> </li>

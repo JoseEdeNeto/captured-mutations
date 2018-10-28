@@ -1,0 +1,1 @@
+<script style="" class=" old_mutation">if(storage.getItem("boxPaginaInicial")==null){var box=document.getElementById("box-pagina-inicial");var boxClasses=box.className;var classes;classes=boxClasses.replace("hide","");box.className=classes;storage.setItem("boxPaginaInicial",true);}</script>

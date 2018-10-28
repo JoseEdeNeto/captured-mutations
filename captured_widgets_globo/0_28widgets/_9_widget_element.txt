@@ -1,0 +1,18 @@
+<div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+         aria-check-hovered old_mutation"><a href="https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/24/pf-deflagra-operacao-de-combate-a-crimes-relacionados-as-eleicoes.ghtml" title="PF atua contra crime eleitoral em 4 estados" class="hui-premium__link
+            hui-highlight__link
+            
+     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">PF atua contra crime eleitoral em 4 estados</p></a><ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://extra.globo.com/emprego/servidor-publico/veja-quais-sao-as-propostas-de-bolsonaro-haddad-para-servico-publico-23180038.html" title="Veja propostas para o serviço público" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
+        
+        Veja propostas para o serviço público
+        </a></li></ul></div>

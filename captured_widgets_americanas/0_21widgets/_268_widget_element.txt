@@ -1,0 +1,1 @@
+<button direction="right" data-role="none" type="button" class="slick-arrow slick-next slick-disabled btn btn-link aria-check-hovered old_mutation" style="display: block;"><div class="button-svg"><svg class="svg-icon-md" aria-labelledby="" role="img"><use xlink:href="#icon-arrow-carousel"></use></svg></div></button>

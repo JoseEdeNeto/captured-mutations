@@ -1,0 +1,1 @@
+<a class="menu-uol-estacao bg2-hover canal-eleicoes aria-check-hovered old_mutation" name="menu" data-metrics="menu;eleicoes" href="https://noticias.uol.com.br/politica/eleicoes/" data-menu="9rlq4fo">Eleições</a>

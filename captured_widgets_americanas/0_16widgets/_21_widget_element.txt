@@ -1,0 +1,77 @@
+<ul class="mmn-list sizer szr-10 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">b2w empresas</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">mais vendidos</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/maisVendidos?epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									mais vendidos
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/category/228190/Informatica?offset=0&amp;paging=24&amp;sortDirection=asc&amp;sortField=sellingRank&amp;epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									notebooks e pcs
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/category/228098/Informatica_e_Acessorios?offset=0&amp;paging=24&amp;sortDirection=asc&amp;sortField=sellingRank&amp;epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									acessórios de informática
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/category/229187/celulares-e-smartphones?offset=0&amp;paging=24&amp;sortDirection=asc&amp;sortField=sellingRank&amp;epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									smartphones
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/bndes?offset=0&amp;paging=24&amp;sortDirection=asc&amp;sortField=sellingRank&amp;epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									cartão BNDES
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-6 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/category/421773/industria-comercio-e-negocios?offset=0&amp;paging=24&amp;sortDirection=asc&amp;sortField=sellingRank&amp;epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									agro, indústria e comércio
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-7 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/category/317728/arcondicionado-e-aquecedores?sortDirection=asc&amp;sortField=sellingRank?epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									climatização
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-8 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/category/227763/Eletroportateis?epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									eletroportáteis
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-9 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/category/451793/casa-e-construcao?sortDirection=asc&amp;sortField=sellingRank&amp;epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									construção
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-10 aria-check-hovered old_mutation">
+																								<a href="https://www.b2wempresas.com.br/category/227999/ferramentas-e-jardim?offset=0&amp;paging=24&amp;sortDirection=asc&amp;sortField=sellingRank?epar=pm_am_menu" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ferramentas
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.b2wempresas.com.br/?epar=pm_am_menu" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais b2w empresas
+																								</a>
+																							</li>
+																			</ul>

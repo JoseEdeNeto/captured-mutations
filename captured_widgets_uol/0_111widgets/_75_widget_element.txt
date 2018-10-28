@@ -1,0 +1,1 @@
+<span class="assinanteContainer bgw aria-check-hovered old_mutation"><span class="icon-protected cor2 aria-check-hovered old_mutation"></span></span>

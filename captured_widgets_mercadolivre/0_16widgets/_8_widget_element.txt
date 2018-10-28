@@ -1,0 +1,1 @@
+<span class="advertising__info__text aria-check-hovered old_mutation">ENCONTRE SUA</span>

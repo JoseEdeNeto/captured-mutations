@@ -1,0 +1,20 @@
+<div id="rhf-error" style="display: none;" class=" old_mutation">
+
+<div class="rhf-border">
+
+        <div class="rhf-header">
+        Your recently viewed items and featured recommendations
+    </div>
+
+<div class="rhf-footer">
+    <div class="rvi-container">
+
+<div class="ybh-edit">
+    <div class="ybh-edit-arrow"> › </div>
+    <div class="ybh-edit-link"><a href="/gp/yourstore/pym/ref=pd_pyml_rhf">View or edit your browsing history</a></div>
+</div>
+        <span class="no-rvi-message">After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.</span>
+    </div>
+</div>
+</div>
+</div>

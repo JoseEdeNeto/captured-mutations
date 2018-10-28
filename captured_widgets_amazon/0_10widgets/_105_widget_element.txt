@@ -1,0 +1,5 @@
+<script type="text/javascript" style="" class=" old_mutation">
+P.when('component-feed-carousel').execute(function(componentFeedCarousel) {
+  componentFeedCarousel.createCarousel("#" + "asin-shoveler-ns_S8S77N76K3NCZ7S9Y4TA_2380_" + " .feed-carousel", 10, 0);
+});
+</script>

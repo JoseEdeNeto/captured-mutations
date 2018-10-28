@@ -1,1 +1,4 @@
-<a data-menu-id="casa-e-decoracao" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">casa e decoração</span></a>
+<a href="https://globoesporte.globo.com/rs/futebol/libertadores/noticia/gallardo-aposta-em-forca-do-river-para-reverter-vantagem-gremista-vamos-com-esta-ilusao.ghtml" title="Gallardo aposta em virada e vê irritação como combustível" class="hui-premium__link
+            hui-highlight__link
+            
+     aria-check-hovered old_mutation"><p class="hui-premium__title aria-check-hovered old_mutation">Gallardo aposta em virada e vê irritação como combustível</p></a>

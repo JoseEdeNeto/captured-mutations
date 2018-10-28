@@ -1,0 +1,1 @@
+<dd class=" aria-check-hovered old_mutation"> <a name="rodape" data-metrics="mod-1;rodape" href="https://sac.uol.com.br/#/wrapper?url=https:%2F%2Fsac.uol.com.br%2Finfo%2Fprotecao_privacidade%2Fnormas_protecao_privacidade.jhtm" class="cor9 cor18-hover cor-transition aria-check-hovered old_mutation">Segurança e privacidade</a> </dd>

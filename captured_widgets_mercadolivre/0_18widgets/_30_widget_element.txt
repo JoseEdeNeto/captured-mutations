@@ -1,0 +1,1 @@
+<a class="category aria-check-hovered old_mutation" href="https://home.mercadolivre.com.br/veiculos-acessorios/#c_id=/home/categories/element&amp;c_category_id=MLB5672"><div class="icon"><svg class="nc-icon"><use xlink:href="#nc-steering-wheel"></use></svg></div><p>Acessórios para Veículos</p></a>

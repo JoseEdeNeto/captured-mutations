@@ -1,0 +1,1 @@
+<span class="panel-title-text aria-check-hovered old_mutation">As melhores ofertas</span>

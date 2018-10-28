@@ -1,1 +1,270 @@
-<iframe id="google_osd_static_frame_579006651707" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" class=" old_mutation"></iframe>
+<div class="kxhead old_mutation" data-id="J2lZajxx" style="display: none;"><span class="kxtag kxinvisible" data-id="19929"><script style="" class=" mutation_widget">
+// this tag is intentionally blank
+</script></span><span class="kxtag kxinvisible" data-id="19930"></span><span class="kxtag kxinvisible" data-id="19936"><script style="" class=" mutation_widget">
+(function() {
+    Krux('scrape', {
+        'page_attr_url_path_1': {
+            url_path: '1'
+        },
+        'page_attr_url_path_2': {
+            url_path: '2'
+        },
+        'page_attr_url_path_3': {
+            url_path: '3'
+        },
+        'page_attr_url_path_4': {
+            url_path: '4'
+        },
+        'page_attr_url_path_5': {
+            url_path: '5'
+        }
+    });
+    if (window.localStorage.kxglobo_user) {
+        Krux('set', 'user_attr_kxuser', localStorage.kxglobo_user);
+    }
+
+    var krux_utag = JSON.parse(localStorage.getItem('krux_utag'));
+    if (krux_utag) {
+        Krux('set', {
+            page_attr_content_type: krux_utag.content_type,
+            page_attr_page_name: krux_utag.page_name,
+            page_attr_meta_keywords: krux_utag["meta.keywords"],
+            page_attr_meta_site_name: krux_utag["meta.og:site_name"],
+            page_attr_verticle: krux_utag.vertical
+        });
+        if (krux_utag.structure_tree) {
+            var sTree = krux_utag.structure_tree;
+        }
+        if (sTree) {
+            if (typeof(sTree) === "string" && sTree.match(/"/)) {
+                sTree = JSON.parse(sTree);
+                for (var i = 0; i < sTree.length; i++) {
+                    Krux('set', 'page_attr_structure_tree_' + [i + 1], sTree[i]);
+                }
+            }
+        }
+
+    }
+    if (window.pageOptions) {
+        Krux('set', 'page_attr_searchQuery', pageOptions.query);
+    }
+
+    Krux('set', 'page_attr_title', document.title);
+    Krux('scrape', {
+        'page_attr_meta_editoria': {
+            meta_name: 'editoria'
+        },
+        'page_attr_meta_article_section': {
+            meta_property: 'article:section'
+        },
+        'page_attr_meta_video_series': {
+            meta_property: 'video:series'
+        }
+    });
+    if (window.location) {
+        var hn = document.location.hostname,
+            pn = document.location.pathname,
+            dm, sd;
+        if (pn) {
+            if (pn.match('.html')) {
+                pn = pn.replace('.html', '');
+            }
+            if (hn) {
+                Krux('set', 'page_attr_full_path', hn + pn);
+                hn = hn.split('.');
+                if (hn[0] == "www") {
+                    dm = hn[1];
+                    sd = "";
+                }
+                if (hn[0] != "www") {
+                    dm = hn[1];
+                    sd = hn[0];
+                }
+                if (dm == "com") {
+                    dm = "";
+                }
+                if (sd == "www") {
+                    sd = "";
+                }
+
+                Krux('set', {
+                    page_attr_subdomain: sd,
+                    page_attr_domain: dm,
+                });
+            }
+        }
+    }
+})();
+</script></span><span class="kxtag kxinvisible" data-id="27202"><script style="" class=" mutation_widget">
+(function() {
+
+    /* Data Transfer Code for globo */
+    Krux('scrape', {
+        page_attr_info_assin_id_parc: {
+            js_global: 'info_assin_id_parc'
+        },
+        page_attr_info_assin_cod_prod: {
+            js_global: 'info_assin_cod_prod'
+        },
+        page_attr_info_assin_cod_prods_vitrine: {
+            js_global: 'info_assin_cod_prods_vitrine'
+        },
+        page_attr_info_assin_campanha: {
+            js_global: 'info_assin_campanha'
+        },
+        page_attr_info_assin_utm_source: {
+            js_global: 'info_assin_utm_source'
+        },
+        page_attr_info_assin_utm_medium: {
+            js_global: 'info_assin_utm_medium'
+        },
+        page_attr_info_assin_utm_campaign: {
+            js_global: 'info_assin_utm_campaign'
+        }
+    });
+
+})();
+</script></span><span class="kxtag kxinvisible" data-id="30153"><script style="" class=" mutation_widget">
+(function() {
+    Krux('scrape', {
+        page_attr_utag_editoria: { 'js_global': 'utag_data.editoria' },
+        page_attr_utag_page_type: { 'js_global': 'utag_data.tipo_pagina' },
+        page_attr_utag_produto: { 'js_global': 'utag_data.produto' },
+        page_attr_searchQuery: { 'js_global': 'busca.q' }
+    });
+})();
+</script></span><span class="kxtag kxinvisible" data-id="32767"><script style="" class=" mutation_widget">
+(function() {
+
+    Krux('scrape', {
+        user_attr_utag_cadun_gender: { 'js_global': 'localStorage.gdmp_gender' },
+        user_attr_glbdt_utype: { 'js_global': 'localStorage.gdmp_utype' },
+        user_attr_glbdt_city: { 'js_global': 'localStorage.gdmp_city' },
+        user_attr_utag_cadun_state: { 'js_global': 'localStorage.gdmp_state' },
+        user_attr_utag_cadun_age: { 'js_global': 'localStorage.gdmp_age' },
+        user_attr_utag_cadun_id: { 'js_global' : 'localStorage.gdmp_id_legacy' },
+        user_attr_dmp_globo_id: { 'js_global' : 'localStorage.glbdt_globoid' }
+    });
+    
+})();
+</script></span><span class="kxtag kxinvisible" data-id="35254"><script style="" class=" mutation_widget">
+(function() {
+    /* Selective Attribute DataLayer Library Tag */
+    var _, allAttr, allowedList, attr, attributes, dataLayerIngester, dataObj,
+        isAllowed, keepCase, normalizeName, omitKeys, optimizeNames, pageAttr, prefix,
+        toSet, trim, userAttr, value,
+        hasProp = {}.hasOwnProperty;
+    _ = Krux('require:underscore');
+    dataLayerIngester = Krux('require:scrape').ingestDataLayer;
+
+    /* Safe copy of dataLayer object */
+    dataObj = Krux('scrape.javascript', 'persona');
+
+    /* String trimming helper function */
+    trim = function(attr) {
+        return ("" + attr).replace(/^\s+|\s+$/g, '');
+    };
+
+    /* Attribute configs */
+    pageAttr = _.map('none'.split(','), trim);
+    userAttr = _.map('gender,age,income'.split(','), trim);
+
+    /* Create a array of attributes striping any empty strings */
+    allAttr = _.without(pageAttr.concat(userAttr), '');
+
+    /* Configuration settings */
+    prefix = 'undefined_';
+    keepCase = 'false' === 'true';
+    omitKeys = 'undefined'.split(',');
+
+    /* Function to varify if attribute should be used */
+    isAllowed = function(value, whitelist) {
+        var i, len, str, x;
+        str = "" + value;
+        if (!((value != null) && str.length > 0)) {
+            return false;
+        }
+        for (i = 0, len = whitelist.length; i < len; i++) {
+            x = whitelist[i];
+            if (value.match(x) != null) {
+                return true;
+            }
+        }
+        return false;
+    };
+
+    /* Function to standardise the attribute names */
+    normalizeName = function(name, optimize) {
+        if (optimize == null) {
+            optimize = false;
+        }
+        if (keepCase) {
+            return name;
+        }
+        return ("" + name).replace(/([A-Z])([A-Z]+)/g, function(full, first, rest) {
+            if (optimize === true) {
+                return "" + first + (rest.toLowerCase());
+            }
+            return "" + full;
+        }).replace(/_*([A-Z])/g, '_$1').replace(/^_/, '').toLowerCase();
+    };
+
+    /* Creates a pattern/replacement config for dataLayer tool to clean up names */
+    optimizeNames = function(names) {
+        var config, i, len, name;
+        config = [{
+            pattern: /(\.)_/,
+            replacement: '$1'
+        }];
+        for (i = 0, len = names.length; i < len; i++) {
+            name = names[i];
+            config.push({
+                pattern: normalizeName(name),
+                replacement: normalizeName(name, true)
+            });
+        }
+        if (!prefix.match(/^_$|null|undefined|false/)) {
+            config.push({
+                pattern: /((?:page|user)_attr_)/,
+                replacement: "$1" + prefix
+            });
+        }
+        return config;
+    };
+
+    /* Get a full list of attributes usting the dataLayer tool */
+    attributes = dataLayerIngester(dataObj, {
+        omitKeys: _.without(omitKeys.concat([/gtm\./, /sessionid/i,
+            /\.phpsessid$/i, /\.sid$/i, /\.zenid$/i,
+            /\.requestid$/i
+        ]), ''),
+        omitValues: [/.*@.*(?:\..*)+/, /gtm\./, /^(https?:)?\/\/[^\/]+/,
+            /^\/[^\/]+/, /.{255}/
+        ],
+        caseSensitive: keepCase,
+        useFullPath: 'false' === 'true',
+        useLastValue: 'false' === 'true',
+        customDelimited: [/./],
+        altDelimiter: ',',
+        userKeys: _.map(userAttr, function(exp) {
+            return new RegExp("(^|\\.)" + exp + "$");
+        }),
+        convertAttrNames: optimizeNames(allAttr)
+    });
+
+    /* Only set Attributes in the allowed list */
+    allowedList = _.map(allAttr, function(name) {
+        return new RegExp("(_attr_|_attr_" + prefix + "|\\.)" + (
+            normalizeName(name, true)) + "$");
+    });
+    toSet = {};
+    for (attr in attributes) {
+        if (!hasProp.call(attributes, attr)) continue;
+        value = attributes[attr];
+        if (isAllowed(attr, allowedList)) {
+            toSet[attr] = value;
+        }
+    }
+    Krux('set', toSet);
+}).call();
+</script></span></div>

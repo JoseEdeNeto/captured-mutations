@@ -1,0 +1,6 @@
+<div class="
+        hui-share__wrapper
+        
+            hui-share__wrapper--with-left-offset
+        
+     old_mutation" style="visibility: hidden;"><div class="hui-share hui-floatbox hui-floatbox--bottom-arrow" data-title="Paraguai frustra ação com carro-bomba para resgatar brasileiro" data-url="https://g1.globo.com/pr/oeste-sudoeste/noticia/2018/10/24/policia-paraguaia-frustra-tentativa-de-resgate-do-traficante-marcelo-piloto-grupo-usaria-carro-bomba-diz-ministro.ghtml" data-image-url="https://s2.glbimg.com/xZV7kMNRs5EIqv_9kcU74wILzEY=/288x80:1421x853/293x200/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/m/I/bZ5TZpQh693NQDzA5uKw/05piloto.jpg"></div></div>

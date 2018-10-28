@@ -1,0 +1,4 @@
+<a href="https://www.americanas.com.br/categoria/alimentos-e-bebidas" class="mmn-itm-link itm-lnk-level-2 aria-check-hovered old_mutation" tabindex="1">
+																		alimentos e bebidas
+																		
+																	</a>

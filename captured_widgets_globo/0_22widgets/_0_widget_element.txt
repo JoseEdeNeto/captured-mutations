@@ -1,1 +1,290 @@
-<span class="titulo aria-check-hovered old_mutation">futebol</span>
+<div class="row hui-spacing home-top-news hui-premium__wrapper home-analytics-area home-analytics-id-A aria-check-hovered old_mutation" data-first-lazyload=""><div class="column large-12 hui-premium__wrapper-collumn--main"><div class="areatemplate_destaques_esquerda_topo_globo_com_2016"><div class="hui-premium
+            hui-premium-manchete
+            home-analytics-id-P
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a href="https://g1.globo.com/mundo/noticia/2018/10/24/pacote-suspeito-e-encontrado-perto-da-casa-de-hillary-e-bill-clinton.ghtml" title="Pacotes suspeitos são enviados aos Clinton, Obama e à rede CNN" class="hui-premium__link
+            hui-highlight__link
+            
+    "><p class="hui-premium__title">Pacotes suspeitos são enviados aos Clinton, Obama e à rede CNN</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://oglobo.globo.com/mundo/suspeita-de-explosivos-interrompe-transmissao-ao-vivo-da-cnn-video-23181104" title="Suspeita interrompe transmissão ao vivo, e sede da CNN é esvaziada" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Suspeita interrompe transmissão ao vivo, e sede da CNN é esvaziada
+        </a></li></ul></div><div class="hui-premium__divider ">&nbsp;</div></div><div class="areatemplate_destaques_esquerda_inferior_globo_com_2016"><div class="row hui-premium-multiple__container"><div class="hui-premium-multiple__list"><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://g1.globo.com/fato-ou-fake/noticia/2018/10/24/veja-o-que-e-fato-ou-fake-na-entrevista-de-fernando-haddad-a-cbn-e-ao-g1.ghtml" data-title="G1 checa as falas de Haddad em entrevista; veja" data-img="https://s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" href="https://g1.globo.com/fato-ou-fake/noticia/2018/10/24/veja-o-que-e-fato-ou-fake-na-entrevista-de-fernando-haddad-a-cbn-e-ao-g1.ghtml" title="G1 checa as falas de Haddad em entrevista; veja (Marcos Serra Lima / G1)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/U2T1tBi6hsDJqXB_UMvyu1WaG0o=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" data-srcset="https://s2.glbimg.com/U2T1tBi6hsDJqXB_UMvyu1WaG0o=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/R3wXghR5LLsfsOqgP28spXebWog=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" data-srcset="https://s2.glbimg.com/R3wXghR5LLsfsOqgP28spXebWog=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/it5T-wVn2ac5nxcuIi2Cbq0omWw=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" data-srcset="https://s2.glbimg.com/it5T-wVn2ac5nxcuIi2Cbq0omWw=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/hpbB_t44aYK2wh1-sdnSJcZ53c8=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" data-srcset="https://s2.glbimg.com/hpbB_t44aYK2wh1-sdnSJcZ53c8=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/hbf9Xntv6NEWU0QIPFiEA_zUULA=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" data-srcset="https://s2.glbimg.com/hbf9Xntv6NEWU0QIPFiEA_zUULA=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="G1 checa as falas de Haddad em entrevista; veja (Marcos Serra Lima / G1)" title="G1 checa as falas de Haddad em entrevista; veja (Marcos Serra Lima / G1)" src="https://s2.glbimg.com/it5T-wVn2ac5nxcuIi2Cbq0omWw=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/Uc_NWcJRR2Y-dgCLULoMLcZVnzc=/393x77:1206x533/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/L/7/hZ3pcVQ8G4BRrzkTrCBQ/haddad4.jpeg"></picture><p class="hui-premium__title">G1 checa as falas de Haddad em entrevista; veja</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://oglobo.globo.com/brasil/ex-presidente-do-psdb-alberto-goldman-declara-voto-em-haddad-nao-vou-pagar-pra-ver-23181198" title="Goldman, do PSDB-SP, declara apoio a Haddad" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Goldman, do PSDB-SP, declara apoio a Haddad
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://oglobo.globo.com/brasil/ruralistas-visitam-bolsonaro-admitem-rever-fusao-dos-ministerios-da-agricultura-meio-ambiente-23181016" data-title="Bolsonaro vê representantes do agronegócio" data-img="https://s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" href="https://oglobo.globo.com/brasil/ruralistas-visitam-bolsonaro-admitem-rever-fusao-dos-ministerios-da-agricultura-meio-ambiente-23181016" title="Bolsonaro vê representantes do agronegócio (O Globo)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/fmGFV6WNwOW7SYbsrBYXqQDw_FM=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" data-srcset="https://s2.glbimg.com/fmGFV6WNwOW7SYbsrBYXqQDw_FM=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/K0E3yAp-41Tf-G2WMQDtElE_jC8=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" data-srcset="https://s2.glbimg.com/K0E3yAp-41Tf-G2WMQDtElE_jC8=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/HgEks_uGd2ePoHM3QCSZVbZ1oTE=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" data-srcset="https://s2.glbimg.com/HgEks_uGd2ePoHM3QCSZVbZ1oTE=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/U0dXaHWJfzv5SKzlLt6twjS2g2k=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" data-srcset="https://s2.glbimg.com/U0dXaHWJfzv5SKzlLt6twjS2g2k=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/ls0CyIwu6anab5PXNrNTg3NDJ4M=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" data-srcset="https://s2.glbimg.com/ls0CyIwu6anab5PXNrNTg3NDJ4M=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="Bolsonaro vê representantes do agronegócio (O Globo)" title="Bolsonaro vê representantes do agronegócio (O Globo)" src="https://s2.glbimg.com/HgEks_uGd2ePoHM3QCSZVbZ1oTE=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/CuXoriTIWnjdPp7RJmrQy0v0QVE=/57x22:648x354/267x150/s.glbimg.com/en/ho/f/original/2018/10/24/xagronegocio.jpg.pagespeed.ic.-bohrwa4nj.jpg"></picture><p class="hui-premium__title">Bolsonaro vê representantes do agronegócio</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/24/pesquisa-ibope-de-23-de-outubro-para-presidente-por-sexo-idade-escolaridade-renda-regiao-religiao-e-cor.ghtml" title="Veja Ibope por sexo, renda, região e religião" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Veja Ibope por sexo, renda, região e religião
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2018/10/24/jovem-que-relatou-ter-sido-marcada-na-barriga-em-porto-alegre-e-indiciada-por-falsa-comunicacao-de-crime.ghtml" data-title="Jovem indiciada por comunicação falsa de crime" data-img="https://s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" href="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2018/10/24/jovem-que-relatou-ter-sido-marcada-na-barriga-em-porto-alegre-e-indiciada-por-falsa-comunicacao-de-crime.ghtml" title="Jovem indiciada por comunicação falsa de crime (Arquivo pessoal)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/itislcLb-EJaobdnuSXF-LL0HJ8=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" data-srcset="https://s2.glbimg.com/itislcLb-EJaobdnuSXF-LL0HJ8=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/AJL2VnaRBpKt6AEOjtYvcz7A9mw=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" data-srcset="https://s2.glbimg.com/AJL2VnaRBpKt6AEOjtYvcz7A9mw=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/chfirWn3oDcnYNENcF2EEQpfhbM=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" data-srcset="https://s2.glbimg.com/chfirWn3oDcnYNENcF2EEQpfhbM=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/oIx0IX5JFQVGB2KdSIog0ZOq9co=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" data-srcset="https://s2.glbimg.com/oIx0IX5JFQVGB2KdSIog0ZOq9co=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/AB0gM4EIQ_2ssWHwuJnAr7oAF88=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" data-srcset="https://s2.glbimg.com/AB0gM4EIQ_2ssWHwuJnAr7oAF88=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="Jovem indiciada por comunicação falsa de crime (Arquivo pessoal)" title="Jovem indiciada por comunicação falsa de crime (Arquivo pessoal)" src="https://s2.glbimg.com/chfirWn3oDcnYNENcF2EEQpfhbM=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/UTHuLIon45ipTHB5PftcZM0anaA=/0x313:720x717/267x150/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/w/g/zP02PoSv2txwVv2vK4wQ/43636839-10217876841616869-865021948311109632-n.jpg"></picture><p class="hui-premium__title">Jovem indiciada por comunicação falsa de crime</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://g1.globo.com/fato-ou-fake/" title="Fato ou Fake? Confira checagens de dados" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Fato ou Fake? Confira checagens de dados
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only">&nbsp;</div></div></div><div class="row column hui-publicidade--banner_home1"><div id="banner_home1" class="tag-manager-publicidade-container"></div></div><div class="row hui-premium-multiple__container"><div class="hui-premium-multiple__list"><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a href="https://g1.globo.com/sp/sao-paulo/eleicoes/2018/noticia/2018/10/24/marcio-franca-diz-que-nao-e-logico-ampliar-presidios-em-sp-e-propoe-que-imposto-sobre-combustiveis-seja-usado-no-transporte-publico.ghtml" title="Elevar presídios não é lógico, diz França em SP (Marcelo Brandt/G1)" class="hui-premium__link
+            hui-highlight__link
+            
+    "><p class="hui-premium__title">Elevar presídios não é lógico, diz França em SP</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2018/noticia/2018/10/24/ibope-de-23-de-outubro-para-governador-do-rj-por-sexo-idade-renda-escolaridade-religiao-raca-e-condicao-do-municipio.ghtml" title="Witzel lidera no interior do RJ; Paes, na capital (Marcos Serra Lima/G1)" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Witzel lidera no interior do RJ; Paes, na capital
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a href="https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/24/pf-deflagra-operacao-de-combate-a-crimes-relacionados-as-eleicoes.ghtml" title="PF atua contra crime eleitoral em 4 estados" class="hui-premium__link
+            hui-highlight__link
+            
+    "><p class="hui-premium__title">PF atua contra crime eleitoral em 4 estados</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://extra.globo.com/emprego/servidor-publico/veja-quais-sao-as-propostas-de-bolsonaro-haddad-para-servico-publico-23180038.html" title="Veja propostas para o serviço público" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Veja propostas para o serviço público
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only">&nbsp;</div><div class="hui-premium
+            column medium-8 hui-premium-multiple hui-premium-triplo
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-journalism
+            
+        "><a href="https://g1.globo.com/politica/eleicoes/2018/eleicao-em-numeros/noticia/2018/10/24/73-dizem-que-nao-receberam-conteudo-no-whatsapp-com-criticas-ou-ataques-a-candidatos-na-semana-antes-do-1o-turno-diz-ibope.ghtml" title="73% dizem não ter visto ataques via WhatsApp" class="hui-premium__link
+            hui-highlight__link
+            
+    "><p class="hui-premium__title">73% dizem não ter visto ataques via WhatsApp</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://epoca.globo.com/como-funciona-maquina-de-whatsapp-que-pode-eleger-bolsonaro-23180627" title="'Época' relata uso de listas e chips do exterior" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        'Época' relata uso de listas e chips do exterior
+        </a></li></ul></div><div class="hui-premium__divider column show-for-small-only">&nbsp;</div></div></div></div></div><div class="column large-1 show-for-large hui-premium__divider hui-premium__divider--vertical-medium">
+        &nbsp;
+    </div><div class="column medium-11 large-5 hui-premium__wrapper-collumn--side areatemplate_destaques_direita_1_topo_globo_com_2016"><div class="hui-premium
+            
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-sports
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://globoesporte.globo.com/futebol/times/palmeiras/noticia/animo-ao-palmeiras-de-quatro-semifinais-de-libertadores-felipao-avancou-em-tres-veja-numeros.ghtml" data-title="Felipão disputa hoje sua 5ª semi de Liberta e passou em 3; análise " data-img="https://s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" href="https://globoesporte.globo.com/futebol/times/palmeiras/noticia/animo-ao-palmeiras-de-quatro-semifinais-de-libertadores-felipao-avancou-em-tres-veja-numeros.ghtml" title="Felipão disputa hoje sua 5ª semi de Liberta e passou em 3; análise  (Cesar Greco/Agência Palmeiras)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/QMY1rc7Saj6InYgnBr2yW6oP31k=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" data-srcset="https://s2.glbimg.com/QMY1rc7Saj6InYgnBr2yW6oP31k=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/tKYSytI-ayJYUAjQyaxU08E2_fs=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" data-srcset="https://s2.glbimg.com/tKYSytI-ayJYUAjQyaxU08E2_fs=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/8-GWCPSWZVRZS19rhNFb2gXa-wQ=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" data-srcset="https://s2.glbimg.com/8-GWCPSWZVRZS19rhNFb2gXa-wQ=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/mAs-V1FEC1LhiyetWCNvOs6RArg=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" data-srcset="https://s2.glbimg.com/mAs-V1FEC1LhiyetWCNvOs6RArg=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/xkCrTGF4YMbzios02efze44TvBQ=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" data-srcset="https://s2.glbimg.com/xkCrTGF4YMbzios02efze44TvBQ=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="Felipão disputa hoje sua 5ª semi de Liberta e passou em 3; análise  (Cesar Greco/Agência Palmeiras)" title="Felipão disputa hoje sua 5ª semi de Liberta e passou em 3; análise  (Cesar Greco/Agência Palmeiras)" src="https://s2.glbimg.com/8-GWCPSWZVRZS19rhNFb2gXa-wQ=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/_HHPxqlxhX2dwvvr4FMWKXENqEs=/43x58:1439x843/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/31655884888_7bbeebb87c_o.jpg"></picture><p class="hui-premium__title">Felipão disputa hoje sua 5ª semi de Liberta e passou em 3; análise </p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://globoesporte.globo.com/futebol/times/palmeiras/noticia/libertadores-tudo-o-que-voce-precisa-saber-sobre-a-semifinal-boca-juniors-x-palmeiras.ghtml" title="Tudo sobre jogão com o Boca " class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Tudo sobre jogão com o Boca 
+        </a></li><li class="hui-premium__related"><a href="https://globoesporte.globo.com/futebol/times/palmeiras/noticia/jornais-argentinos-destacam-felipao-e-partida-do-ano-para-o-boca-juniors-contra-o-palmeiras.ghtml" title="Hermanos destacam Scolari " class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Hermanos destacam Scolari 
+        </a></li></ul></div><div class="hui-premium__divider show-for-small-only mutation_widget" style="">&nbsp;</div><div class="hui-premium
+            
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-sports
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://globoesporte.globo.com/rs/futebol/times/gremio/noticia/renato-elogia-dedicacao-tatica-do-gremio-e-explica-camisa-aberta-cordao-e-minha-seguranca.ghtml" data-title="Bem-humorado na volta, Renato explica camisa aberta no frio" data-img="https://s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" href="https://globoesporte.globo.com/rs/futebol/times/gremio/noticia/renato-elogia-dedicacao-tatica-do-gremio-e-explica-camisa-aberta-cordao-e-minha-seguranca.ghtml" title="Bem-humorado na volta, Renato explica camisa aberta no frio (Lucas Uebel/Grêmio/Divulgação)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/Yy3aeUps8T0kEf7uG4UPc1PSGZE=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" data-srcset="https://s2.glbimg.com/Yy3aeUps8T0kEf7uG4UPc1PSGZE=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/T61VLSz5WHQWhP3OIM4fOrh2SvM=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" data-srcset="https://s2.glbimg.com/T61VLSz5WHQWhP3OIM4fOrh2SvM=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/2GKtmI1FyiGRgFZx7Gw1WyL2Cyc=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" data-srcset="https://s2.glbimg.com/2GKtmI1FyiGRgFZx7Gw1WyL2Cyc=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/H8OF1YQX8GaqlAyqrdpFw_kP6rM=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" data-srcset="https://s2.glbimg.com/H8OF1YQX8GaqlAyqrdpFw_kP6rM=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/FqTnD1u1RamYwj9w_Bz8bI1Oyxs=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" data-srcset="https://s2.glbimg.com/FqTnD1u1RamYwj9w_Bz8bI1Oyxs=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="Bem-humorado na volta, Renato explica camisa aberta no frio (Lucas Uebel/Grêmio/Divulgação)" title="Bem-humorado na volta, Renato explica camisa aberta no frio (Lucas Uebel/Grêmio/Divulgação)" src="https://s2.glbimg.com/2GKtmI1FyiGRgFZx7Gw1WyL2Cyc=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/iWnNyp3klveiDjq31no1bWP6Z2U=/784x107:1604x568/267x150/s.glbimg.com/es/ge/f/original/2018/10/24/43712053370_e4012504e1_o.jpg"></picture><p class="hui-premium__title">Bem-humorado na volta, Renato explica camisa aberta no frio</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://globoesporte.globo.com/rs/futebol/times/gremio/noticia/jogo-de-volta-entre-gremio-x-river-tem-ingressos-esgotados-e-projecao-de-51-mil-na-arena.ghtml" title="Gremistas esgotam ingressos para jogo de volta contra River" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Gremistas esgotam ingressos para jogo de volta contra River
+        </a></li></ul></div><div class="hui-premium__divider show-for-small-only mutation_widget" style="">&nbsp;</div><div class="hui-premium
+            
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+            
+                hui-color-sports
+            
+        "><a href="https://globoesporte.globo.com/rs/futebol/libertadores/noticia/gallardo-aposta-em-forca-do-river-para-reverter-vantagem-gremista-vamos-com-esta-ilusao.ghtml" title="Gallardo aposta em virada e vê irritação como combustível" class="hui-premium__link
+            hui-highlight__link
+            
+    "><p class="hui-premium__title">Gallardo aposta em virada e vê irritação como combustível</p></a></div><div class="hui-premium__divider show-for-small-only mutation_widget" style="">&nbsp;</div></div><div class="column medium-2 large-1 show-for-medium hui-premium__divider hui-premium__divider--vertical-medium">
+        &nbsp;
+    </div><div class="column hui-publicidade--banner_home2 show-for-small-only old_mutation" style=""><div class="tag-manager-publicidade-container" data-publicidade="banner_home2"></div></div><div class="column medium-11 large-5 hui-premium__wrapper-collumn--side areatemplate_destaques_direita_2_topo_globo_com_2016"><div class="hui-premium
+            
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-entertainment
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://gshow.globo.com/novelas/segundo-sol/vem-por-ai/noticia/reta-final-rosa-se-une-a-beto-para-desvendar-paradeiro-de-remy.ghtml" data-title="Na reta final, Rosa aceita ajudar Beto para encontrar Remy" data-img="https://s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" href="https://gshow.globo.com/novelas/segundo-sol/vem-por-ai/noticia/reta-final-rosa-se-une-a-beto-para-desvendar-paradeiro-de-remy.ghtml" title="Na reta final, Rosa aceita ajudar Beto para encontrar Remy (TV Globo)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/8KMTAacOKypXZClLoOe8nYwZsUs=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" data-srcset="https://s2.glbimg.com/8KMTAacOKypXZClLoOe8nYwZsUs=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/pI_lUrZkKmtWE0OOAYSK0SC_4Uc=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" data-srcset="https://s2.glbimg.com/pI_lUrZkKmtWE0OOAYSK0SC_4Uc=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/fIVBmez-DwWwtq2CVDHPkOpICEM=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" data-srcset="https://s2.glbimg.com/fIVBmez-DwWwtq2CVDHPkOpICEM=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/kMnsZcyjIWl2eZxukWI_uYnzQsw=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" data-srcset="https://s2.glbimg.com/kMnsZcyjIWl2eZxukWI_uYnzQsw=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/J1VN5fx27nNNrWN5bKUYMmc8VgY=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" data-srcset="https://s2.glbimg.com/J1VN5fx27nNNrWN5bKUYMmc8VgY=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="Na reta final, Rosa aceita ajudar Beto para encontrar Remy (TV Globo)" title="Na reta final, Rosa aceita ajudar Beto para encontrar Remy (TV Globo)" src="https://s2.glbimg.com/fIVBmez-DwWwtq2CVDHPkOpICEM=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/rJolHdESHjmDAtb4wcjtCio5yhY=/83x41:1247x695/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/k/p/ZOYV9MTCiUB8GOe3Sfgg/rosa-2.jpg"></picture><p class="hui-premium__title">Na reta final, Rosa aceita ajudar Beto para encontrar Remy</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://kogut.oglobo.globo.com/noticias-da-tv/novelas/noticia/2018/10/ultimos-capitulos-de-segundo-sol-apos-sair-da-cadeia-remy-prometera-se-redimir.html" title="'Sol': Remy promete se redimir" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        'Sol': Remy promete se redimir
+        </a></li><li class="hui-premium__related"><a href="https://extra.globo.com/tv-e-lazer/telinha/segundo-sol-remy-aparece-para-karola-propoe-pacto-contra-laureta-23179232.html" title="Karola se emociona e cede" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Karola se emociona e cede
+        </a></li></ul></div><div class="hui-premium__divider show-for-small-only mutation_widget" style="">&nbsp;</div><div class="hui-premium
+            
+            home-analytics-id-S
+            home-analytics-area
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-entertainment
+            
+        "><a href="https://gshow.globo.com/novelas/o-tempo-nao-para/vem-por-ai/noticia/dom-sabino-tenta-convencer-marocas-a-nao-casar-com-emilio.ghtml" title="Dom Sabino tenta convencer Marocas a não casar em 'Tempo' (Reprodução/TV Globo)" class="hui-premium__link
+            hui-highlight__link
+            
+    "><p class="hui-premium__title">Dom Sabino tenta convencer Marocas a não casar em 'Tempo'</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://kogut.oglobo.globo.com/noticias-da-tv/novelas/noticia/2018/10/o-tempo-nao-para-samuca-descobrira-que-nao-e-o-pai-do-filho-de-waleska.html" title="Samuca ouve que não é o pai" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Samuca ouve que não é o pai
+        </a></li></ul></div><div class="hui-premium__divider show-for-small-only mutation_widget" style="">&nbsp;</div><div class="hui-premium
+            
+            home-analytics-id-S
+            home-analytics-area
+            
+                hui-premium--has-photo
+                clearfix
+            
+            
+                hui-premium--has-related
+                
+            
+                hui-color-entertainment
+            
+        "><a data-video-id="" data-resume-at="" data-short-url="https://gshow.globo.com/novelas/espelho-da-vida/vem-por-ai/noticia/alain-confessa-que-isabel-ainda-o-balanca-e-ela-escuta-tudo.ghtml" data-title="'Espelho': Isabel ouve Alain falar sobre ela" data-img="https://s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" href="https://gshow.globo.com/novelas/espelho-da-vida/vem-por-ai/noticia/alain-confessa-que-isabel-ainda-o-balanca-e-ela-escuta-tudo.ghtml" title="'Espelho': Isabel ouve Alain falar sobre ela (TV Globo)" class="hui-premium__link
+            hui-highlight__link
+            
+                hui-hover-effect__trigger
+            
+    "><picture class="
+            
+                hui-premium__photo-container hui-hover-effect__target
+            
+        "><!--[if IE 9]><video style="display: none;"><![endif]--><source data-media-query="large" srcset="https://s2.glbimg.com/SCwueb0hMjNdq1dJug1TB41ltTA=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" data-srcset="https://s2.glbimg.com/SCwueb0hMjNdq1dJug1TB41ltTA=/206x116/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" media="(min-width: 62.5em) and (max-width: 85.5625em)"><source data-media-query="medium" srcset="https://s2.glbimg.com/X4QJqXqkt94CoC_B3_CbDd5rV_E=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" data-srcset="https://s2.glbimg.com/X4QJqXqkt94CoC_B3_CbDd5rV_E=/186x105/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" media="(min-width: 38.75em) and (max-width: 62.4375em)"><source data-media-query="small" srcset="https://s2.glbimg.com/8HyBDdC9fqsO8jchM_H1nxOLS2o=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" data-srcset="https://s2.glbimg.com/8HyBDdC9fqsO8jchM_H1nxOLS2o=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" media="(max-width: 38.6875em)"><source data-media-query="xlarge" srcset="https://s2.glbimg.com/HuxhyCukNxTdNULjtjy28ds7-_0=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" data-srcset="https://s2.glbimg.com/HuxhyCukNxTdNULjtjy28ds7-_0=/235x133/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" media="(min-width: 85.625em) and (max-width: 99.3125em)"><source data-media-query="xxlarge" srcset="https://s2.glbimg.com/mavkrsLJqAK4NBLO-IrzRNCE_b0=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" data-srcset="https://s2.glbimg.com/mavkrsLJqAK4NBLO-IrzRNCE_b0=/240x135/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg" media="(min-width: 99.375em)"><!--[if IE 9]></video><![endif]--><img class="hui-premium__photo hui-lazy" alt="'Espelho': Isabel ouve Alain falar sobre ela (TV Globo)" title="'Espelho': Isabel ouve Alain falar sobre ela (TV Globo)" src="https://s2.glbimg.com/8HyBDdC9fqsO8jchM_H1nxOLS2o=/267x150/top/smart/filters:strip_icc()/s2.glbimg.com/rVmAtAt0B0fl8HhUUQi8aqXBBrs=/0x38:1147x682/267x150/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2018/Y/R/JPKOnJTuOKAogl6kGzaw/1x.jpg"></picture><p class="hui-premium__title">'Espelho': Isabel ouve Alain falar sobre ela</p></a><ul class="hui-premium__related-container"><li class="hui-premium__related"><a href="https://extra.globo.com/tv-e-lazer/telinha/espelho-da-vida-cris-conhece-outra-vida-de-alain-se-assusta-23179256.html" title="Cris vê a outra vida de Alain" class="hui-highlight__link hui-premium__related-link hui-premium__related-title">
+        
+        Cris vê a outra vida de Alain
+        </a></li></ul></div><div class="hui-premium__divider show-for-small-only mutation_widget" style="">&nbsp;</div></div></div>

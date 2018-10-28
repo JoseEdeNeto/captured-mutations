@@ -1,0 +1,1 @@
+<h3 class="header aria-check-hovered old_mutation"> <div class=" aria-check-hovered old_mutation">Placar <span class="icon-uol aria-check-hovered old_mutation"><em style="" class=" mutation_widget">UOL</em></span></div> </h3>

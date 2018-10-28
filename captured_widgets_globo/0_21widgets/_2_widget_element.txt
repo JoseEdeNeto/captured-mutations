@@ -1,1 +1,0 @@
-<a href="http://globoesporte.globo.com/futebol/" data-menu-id="futebol" class="aria-check-hovered old_mutation active"><span class="titulo">futebol</span></a>

@@ -1,0 +1,1 @@
+<svg class="sltr-icon-save">             <use xlink:href="#svg-flag2"></use>           </svg>

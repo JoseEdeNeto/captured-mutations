@@ -1,0 +1,2 @@
+<span aria-hidden="true" class="nav-line-2 aria-check-hovered old_mutation">Cart<span class="nav-icon nav-arrow"></span>
+    </span>

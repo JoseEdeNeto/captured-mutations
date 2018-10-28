@@ -1,0 +1,101 @@
+<ul class="mmn-list sizer szr-14 no-col aria-check-hovered old_mutation">
+																				<li class="mmn-pnl-title mutation_widget" style=""><span class="mmn-pnl-tit-txt">ar-condicionado e aquecedores</span></li>
+																							<li class="mmn-item mmn-pnl-back mutation_widget" style="">
+																								<a href="#" class="mmn-back mmn-bk-level-3 mutation_widget" style="">
+																									<svg class="mmn-arrow" aria-labelledby="mmn-arw-title" role="img">
+																										<use xlink:href="#bhf_icon-arrow"></use>
+																										<title id="mmn-arw-title">ar-condicionado split inverter</title>
+																									</svg>
+																									Voltar
+																								</a>
+																							</li>
+																						<li class="mmn-item sz sz-1 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/ar-condicionado-split-inverter" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ar-condicionado split inverter
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-2 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/ar-condicionado-split" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ar-condicionado split
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-3 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/ar-condicionado-janela" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ar de janela
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-4 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/ar-condicionado-multi-split" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ar multi split
+																									<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-5 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/ar-condicionado-split-cassete" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ar split cassete
+																									<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-6 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/ar-condicionado-split-piso-teto" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ar split piso teto
+																									<span class="mmn-itm-flag mmn-itm-novo aria-check-hovered old_mutation">Novo</span>
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-7 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/cortina-de-ar" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									cortina de ar
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-8 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/ar-condicionado-portatil" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ar portátil
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-9 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/climatizador-de-ar" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									climatizador
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-10 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/ventilador-e-circulador-de-ar" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									ventiladores
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-11 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/aquecedores-de-ar" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									aquecedores
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-12 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/linha-industrial-comercial" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									linha comercial / industrial
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-13 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/kit-de-instalacao-e-acessorios" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									kit de instalação e acessórios
+																									
+																								</a>
+																						</li>
+																						<li class="mmn-item sz sz-14 aria-check-hovered old_mutation">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores/pecas-de-reposicao" class="mmn-itm-link itm-lnk-level-3 aria-check-hovered old_mutation" tabindex="1">
+																									peças para ar e ventiladores
+																									
+																								</a>
+																						</li>
+																							<li class="mmn-item mmn-pnl-all mutation_widget" style="">
+																								<a href="https://www.americanas.com.br/categoria/ar-condicionado-e-aquecedores" class="mmn-all mmn-all-level-3 mmn-itm-link" tabindex="1">
+																									veja mais ar-condicionado e aquecedores
+																								</a>
+																							</li>
+																			</ul>

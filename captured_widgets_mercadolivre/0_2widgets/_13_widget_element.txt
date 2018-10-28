@@ -1,0 +1,8 @@
+<div class="sb-suggestions old_mutation" role="dialog" id="sb-suggestions-1" aria-hidden="true" style="">
+  <div class="sb-suggestions__wrapper">
+    <ul class="sb-suggestions__list"></ul>
+  </div>
+  <div class="sb-suggestions__wrapper--additional">
+    <ul class="sb-suggestions__list--additional"></ul>
+  </div>
+</div>

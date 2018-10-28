@@ -1,1 +1,1 @@
-<a href="https://globoplay.globo.com/" class="widget-menu__list__link aria-check-hovered old_mutation"><span class="widget-menu__list__link__title aria-check-hovered old_mutation">vídeos</span><span class="widget-menu__arrow"><svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#my-icon"></use></svg></span></a>
+<span class="widget-menu__list__link__title aria-check-hovered old_mutation">ge</span>

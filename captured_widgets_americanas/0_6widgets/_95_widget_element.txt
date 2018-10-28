@@ -1,0 +1,5 @@
+<li class="hdr-bnr-item sz sz-1 aria-check-hovered old_mutation">
+														<a href="https://www.americanas.com.br/hotsite/tabletsamsung?chave=pm_hm_mn_tel_acom_samsung_tablet_2610" class="hdr-bnr-link aria-check-hovered old_mutation" title="Tablets Samsung">
+															<div class="hdr-bnr-image loaded lzy old_mutation aria-check-hovered" title="Tablets Samsung" data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/10/26/samsung-smartwatch-tablet-acom-home-menu-270x540-bOK.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/10/26/samsung-smartwatch-tablet-acom-home-menu-270x540-bOK.png&quot;);"></div>
+														</a>
+													</li>

@@ -1,0 +1,1 @@
+<li class="area-entretenimento border2-p2 old_mutation" data-area="entretenimento" data-active="entretenimento"> <span class="label-ctn bg2-p2"><em class="cor7 label">entretê</em></span> </li>

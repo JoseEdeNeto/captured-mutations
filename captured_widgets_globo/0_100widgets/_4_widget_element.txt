@@ -1,0 +1,3 @@
+<div class="hui-highlight-publieditorial__text-container aria-check-hovered old_mutation"><h4 class="hui-highlight-publieditorial__header hui-color-publieditorial--color hui-color-publieditorial--bg">
+                ESPECIAL PUBLICITÁRIO
+            </h4><p class="hui-highlight-publieditorial__title hui-highlight-title aria-check-hovered old_mutation">Cenários de Segundo Sol são sucesso de projeto Casa de Novela</p></div>

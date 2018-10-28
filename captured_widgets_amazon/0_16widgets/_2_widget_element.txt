@@ -1,0 +1,5 @@
+<script type="text/javascript" style="" class=" old_mutation">
+  if(window.GWI && window.GWI.BillboardWidget){
+    new window.GWI.BillboardWidget('fr527omWUJR4P8GHWBrGug', ['https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2018/img/Launchpad/XCM_Manual_1135105_2018_GW_Billboards_September_440x200_Launchpad_1135105_US_440x200_gps_cn_1535597364-jpg._CB486153901_.jpg']);
+  };
+</script>

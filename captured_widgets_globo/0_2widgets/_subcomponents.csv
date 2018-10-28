@@ -1,6 +1,6 @@
 Widget number,Position X,Position Y,Width,Height,Number of Child Nodes,AverageWidth,AverageHeight,Average posX,Average posY,DeviationWidth, DeviationHeight, DeviationX, DeviationY
-003,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
-015,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+002,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+014,0,0,0,0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
 016,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
 016,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
 016,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,

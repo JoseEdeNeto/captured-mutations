@@ -1,0 +1,1 @@
+<a href="https://economia.uol.com.br/cotacoes/" name="menu-chapeu" data-metrics="sub-1;economia" class="block-title cor2 aria-check-hovered old_mutation">Cotações</a>

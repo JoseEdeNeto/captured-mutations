@@ -1,0 +1,1 @@
+<span class="usr-greeting aria-check-hovered old_mutation"><div class="usr-grt-text aria-check-hovered old_mutation">olá, faça seu login</div></span>

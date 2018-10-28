@@ -1,0 +1,1 @@
+<div class="card-product-image placeholder picture -hover old_mutation"><div><picture><span class="unavailable-image"><svg class="svg-icon svg-icon-lg" aria-labelledby="Imagem indisponível" role="img"><use xlink:href="#icon-image-unavailable"></use><title id="Imagem indisponível">Imagem indisponível</title></svg></span></picture></div></div>

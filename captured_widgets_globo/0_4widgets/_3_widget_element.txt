@@ -1,1 +1,1 @@
-<a id="login-popin-close" href="#" style="" class=" old_mutation"></a>
+<li class="ult old_mutation" style=""><div class="v-separator"></div><a target="_top" href="#" accesskey="e" class="barra-item-servico barra-botao-entrar barra-base-btn" id="barra-item-login"><div class="no-show small">ENTRAR <span class="arrow no-show small">›</span></div><div class="no-show large">ENTRE</div></a></li>

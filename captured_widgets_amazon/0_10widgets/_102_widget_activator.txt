@@ -1,0 +1,323 @@
+<div id="desktop-3" data-gwi="{&quot;visible&quot;:&quot;desktop-3-visible&quot;,&quot;active&quot;:&quot;desktop-3-active&quot;}" class="desktop-row gwi-row gw-widget-instrument celwidget csm-placement-id-8462d160-ff33-4c47-a07c-e8047d75183f aria-check-hovered old_mutation" data-cel-widget="desktop-3">
+
+
+    
+    
+    
+    
+   
+  
+    
+
+
+    
+    
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+    
+
+
+
+
+
+    
+
+    
+ 
+
+
+
+
+
+
+    
+            
+            
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div id="asin-shoveler-ns_XDVXWT59NSAJTBP79TKF_5609_" class="a-section a-spacing-none shogun-widget asin-shoveler aui-desktop fresh-shoveler aria-check-hovered old_mutation">
+  
+
+  <div class="a-section as-title-block">
+  <h2 class="as-title-block-left">
+    <span class="a-color-base">
+      Must have kitchen products
+    </span>
+  </h2>
+  <span class="as-title-block-right">
+    <a aria-label="See more" class="a-link-normal" href="/s/ref=sr_nr_n_10?_encoding=UTF8&amp;bbn=16225011011&amp;fst=as%3Aoff&amp;qid=1526063046&amp;rh=i%3Aspecialty-aps%2Cn%3A%2116225011011%2Cn%3A284507%2Cn%3A289913&amp;rnid=284507&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop">
+  
+  See more
+
+</a>
+  </span>
+
+</div>
+
+
+  
+
+
+
+<div class="a-section feed-carousel aria-check-hovered old_mutation hovering">
+  <div class="a-section feed-carousel-viewport aria-check-hovered old_mutation">
+    <ul class="a-unordered-list a-nostyle a-horizontal feed-carousel-shelf aria-check-hovered old_mutation" role="list">
+      
+  
+   
+
+<li data-sgproduct="{&quot;asin&quot;:&quot;B00TR78QUI&quot;}" class="feed-carousel-card" aria-posinset="1" aria-hidden="false" role="listitem" aria-setsize="15" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/Philips-HD9240-94-Digital-Airfryer/dp/B00TR78QUI/ref=br_asw_pdt-1?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="Philips HD9240/94 Avance XL Digital Airfryer (2.65lb/3.5qt), Black Fryer" src="https://images-na.ssl-images-amazon.com/images/I/41EAXaspe1L._AC_SY200_.jpg" class="product-image" height="200px" title="Philips HD9240/94 Avance XL Digital Airfryer (2.65lb/3.5qt), Black Fryer" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41EAXaspe1L._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B0163K1Z3G&quot;}" class="feed-carousel-card" aria-posinset="2" aria-hidden="false" role="listitem" aria-setsize="15" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/NutriBullet-Pro-13-Piece-High-Speed-Hardcover/dp/B0163K1Z3G/ref=br_asw_pdt-2?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="NutriBullet Pro - 13-Piece High-Speed Blender/Mixer System with Hardcover Recipe Book Included (900 Watts)" src="https://images-na.ssl-images-amazon.com/images/I/41cVtobFMBL._AC_SY200_.jpg" class="product-image" height="200px" title="NutriBullet Pro - 13-Piece High-Speed Blender/Mixer System with Hardcover Recipe Book Included (900 Watts)" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41cVtobFMBL._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B00TQJWF1I&quot;}" class="feed-carousel-card aria-check-hovered old_mutation" aria-posinset="3" aria-hidden="false" role="listitem" aria-setsize="15" style="display: inline-block;"><span class="a-list-item aria-check-hovered old_mutation"><a class="a-link-normal  a-inline-block aria-check-hovered old_mutation" href="/T-fal-Anodized-Cookware-Thermo-Spot-Indicator/dp/B00TQJWF1I/ref=br_asw_pdt-3?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="T-fal Hard Anodized Cookware Set, Nonstick Pots and Pans Set, 17 Piece, Thermo-Spot Heat Indicator,  Gray" src="https://images-na.ssl-images-amazon.com/images/I/51vxkUW6GpL._AC_SY200_.jpg" class="product-image aria-check-hovered old_mutation" height="200px" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/51vxkUW6GpL._AC_SY400_.jpg"></a></span><span id="gw-quick-look-btn" class="a-button a-button-base old_mutation active" style=""><span class="a-button-inner"><input aria-hidden="true" class="a-button-input" type="submit" aria-labelledby="gw-quick-look-btn-announce"><span id="gw-quick-look-btn-announce" class="a-button-text" aria-hidden="true">Quick look</span></span></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B01I46VPNC&quot;}" class="feed-carousel-card" aria-posinset="4" aria-hidden="false" role="listitem" aria-setsize="15" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/Cuisinart-FP-13DGM-Elemental-Processor-Gunmetal/dp/B01I46VPNC/ref=br_asw_pdt-4?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="Cuisinart FP-13DGM Elemental 13 Cup Food Processor and Dicing Kit, Gunmetal" src="https://images-na.ssl-images-amazon.com/images/I/41yAWM17uBL._AC_SY200_.jpg" class="product-image" height="200px" title="Cuisinart FP-13DGM Elemental 13 Cup Food Processor and Dicing Kit, Gunmetal" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41yAWM17uBL._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B073Q9K2H3&quot;}" class="feed-carousel-card" aria-posinset="5" aria-hidden="false" role="listitem" aria-setsize="15" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/AmazonBasics-Enameled-Cast-Iron-Dutch/dp/B073Q9K2H3/ref=br_asw_pdt-5?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="AmazonBasics Enameled Cast Iron Dutch Oven - 6-Quart, Red" src="https://images-na.ssl-images-amazon.com/images/I/414-WdNa%2B7L._AC_SY200_.jpg" class="product-image" height="200px" title="AmazonBasics Enameled Cast Iron Dutch Oven - 6-Quart, Red" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/414-WdNa%2B7L._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B0170TFNXM&quot;}" class="feed-carousel-card" aria-posinset="6" aria-hidden="false" role="listitem" aria-setsize="15" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/All-Clad-Nonstick-Frying-Cookware-Anodized/dp/B0170TFNXM/ref=br_asw_pdt-6?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="All-Clad Nonstick Frying Pans, Cookware Set, 8 Inch Pan and 10 Inch Pan, Hard Anodized, Black" src="https://images-na.ssl-images-amazon.com/images/I/31NejLrlQZL._AC_SY200_.jpg" class="product-image" height="200px" title="All-Clad Nonstick Frying Pans, Cookware Set, 8 Inch Pan and 10 Inch Pan, Hard Anodized, Black" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/31NejLrlQZL._AC_SY300_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B01HHWSV1S&quot;}" class="feed-carousel-card" aria-posinset="7" aria-hidden="false" role="listitem" aria-setsize="15" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/Anova-Culinary-Precision-Bluetooth-Included/dp/B01HHWSV1S/ref=br_asw_pdt-7?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="Anova Culinary Sous Vide Precision Cooker  |  WI-FI + Bluetooth | 900W |  Anova App Included" src="https://images-na.ssl-images-amazon.com/images/I/41s%2BCzlhSAL._AC_SY200_.jpg" class="product-image" height="200px" title="Anova Culinary Sous Vide Precision Cooker  |  WI-FI + Bluetooth | 900W |  Anova App Included" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41s%2BCzlhSAL._AC_SY400_.jpg"></a></span></li>
+
+  
+    <li data-sgproduct="{&quot;asin&quot;:&quot;B00DDXYC6O&quot;}" class="feed-carousel-card" aria-posinset="8" aria-hidden="false" role="listitem" aria-setsize="15" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/Dash-Rapid-Egg-Cooker-Scrambled/dp/B00DDXYC6O/ref=br_asw_pdt-8?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White" src="https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL._AC_SY200_.jpg" class="product-image" height="200px" title="Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B004P2NG0K&quot;}" class="feed-carousel-card" aria-setsize="15" aria-posinset="9" aria-hidden="false" role="listitem" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/Crock-Pot-6-Quart-Programmable-Stainless-SCCPVL610-S/dp/B004P2NG0K/ref=br_asw_pdt-10?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="Crock-Pot 6-Quart Programmable Cook &amp; Carry Slow Cooker with Digital Timer, Stainless Steel , SCCPVL610-S" src="https://images-na.ssl-images-amazon.com/images/I/41lhscGB8XL._AC_SY200_.jpg" class="product-image" height="200px" title="Crock-Pot 6-Quart Programmable Cook &amp; Carry Slow Cooker with Digital Timer, Stainless Steel , SCCPVL610-S" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41lhscGB8XL._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B00T4RH8E6&quot;}" class="feed-carousel-card" aria-setsize="15" aria-posinset="10" aria-hidden="false" role="listitem" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/Hamilton-Beach-76607ZA-Smooth-Opener/dp/B00T4RH8E6/ref=br_asw_pdt-11?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="Hamilton Beach 76607ZA Smooth Touch Can Opener, Black and Chrome" src="https://images-na.ssl-images-amazon.com/images/I/41Bui2zJUvL._AC_SY200_.jpg" class="product-image" height="200px" title="Hamilton Beach 76607ZA Smooth Touch Can Opener, Black and Chrome" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41Bui2zJUvL._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B06XK7GBM6&quot;}" class="feed-carousel-card" aria-setsize="15" aria-posinset="11" aria-hidden="false" role="listitem" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/Breville-BSG600BSS-Panini-Press-Silver/dp/B06XK7GBM6/ref=br_asw_pdt-12?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="Breville BSG600BSS Panini Press, Silver" src="https://images-na.ssl-images-amazon.com/images/I/41itmxvRrwL._AC_SY200_.jpg" class="product-image" height="200px" title="Breville BSG600BSS Panini Press, Silver" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41itmxvRrwL._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B00DDXYC6O&quot;}" class="feed-carousel-card" aria-setsize="15" aria-posinset="12" aria-hidden="false" role="listitem" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/Dash-Rapid-Egg-Cooker-Scrambled/dp/B00DDXYC6O/ref=br_asw_pdt-13?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White" src="https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL._AC_SY200_.jpg" class="product-image" height="200px" title="Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B018UQ5AMS&quot;}" class="feed-carousel-card" aria-setsize="15" aria-posinset="13" aria-hidden="false" role="listitem" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/Keurig-K55-K-Classic-Coffee-Programmable/dp/B018UQ5AMS/ref=br_asw_pdt-14?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="Keurig K55/K-Classic Coffee Maker, K-Cup Pod, Single Serve, Programmable, Black" src="https://images-na.ssl-images-amazon.com/images/I/41zR9OmibVL._AC_SY200_.jpg" class="product-image" height="200px" title="Keurig K55/K-Classic Coffee Maker, K-Cup Pod, Single Serve, Programmable, Black" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41zR9OmibVL._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B001CQTLJM&quot;}" class="feed-carousel-card" aria-setsize="15" aria-posinset="14" aria-hidden="false" role="listitem" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/KitchenIQ-50009-Stage-Knife-Sharpener/dp/B001CQTLJM/ref=br_asw_pdt-15?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="KitchenIQ 50009 Edge Grip 2 Stage Knife Sharpener, Black" src="https://images-na.ssl-images-amazon.com/images/I/41eOky%2BfoEL._AC_SY200_.jpg" class="product-image" height="200px" title="KitchenIQ 50009 Edge Grip 2 Stage Knife Sharpener, Black" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41eOky%2BfoEL._AC_SY400_.jpg"></a></span></li><li data-sgproduct="{&quot;asin&quot;:&quot;B071JM378P&quot;}" class="feed-carousel-card" aria-setsize="15" aria-posinset="15" aria-hidden="false" role="listitem" style="display: inline-block;"><span class="a-list-item"><a class="a-link-normal  a-inline-block" href="/AmazonBasics-5-Cup-Coffeemaker-Glass-Carafe/dp/B071JM378P/ref=br_asw_pdt-16?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=&amp;pf_rd_r=6X5ZK787EGX3Y073R5G6&amp;pf_rd_t=36701&amp;pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&amp;pf_rd_i=desktop"><img alt="AmazonBasics 5-Cup Coffeemaker with Glass Carafe" src="https://images-na.ssl-images-amazon.com/images/I/41haRBcKwSL._AC_SY200_.jpg" class="product-image" height="200px" title="AmazonBasics 5-Cup Coffeemaker with Glass Carafe" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/41haRBcKwSL._AC_SY400_.jpg"></a></span></li></ul>
+    <div class="spinner mutation_widget" aria-hidden="true" style="display: none;">
+      <img width="100" height="100" src="" role="presentation">
+    </div>
+  </div>
+
+  <a class="feed-carousel-control feed-left feed-control-disabled old_mutation" tabindex="-1" href="#" aria-label="Carousel previous slide" aria-hidden="true" style="display: inline;">
+    <span class="gw-icon feed-arrow"></span>
+  </a>
+  <a class="feed-carousel-control feed-right old_mutation" tabindex="-1" href="#" aria-label="Carousel next slide" aria-hidden="true" style="display: inline;">
+    <span class="gw-icon feed-arrow"></span>
+  </a>
+    <span class="feed-scrollbar">
+      <span class="feed-scrollbar-track"><span class="feed-scrollbar-thumb old_mutation" style="width: 597.629px; left: 0px; display: inline;"></span></span>
+    </span>
+</div>
+
+
+</div>
+
+<script type="text/javascript" style="" class=" old_mutation">
+P.when('component-feed-carousel').execute(function(componentFeedCarousel) {
+  componentFeedCarousel.createCarousel("#" + "asin-shoveler-ns_XDVXWT59NSAJTBP79TKF_5609_" + " .feed-carousel", 10, 0);
+});
+</script>
+
+
+<script type="text/javascript" style="" class=" old_mutation">
+P.when("A", "cf").execute(function(A){
+  A.loadDescendantImagesManually(A.$("#asin-shoveler-ns_XDVXWT59NSAJTBP79TKF_5609_"));
+});
+</script>
+
+    
+  
+    <script type="text/javascript" style="" class=" old_mutation">
+  P.when("gw-productdb").execute(function(pdb) {
+    pdb._add({"p":[{"nodeId":null,"images":[{"alt":"Philips HD9240/94 Avance XL Digital Airfryer (2.65lb/3.5qt), Black Fryer","src":"https://images-na.ssl-images-amazon.com/images/I/41EAXaspe1L.jpg","aspect":0}],"byline":"Philips","reviews":{"auiStarClassMedium":"a-star-medium-4","url":"/product-reviews/B00TR78QUI?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":847,"hoverText":"4.3 out of 5 stars","auiStarClass":"a-star-4"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"hkpTPV9HYtzFRZLrU3xsZh8a04ROji9zOzbvk0EpnXvPb79qwJvbGww%2BLlAzwkVb0yrJ6T6dqQu7GbF%2FXdrco56zWvE%2BJW1%2F%2F53MhbNCLTnk6mxSBjI%2FYw%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/Philips-HD9240-94-Digital-Airfryer/dp/B00TR78QUI/ref=br_asw_pdt-1?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B00TR78QUI","title":"Philips HD9240/94 Avance XL Digital Airfryer (2.65lb/3.5qt), Black Fryer","price":"<span class=\"a-color-price\">$299.95</span>","priceOnly":"<span class=\"a-color-price\">$299.95</span>"},{"nodeId":null,"images":[{"alt":"NutriBullet Pro - 13-Piece High-Speed Blender/Mixer System with Hardcover Recipe Book Included (900 Watts)","src":"https://images-na.ssl-images-amazon.com/images/I/41cVtobFMBL.jpg","aspect":0}],"byline":"NutriBullet","reviews":{"auiStarClassMedium":"a-star-medium-4","url":"/product-reviews/B0163K1Z3G?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":3212,"hoverText":"3.9 out of 5 stars","auiStarClass":"a-star-4"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"wf0Zrue%2FuZXqF3En4A%2F3cKwiU%2BPIQ%2F6sAnceW4HwHX8%2BebblYtf4aHAolCJaAm%2FKab%2Bro40sIifCSC8ZkoNBthIwbs0BPx6455ZgRPLIsm4Y3DtsUwrWCA%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/NutriBullet-Pro-13-Piece-High-Speed-Hardcover/dp/B0163K1Z3G/ref=br_asw_pdt-2?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B0163K1Z3G","title":"NutriBullet Pro - 13-Piece High-Speed Blender/Mixer System with Hardcover Recipe Book Included (900 Watts)","price":"<span class=\"a-color-price\">$79.99</span>","priceOnly":"<span class=\"a-color-price\">$79.99</span>"},{"nodeId":null,"images":[{"alt":"T-fal Hard Anodized Cookware Set, Nonstick Pots and Pans Set, 17 Piece, Thermo-Spot Heat Indicator,  Gray","src":"https://images-na.ssl-images-amazon.com/images/I/51vxkUW6GpL.jpg","aspect":0}],"byline":"T-fal","reviews":{"auiStarClassMedium":"a-star-medium-4-5","url":"/product-reviews/B00TQJWF1I?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":3544,"hoverText":"4.4 out of 5 stars","auiStarClass":"a-star-4-5"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"PxX5CX4SrwbbbpnIBxHCzVopbMLDCSDoZRYb3CESGE0vt%2BF7uZcgRxolzjnFLYypYgEkC8ftdhugN%2BT%2BmNxentN4D%2FIpHNCDcpoMv%2Fd70zxkJiuRrMXEdw%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/T-fal-Anodized-Cookware-Thermo-Spot-Indicator/dp/B00TQJWF1I/ref=br_asw_pdt-3?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B00TQJWF1I","title":"T-fal Hard Anodized Cookware Set, Nonstick Pots and Pans Set, 17 Piece, Thermo-Spot Heat Indicator,  Gray","price":"<span class=\"a-color-price\">$174.99</span>","priceOnly":"<span class=\"a-color-price\">$174.99</span>"},{"nodeId":null,"images":[{"alt":"Cuisinart FP-13DGM Elemental 13 Cup Food Processor and Dicing Kit, Gunmetal","src":"https://images-na.ssl-images-amazon.com/images/I/41yAWM17uBL.jpg","aspect":0}],"byline":"Cuisinart","reviews":{"auiStarClassMedium":"a-star-medium-4","url":"/product-reviews/B01I46VPNC?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":133,"hoverText":"3.8 out of 5 stars","auiStarClass":"a-star-4"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"As706zOb3jDtXdl0PnzQe7R5TWb9HrPafnrpT6BI4EswxmhL9nSoXmYiT6Z3k2AEzhsziKOENeMqoy18vb79nKvWCk7%2FIsymUXJeCCA1u%2BWyxCAqPdH%2BBQ%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/Cuisinart-FP-13DGM-Elemental-Processor-Gunmetal/dp/B01I46VPNC/ref=br_asw_pdt-4?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B01I46VPNC","title":"Cuisinart FP-13DGM Elemental 13 Cup Food Processor and Dicing Kit, Gunmetal","price":"<span class=\"a-color-price\">$175.62</span>","priceOnly":"<span class=\"a-color-price\">$175.62</span>"},{"nodeId":null,"images":[{"alt":"AmazonBasics Enameled Cast Iron Dutch Oven - 6-Quart, Red","src":"https://images-na.ssl-images-amazon.com/images/I/414-WdNa%2B7L.jpg","aspect":0}],"byline":"AmazonBasics","reviews":{"auiStarClassMedium":"a-star-medium-4-5","url":"/product-reviews/B073Q9K2H3?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":253,"hoverText":"4.6 out of 5 stars","auiStarClass":"a-star-4-5"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"6KytbLqJhVisM1iFQIw7jEj795mKnEXg7CbU2Q2PAeLkBBi0TexA%2Fd%2BPtI1r8Wccv1v4CW4L1NSc93yuBoYzISGFHqA09hpEFHukapOf8mtSmkSX1tH6Jg%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/AmazonBasics-Enameled-Cast-Iron-Dutch/dp/B073Q9K2H3/ref=br_asw_pdt-5?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B073Q9K2H3","title":"AmazonBasics Enameled Cast Iron Dutch Oven - 6-Quart, Red","price":"<span class=\"a-color-price\">$44.99</span>","priceOnly":"<span class=\"a-color-price\">$44.99</span>"},{"nodeId":null,"images":[{"alt":"All-Clad Nonstick Frying Pans, Cookware Set, 8 Inch Pan and 10 Inch Pan, Hard Anodized, Black","src":"https://images-na.ssl-images-amazon.com/images/I/31NejLrlQZL.jpg","aspect":0}],"byline":"All-Clad","reviews":{"auiStarClassMedium":"a-star-medium-4-5","url":"/product-reviews/B0170TFNXM?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":763,"hoverText":"4.5 out of 5 stars","auiStarClass":"a-star-4-5"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"DFwQdBlsVRlYpYcMIx%2FY5SJlAuKYsLQO571gaUw11Wkcs6FrkAyv3SJeN9N5qC4u%2BIjhRX1%2Bm11uq21VEZncaa%2FapD0clG2%2BBWJFYOPOeiPKroqL5YM6CA%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/All-Clad-Nonstick-Frying-Cookware-Anodized/dp/B0170TFNXM/ref=br_asw_pdt-6?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B0170TFNXM","title":"All-Clad Nonstick Frying Pans, Cookware Set, 8 Inch Pan and 10 Inch Pan, Hard Anodized, Black","price":"<span class=\"a-color-price\">$47.95</span>","priceOnly":"<span class=\"a-color-price\">$47.95</span>"},{"nodeId":null,"images":[{"alt":"Anova Culinary Sous Vide Precision Cooker  |  WI-FI + Bluetooth | 900W |  Anova App Included","src":"https://images-na.ssl-images-amazon.com/images/I/41s%2BCzlhSAL.jpg","aspect":0}],"byline":"Anova Culinary","reviews":{"auiStarClassMedium":"a-star-medium-4","url":"/product-reviews/B01HHWSV1S?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":4425,"hoverText":"4.2 out of 5 stars","auiStarClass":"a-star-4"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"HHO1VnIIPy9KWalBT0Qbz%2FaBEcn8jbDwvNfAZULE7bpmyO1DI%2B1%2Fl3vt5kNNMB7bhMewMtYDl5yOILJ4ly73oWrb%2FReVyP97SfcMZLIkYRANvVDvxo6qeQ%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/Anova-Culinary-Precision-Bluetooth-Included/dp/B01HHWSV1S/ref=br_asw_pdt-7?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B01HHWSV1S","title":"Anova Culinary Sous Vide Precision Cooker  |  WI-FI + Bluetooth | 900W |  Anova App Included","price":"<span class=\"a-color-price\">$129.00</span>","priceOnly":"<span class=\"a-color-price\">$129.00</span>"},{"nodeId":null,"images":[{"alt":"Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White","src":"https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL.jpg","aspect":0}],"byline":"DASH","reviews":{"auiStarClassMedium":"a-star-medium-4-5","url":"/product-reviews/B00DDXYC6O?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":7129,"hoverText":"4.4 out of 5 stars","auiStarClass":"a-star-4-5"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"ntSvUozlOjkziTlHzvr7XyyYwiJkd%2Fuo8bMjFyyJus4svZ1V6xxfSb5xKkOUoSDFQWLHSbLDi06muo9ozZPMa6%2BLSX6WRJEnzUgTx3jJD%2Bo3K6g1u2DC0Q%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/Dash-Rapid-Egg-Cooker-Scrambled/dp/B00DDXYC6O/ref=br_asw_pdt-8?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B00DDXYC6O","title":"Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White","price":"<span class=\"a-color-price\">$19.99</span>","priceOnly":"<span class=\"a-color-price\">$19.99</span>"},{"nodeId":null,"images":[{"alt":"Crock-Pot 6-Quart Programmable Cook & Carry Slow Cooker with Digital Timer, Stainless Steel , SCCPVL610-S","src":"https://images-na.ssl-images-amazon.com/images/I/41lhscGB8XL.jpg","aspect":0}],"byline":"Crock-Pot","reviews":{"auiStarClassMedium":"a-star-medium-4","url":"/product-reviews/B004P2NG0K?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":4899,"hoverText":"4.1 out of 5 stars","auiStarClass":"a-star-4"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"2toPqlxNm4EorC81EfPHEPsEG5yb%2Frq3vM%2BLq%2BGDiPNvznsQgFZE8OV3VVMcL%2BQoDqh%2FVT%2FbAO295rxytv4fJIRE5jaG%2FMYUBcK%2BO0HKC8aZ%2Bx1fvinZOQ%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/Crock-Pot-6-Quart-Programmable-Stainless-SCCPVL610-S/dp/B004P2NG0K/ref=br_asw_pdt-10?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B004P2NG0K","title":"Crock-Pot 6-Quart Programmable Cook & Carry Slow Cooker with Digital Timer, Stainless Steel , SCCPVL610-S","price":"<a class=\"a-link-normal price-breaks-map\" href=\"/gp/product/B004P2NG0K?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\">\n  \n  Click to see price\n\n</a>","priceOnly":"<a class=\"a-link-normal price-breaks-map\" href=\"/gp/product/B004P2NG0K?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\">\n  \n  Click to see price\n\n</a>"},{"nodeId":null,"images":[{"alt":"Hamilton Beach 76607ZA Smooth Touch Can Opener, Black and Chrome","src":"https://images-na.ssl-images-amazon.com/images/I/41Bui2zJUvL.jpg","aspect":0}],"byline":"Hamilton Beach","reviews":{"auiStarClassMedium":"a-star-medium-4-5","url":"/product-reviews/B00T4RH8E6?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":5511,"hoverText":"4.7 out of 5 stars","auiStarClass":"a-star-4-5"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"h8wW9KvK15eI8rffu2bCUKKZhf%2BuWehY8IQ1EMu0Dt359ynVlxYvkpYMQHnneD9hr%2BHaZcZLdLImpD5dVMIIvlIDQaplCnYhUe%2FYMzgEJ0VYOEr0iJqmWA%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/Hamilton-Beach-76607ZA-Smooth-Opener/dp/B00T4RH8E6/ref=br_asw_pdt-11?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B00T4RH8E6","title":"Hamilton Beach 76607ZA Smooth Touch Can Opener, Black and Chrome","price":"<span class=\"a-color-price\">$29.85</span>","priceOnly":"<span class=\"a-color-price\">$29.85</span>"},{"nodeId":null,"images":[{"alt":"Breville BSG600BSS Panini Press, Silver","src":"https://images-na.ssl-images-amazon.com/images/I/41itmxvRrwL.jpg","aspect":0}],"byline":"Breville","reviews":{"auiStarClassMedium":"a-star-medium-4-5","url":"/product-reviews/B06XK7GBM6?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":181,"hoverText":"4.4 out of 5 stars","auiStarClass":"a-star-4-5"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"hkpTPV9HYty%2BgCnOTpjoWRPeqzNJJYY8XyayIulDneXLyqfzb71QDdQPgj20THcru60yIIQAGQuGUbZxol0MQzuiaZPuWSDsAA2WJv28CJGMRtnMIuQI%2Fw%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/Breville-BSG600BSS-Panini-Press-Silver/dp/B06XK7GBM6/ref=br_asw_pdt-12?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B06XK7GBM6","title":"Breville BSG600BSS Panini Press, Silver","price":"<span class=\"a-color-price\">$86.99</span>","priceOnly":"<span class=\"a-color-price\">$86.99</span>"},{"nodeId":null,"images":[{"alt":"Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White","src":"https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL.jpg","aspect":0}],"byline":"DASH","reviews":{"auiStarClassMedium":"a-star-medium-4-5","url":"/product-reviews/B00DDXYC6O?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":7129,"hoverText":"4.4 out of 5 stars","auiStarClass":"a-star-4-5"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"ntSvUozlOjkziTlHzvr7XyyYwiJkd%2Fuo8bMjFyyJus4svZ1V6xxfSb5xKkOUoSDFQWLHSbLDi06muo9ozZPMa6%2BLSX6WRJEnzUgTx3jJD%2Bo3K6g1u2DC0Q%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/Dash-Rapid-Egg-Cooker-Scrambled/dp/B00DDXYC6O/ref=br_asw_pdt-13?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B00DDXYC6O","title":"Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White","price":"<span class=\"a-color-price\">$19.99</span>","priceOnly":"<span class=\"a-color-price\">$19.99</span>"},{"nodeId":null,"images":[{"alt":"Keurig K55/K-Classic Coffee Maker, K-Cup Pod, Single Serve, Programmable, Black","src":"https://images-na.ssl-images-amazon.com/images/I/41zR9OmibVL.jpg","aspect":0}],"byline":"Keurig","reviews":{"auiStarClassMedium":"a-star-medium-4","url":"/product-reviews/B018UQ5AMS?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":7884,"hoverText":"3.8 out of 5 stars","auiStarClass":"a-star-4"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"V1NQH4jjPYuR62bvk9PgkLhUf0%2Bi%2BfBFgEGR7gEnetOzUXWHOT1t11%2BVvJsqCAzaD1SujKVx31d38SWpwHwpGbQAtj1Jy5V6rFkZ7nguIo%2FZxH9GTO5cj%2Bd%2FBoNgpTYRpsw6tntNCqR5wS4LMMp6M7bZgiML12jb"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/Keurig-K55-K-Classic-Coffee-Programmable/dp/B018UQ5AMS/ref=br_asw_pdt-14?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B018UQ5AMS","title":"Keurig K55/K-Classic Coffee Maker, K-Cup Pod, Single Serve, Programmable, Black","price":"<span class=\"a-color-price\">$80.00</span>","priceOnly":"<span class=\"a-color-price\">$80.00</span>"},{"nodeId":null,"images":[{"alt":"KitchenIQ 50009 Edge Grip 2 Stage Knife Sharpener, Black","src":"https://images-na.ssl-images-amazon.com/images/I/41eOky%2BfoEL.jpg","aspect":0}],"byline":"KitchenIQ","reviews":{"auiStarClassMedium":"a-star-medium-4-5","url":"/product-reviews/B001CQTLJM?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":9317,"hoverText":"4.3 out of 5 stars","auiStarClass":"a-star-4-5"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"GO5KRnYSr5GbBSwTYO%2F8Bak45iX03%2BY%2FLWg59p4BonN5ZH0Ru5hFDYqSHvFDZBPdPfBXGg292e5tVilWkMfyXwM%2F2vX2vreQeZGL59B2tP4%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/KitchenIQ-50009-Stage-Knife-Sharpener/dp/B001CQTLJM/ref=br_asw_pdt-15?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B001CQTLJM","title":"KitchenIQ 50009 Edge Grip 2 Stage Knife Sharpener, Black","price":"<span class=\"a-color-price\">$5.00</span>","priceOnly":"<span class=\"a-color-price\">$5.00</span>"},{"nodeId":null,"images":[{"alt":"AmazonBasics 5-Cup Coffeemaker with Glass Carafe","src":"https://images-na.ssl-images-amazon.com/images/I/41haRBcKwSL.jpg","aspect":0}],"byline":"AmazonBasics","reviews":{"auiStarClassMedium":"a-star-medium-4","url":"/product-reviews/B071JM378P?_encoding=UTF8&showViewpoints=1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","numberOfRatings":324,"hoverText":"4.0 out of 5 stars","auiStarClass":"a-star-4"},"isPrime":1,"ppu":"","buyBox":{"canAddToCart":1,"offerListingId":"5jUOuykCPL1uEG%2Bq4zdYZL31yLbSDIjp0SU4ApLJqljP27hK%2FdPycZK1ussQAxtpFnhc1dSYNCRXgj8PcXp%2BtASPaytkVLNXUoMEnRRZMUsKLPfDU92ZQQ%3D%3D"},"addToCart":{"canAddToCart":0},"tds":null,"prime":{},"url":"/AmazonBasics-5-Cup-Coffeemaker-Glass-Carafe/dp/B071JM378P/ref=br_asw_pdt-16?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop","asin":"B071JM378P","title":"AmazonBasics 5-Cup Coffeemaker with Glass Carafe","price":"<span class=\"a-color-price\">$19.99</span>","priceOnly":"<span class=\"a-color-price\">$19.99</span>"}]});
+    if (typeof ue == 'object') {
+      ue.count("freshHoverCount", (ue.count("freshHoverCount") || 0) + 15);
+    }
+  });
+ </script>
+
+
+
+<div cel_widget_id="card-desktop-mso" class="aok-hidden celwidget csm-asin-B00TR78QUI-B0163K1Z3G-B00TQJWF1I-B01I46VPNC-B073Q9K2H3-B0170TFNXM csm-placement-id-8462d160-ff33-4c47-a07c-e8047d75183f old_mutation" data-cel-widget="card-desktop-mso" style="">
+</div>
+
+<script type="text/javascript" style="" class=" old_mutation">
+  window.GWData = window.GWData || {};
+  window.GWData['asin-shoveler-ns_XDVXWT59NSAJTBP79TKF_5609_'] = { loaded: false, data: ["\n   \n\n<li data-sgproduct=\"{&quot;asin&quot;:&quot;B00DDXYC6O&quot;}\" class=\"feed-carousel-card\"><span class=\"a-list-item\"><a class=\"a-link-normal  a-inline-block\" href=\"/Dash-Rapid-Egg-Cooker-Scrambled/dp/B00DDXYC6O/ref=br_asw_pdt-8?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\"><img alt=\"Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White\" src=\"https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL._AC_SY200_.jpg\" class=\"product-image\" height=\"200px\" title=\"Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL._AC_SY400_.jpg\"></a></span></li>\n\n","\n   \n\n<li data-sgproduct=\"{&quot;asin&quot;:&quot;B004P2NG0K&quot;}\" class=\"feed-carousel-card\"><span class=\"a-list-item\"><a class=\"a-link-normal  a-inline-block\" href=\"/Crock-Pot-6-Quart-Programmable-Stainless-SCCPVL610-S/dp/B004P2NG0K/ref=br_asw_pdt-10?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\"><img alt=\"Crock-Pot 6-Quart Programmable Cook &amp; Carry Slow Cooker with Digital Timer, Stainless Steel , SCCPVL610-S\" src=\"https://images-na.ssl-images-amazon.com/images/I/41lhscGB8XL._AC_SY200_.jpg\" class=\"product-image\" height=\"200px\" title=\"Crock-Pot 6-Quart Programmable Cook &amp; Carry Slow Cooker with Digital Timer, Stainless Steel , SCCPVL610-S\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/I/41lhscGB8XL._AC_SY400_.jpg\"></a></span></li>\n\n","\n   \n\n<li data-sgproduct=\"{&quot;asin&quot;:&quot;B00T4RH8E6&quot;}\" class=\"feed-carousel-card\"><span class=\"a-list-item\"><a class=\"a-link-normal  a-inline-block\" href=\"/Hamilton-Beach-76607ZA-Smooth-Opener/dp/B00T4RH8E6/ref=br_asw_pdt-11?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\"><img alt=\"Hamilton Beach 76607ZA Smooth Touch Can Opener, Black and Chrome\" src=\"https://images-na.ssl-images-amazon.com/images/I/41Bui2zJUvL._AC_SY200_.jpg\" class=\"product-image\" height=\"200px\" title=\"Hamilton Beach 76607ZA Smooth Touch Can Opener, Black and Chrome\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/I/41Bui2zJUvL._AC_SY400_.jpg\"></a></span></li>\n\n","\n   \n\n<li data-sgproduct=\"{&quot;asin&quot;:&quot;B06XK7GBM6&quot;}\" class=\"feed-carousel-card\"><span class=\"a-list-item\"><a class=\"a-link-normal  a-inline-block\" href=\"/Breville-BSG600BSS-Panini-Press-Silver/dp/B06XK7GBM6/ref=br_asw_pdt-12?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\"><img alt=\"Breville BSG600BSS Panini Press, Silver\" src=\"https://images-na.ssl-images-amazon.com/images/I/41itmxvRrwL._AC_SY200_.jpg\" class=\"product-image\" height=\"200px\" title=\"Breville BSG600BSS Panini Press, Silver\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/I/41itmxvRrwL._AC_SY400_.jpg\"></a></span></li>\n\n","\n   \n\n<li data-sgproduct=\"{&quot;asin&quot;:&quot;B00DDXYC6O&quot;}\" class=\"feed-carousel-card\"><span class=\"a-list-item\"><a class=\"a-link-normal  a-inline-block\" href=\"/Dash-Rapid-Egg-Cooker-Scrambled/dp/B00DDXYC6O/ref=br_asw_pdt-13?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\"><img alt=\"Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White\" src=\"https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL._AC_SY200_.jpg\" class=\"product-image\" height=\"200px\" title=\"Dash Rapid Egg Cooker: 6 Egg Capacity Electric Egg Cooker for Hard Boiled Eggs, Poached Eggs, Scrambled Eggs, or Omelets with Auto Shut Off Feature - White\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/I/41b2cO9hbqL._AC_SY400_.jpg\"></a></span></li>\n\n","\n   \n\n<li data-sgproduct=\"{&quot;asin&quot;:&quot;B018UQ5AMS&quot;}\" class=\"feed-carousel-card\"><span class=\"a-list-item\"><a class=\"a-link-normal  a-inline-block\" href=\"/Keurig-K55-K-Classic-Coffee-Programmable/dp/B018UQ5AMS/ref=br_asw_pdt-14?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\"><img alt=\"Keurig K55/K-Classic Coffee Maker, K-Cup Pod, Single Serve, Programmable, Black\" src=\"https://images-na.ssl-images-amazon.com/images/I/41zR9OmibVL._AC_SY200_.jpg\" class=\"product-image\" height=\"200px\" title=\"Keurig K55/K-Classic Coffee Maker, K-Cup Pod, Single Serve, Programmable, Black\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/I/41zR9OmibVL._AC_SY400_.jpg\"></a></span></li>\n\n","\n   \n\n<li data-sgproduct=\"{&quot;asin&quot;:&quot;B001CQTLJM&quot;}\" class=\"feed-carousel-card\"><span class=\"a-list-item\"><a class=\"a-link-normal  a-inline-block\" href=\"/KitchenIQ-50009-Stage-Knife-Sharpener/dp/B001CQTLJM/ref=br_asw_pdt-15?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\"><img alt=\"KitchenIQ 50009 Edge Grip 2 Stage Knife Sharpener, Black\" src=\"https://images-na.ssl-images-amazon.com/images/I/41eOky%2BfoEL._AC_SY200_.jpg\" class=\"product-image\" height=\"200px\" title=\"KitchenIQ 50009 Edge Grip 2 Stage Knife Sharpener, Black\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/I/41eOky%2BfoEL._AC_SY400_.jpg\"></a></span></li>\n\n","\n   \n\n<li data-sgproduct=\"{&quot;asin&quot;:&quot;B071JM378P&quot;}\" class=\"feed-carousel-card\"><span class=\"a-list-item\"><a class=\"a-link-normal  a-inline-block\" href=\"/AmazonBasics-5-Cup-Coffeemaker-Glass-Carafe/dp/B071JM378P/ref=br_asw_pdt-16?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=6X5ZK787EGX3Y073R5G6&pf_rd_t=36701&pf_rd_p=8462d160-ff33-4c47-a07c-e8047d75183f&pf_rd_i=desktop\"><img alt=\"AmazonBasics 5-Cup Coffeemaker with Glass Carafe\" src=\"https://images-na.ssl-images-amazon.com/images/I/41haRBcKwSL._AC_SY200_.jpg\" class=\"product-image\" height=\"200px\" title=\"AmazonBasics 5-Cup Coffeemaker with Glass Carafe\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/I/41haRBcKwSL._AC_SY400_.jpg\"></a></span></li>\n\n"] };
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>

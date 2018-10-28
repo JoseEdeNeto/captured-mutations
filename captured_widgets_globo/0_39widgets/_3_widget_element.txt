@@ -1,1 +1,1 @@
-<span class="titulo aria-check-hovered old_mutation">globoplay</span>
+<span class="titulo aria-check-hovered old_mutation">globoesporte.com</span>

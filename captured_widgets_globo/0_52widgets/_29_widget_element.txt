@@ -1,1 +1,0 @@
-<div class="widget-economia__datetime-container aria-check-hovered old_mutation">atualizado <span class="datetime aria-check-hovered old_mutation">18/10 13h46</span></div>

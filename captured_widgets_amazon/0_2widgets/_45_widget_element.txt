@@ -1,0 +1,45 @@
+<div id="nav-tools" class=" aria-check-hovered old_mutation">
+          
+          
+          
+          
+  <a href="/gp/customer-preferences/select-language/ref=topnav_lang?preferencesReturnUrl=%2F" id="icp-nav-flyout" class="nav-a nav-a-2 icp-link-style-2">
+    <span class="icp-nav-link-inner">
+      <span class="nav-line-1">
+        <span class="icp-nav-globe-img-2"></span>
+        <span class="icp-nav-language">EN</span>
+      </span>
+      <span class="nav-line-2">&nbsp;
+        <span class="nav-icon nav-arrow" style="visibility: visible;"></span>
+      </span>
+    </span>
+    <span class="icp-nav-link-border"></span>
+  </a>
+
+          
+<a href="https://www.amazon.com/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.assoc_handle=usflex&amp;openid.mode=checkid_setup&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;&amp;openid.pape.max_auth_age=0" class="nav-a nav-a-2 aria-check-hovered old_mutation nav-active" data-nav-ref="nav_ya_signin" data-nav-role="signin" data-ux-jq-mouseenter="true" id="nav-link-accountList" tabindex="61">
+  <span class="nav-line-1">Hello. Sign in</span>
+  <span class="nav-line-2">Account &amp; Lists<span class="nav-icon nav-arrow" style="visibility: visible;"></span>
+  </span>
+  <span class="nav-line-3 mutation_widget" style="">Sign in</span>
+  <span class="nav-line-4 mutation_widget" style="">Account &amp; Lists</span>
+</a>
+
+          
+<a href="/gp/css/order-history?ref=nav_orders_first" class="nav-a nav-a-2 nav-single-row-link" id="nav-orders" tabindex="63">
+  <span class="nav-line-1"></span>
+  <span class="nav-line-2">Orders</span>
+</a>
+
+          
+          
+          
+  <a href="/gp/cart/view.html?ref=nav_cart" aria-label="0 items in cart" class="nav-a nav-a-2" id="nav-cart" tabindex="65">
+    <span aria-hidden="true" class="nav-line-1"></span>
+    <span aria-hidden="true" class="nav-line-2">Cart<span class="nav-icon nav-arrow"></span>
+    </span>
+    <span class="nav-cart-icon nav-sprite"></span>
+    <span id="nav-cart-count" aria-hidden="true" class="nav-cart-count nav-cart-0">0</span>
+  </a>
+
+        </div>

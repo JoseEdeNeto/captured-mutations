@@ -1,0 +1,1 @@
+<span class="price-tag-symbol aria-check-hovered old_mutation" itemprop="priceCurrency" content="BRL">R$</span>

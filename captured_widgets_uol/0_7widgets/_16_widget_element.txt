@@ -1,0 +1,1 @@
+<a name="menu-sub" data-metrics="sub-4;entretenimento" href="https://entretenimento.uol.com.br/geek/" class="cor2-hover cor-transition aria-check-hovered old_mutation"> <strong class="hover-inherit aria-check-hovered old_mutation">Geek</strong> </a>

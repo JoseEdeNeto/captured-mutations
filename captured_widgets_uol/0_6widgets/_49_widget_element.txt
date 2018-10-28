@@ -1,0 +1,1 @@
+<li class=" aria-check-hovered old_mutation"> <a name="menu-sub-vitrine" title="Bolsas de Valores" data-metrics="sub-4;economia" href="http://economia.uol.com.br/cotacoes/bolsas/" class="opacity80 cor-transition aria-check-hovered old_mutation"> - Bolsas de Valores </a> </li>

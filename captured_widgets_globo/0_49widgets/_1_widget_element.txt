@@ -1,1 +1,1 @@
-<h2 class="hui-columns__title hui-section-title show-for-small-only old_mutation" style="">notícias</h2>
+<a href="http://globoesporte.globo.com/eventos/futsal/" class=" aria-check-hovered old_mutation"><span class="titulo aria-check-hovered old_mutation">Futsal</span></a>

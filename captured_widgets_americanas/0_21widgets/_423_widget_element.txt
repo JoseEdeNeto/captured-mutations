@@ -1,0 +1,1 @@
+<div class="card-product-price text-highlight-1 aria-check-hovered old_mutation"><span content="BRL" class="value aria-check-hovered old_mutation">R$</span>&nbsp;<span class="value aria-check-hovered old_mutation">1.135,32</span><svg class="svg-icon svg-prime svg-icon-md" aria-labelledby="" role="img"><use xlink:href="#icon-prime"></use></svg></div>

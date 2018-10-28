@@ -1,0 +1,7 @@
+<ul class="header-banner sizer szr-1 aria-check-hovered old_mutation" data-pos="x79">
+													<li class="hdr-bnr-item sz sz-1 aria-check-hovered old_mutation">
+														<a href="https://www.americanas.com.br/hotsite/samsungqled?chave=pm_hm_mn_tvs_acom_samsung_qled_221018" class="hdr-bnr-link aria-check-hovered old_mutation" title="Nova TV Samsung Qled, a única que desaparece quando é desligada.">
+															<div class="hdr-bnr-image loaded lzy old_mutation aria-check-hovered" title="Nova TV Samsung Qled, a única que desaparece quando é desligada." data-style="background-image: url('https://images-americanas.b2w.io/spacey/2018/10/19/samsung-qled-lancamento-acom-home-menu-270x540.png')" style="background-image: url(&quot;https://images-americanas.b2w.io/spacey/2018/10/19/samsung-qled-lancamento-acom-home-menu-270x540.png&quot;);"></div>
+														</a>
+													</li>
+												</ul>

@@ -1,0 +1,5 @@
+<h2 class="as-title-block-left aria-check-hovered old_mutation">
+    <span class="a-color-base aria-check-hovered old_mutation">
+      Explore top toys &amp; games
+    </span>
+  </h2>

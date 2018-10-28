@@ -1,3 +1,1 @@
-<span class="titulo aria-check-hovered old_mutation">
-                                            top páginas
-                                        </span>
+<div class="hui-premium__divider column show-for-small-only old_mutation" style="">&nbsp;</div>

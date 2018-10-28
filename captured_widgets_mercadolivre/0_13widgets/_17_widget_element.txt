@@ -1,0 +1,1 @@
+<span class="ui-item__installments aria-check-hovered old_mutation">12x R$ 14,16 sem juros</span>

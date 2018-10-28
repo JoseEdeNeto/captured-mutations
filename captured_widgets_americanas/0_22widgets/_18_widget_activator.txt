@@ -1,0 +1,1 @@
+<div class="panel-footer"><button type="button" class="visible-xs btn-expand btn btn-link old_mutation" style=""><svg class="svg-icon-xs" aria-labelledby="" role="img"><use xlink:href="#icon-down"></use></svg>Veja mais</button></div>

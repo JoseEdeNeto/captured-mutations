@@ -1,0 +1,1 @@
+<p class="a-spacing-top-mini a-size-base description truncate-2line aria-check-hovered old_mutation">Explore your favorite brands</p>

@@ -1,0 +1,1 @@
+<input autocomplete="on" type="hidden" class="a-carousel-firstvisibleitem old_mutation" value="1" style="">

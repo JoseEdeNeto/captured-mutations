@@ -1,0 +1,1 @@
+<a class="category aria-check-hovered old_mutation" href="https://home.mercadolivre.com.br/ferramentas-construcao/#c_id=/home/categories/element&amp;c_category_id=MLB263532"><div class="icon"><svg class="nc-icon"><use xlink:href="#nc-settings-tool-67"></use></svg></div><p class=" aria-check-hovered old_mutation">Ferramentas e Construção</p></a>

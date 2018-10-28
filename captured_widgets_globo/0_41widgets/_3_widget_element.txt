@@ -1,4 +1,0 @@
-<ul class="hui-premium__related-container aria-check-hovered old_mutation"><li class="hui-premium__related aria-check-hovered old_mutation"><a href="https://oglobo.globo.com/fato-ou-fake/veja-que-fato-ou-fake-nas-falas-dos-candidatos-ao-governo-do-rj-no-debate-de-globo-extra-epoca-23163819" title="Veja fato ou fake do debate de Witzel e Paes" class="hui-highlight__link hui-premium__related-link hui-premium__related-title aria-check-hovered old_mutation">
-        
-        Veja fato ou fake do debate de Witzel e Paes
-        </a></li></ul>

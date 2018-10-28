@@ -1,1 +1,1 @@
-<a href="#gemeos" class="widgetHoroscopoMenu-signs aria-check-hovered old_mutation" data-sign_slug="gemeos"><svg class="widget-horoscopo__footer-sign" xmlns="http://www.w3.org/2000/svg"><use class="widget-horoscopo__footer-svg" xlink:href="#widget-horoscopo__gemeos"></use></svg></a>
+<li class=" has-children aria-check-hovered old_mutation"><a data-menu-id="casa-e-decoracao" class="aria-check-hovered old_mutation active"><span class="titulo aria-check-hovered old_mutation">casa e decoração</span></a></li>

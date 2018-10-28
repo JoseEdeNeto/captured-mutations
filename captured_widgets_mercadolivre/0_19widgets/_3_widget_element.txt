@@ -1,0 +1,1 @@
+<a class="category aria-check-hovered old_mutation" href="https://www.mercadolivre.com.br/veiculos/#c_id=/home/categories/element&amp;c_category_id=MLB1743"><div class="icon"><svg class="nc-icon"><use xlink:href="#nc-car-front"></use></svg></div><p class=" aria-check-hovered old_mutation">Carros, Motos e Outros</p></a>

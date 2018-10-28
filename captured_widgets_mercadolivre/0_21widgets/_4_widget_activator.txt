@@ -1,0 +1,1 @@
+<div class="icon"><svg class="nc-icon"><use xlink:href="#nc-bear-2"></use></svg></div>
